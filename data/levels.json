@@ -7,9 +7,9 @@
       "data": "data/a1/a1_all.json"
     },
     "A2": {
-      "enabled": false,
+      "enabled": true,
       "label": "A2",
-      "comingSoon": "Coming soon."
+      "data": "data/a2/a2_all.json"
     },
     "B1": {
       "enabled": false,

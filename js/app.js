@@ -62,6 +62,7 @@ const state = {
   config: null,
   levelKey: "A1",
   entries: [],
+  datasets: {},
   history: loadLearningHistory(),
   session: null,
   lastSessionBlueprint: null,
@@ -99,6 +100,19 @@ function sessionLabel(mode, totalQuestions) {
   return `${totalQuestions} questions`;
 }
 
+async function loadLevelDataset(levelKey) {
+  if (state.datasets[levelKey]) return state.datasets[levelKey];
+  const level = state.config?.levels?.[levelKey];
+  if (!level?.enabled || !level.data) throw new Error(`The ${levelKey} level is not configured.`);
+  const response = await fetch(level.data, { cache: "no-store" });
+  if (!response.ok) throw new Error(`Could not load the ${levelKey} vocabulary (${response.status}).`);
+  const result = validateDataset(await response.json());
+  result.errors.forEach((message) => console.warn(`[${levelKey} data validation] ${message}`));
+  if (!result.entries.length) throw new Error(`No valid ${levelKey} vocabulary entries remain after validation.`);
+  state.datasets[levelKey] = result.entries;
+  return result.entries;
+}
+
 async function loadLevelConfig() {
   try {
     const configResponse = await fetch("data/levels.json", { cache: "no-store" });
@@ -106,20 +120,13 @@ async function loadLevelConfig() {
     state.config = await configResponse.json();
     renderLevels();
 
-    const level = state.config.levels?.[state.levelKey];
-    if (!level?.enabled || !level.data) throw new Error("The enabled A1 level is not configured.");
-    const dataResponse = await fetch(level.data, { cache: "no-store" });
-    if (!dataResponse.ok) throw new Error(`Could not load the A1 vocabulary (${dataResponse.status}).`);
-    const rawDataset = await dataResponse.json();
-    const result = validateDataset(rawDataset);
-    result.errors.forEach((message) => console.warn(`[A1 data validation] ${message}`));
-    state.entries = result.entries;
-    if (!state.entries.length) throw new Error("No valid A1 vocabulary entries remain after validation.");
-    ui.selectedLevelCount.textContent = `${state.entries.length} cards ready`;
+    state.levelKey = state.config.defaultLevel || "A1";
+    state.entries = await loadLevelDataset(state.levelKey);
+    updateSelectedLevelCount();
     clearDataError();
     updateHistoryNote();
   } catch (error) {
-    console.error("A1 vocabulary loading failed.", error);
+    console.error("Vocabulary loading failed.", error);
     showDataError(`${error.message} Try running the site through a local static server.`);
   }
 }
@@ -162,13 +169,20 @@ function updateSelectedLevelCount() {
   }
 }
 
-function openSessionSelection(levelKey) {
-  if (levelKey !== "A1" || !state.entries.length) return;
-  state.levelKey = levelKey;
-  ui.selectedLevel.textContent = levelKey;
-  updateSelectedLevelCount();
-  showView(ui.session);
-  document.querySelector("#session-size-20").focus();
+async function openSessionSelection(levelKey) {
+  try {
+    const entries = await loadLevelDataset(levelKey);
+    state.levelKey = levelKey;
+    state.entries = entries;
+    ui.selectedLevel.textContent = levelKey;
+    updateSelectedLevelCount();
+    clearDataError();
+    showView(ui.session);
+    document.querySelector("#session-size-20").focus();
+  } catch (error) {
+    console.error(`${levelKey} vocabulary loading failed.`, error);
+    showDataError(`${error.message} Try running the site through a local static server.`);
+  }
 }
 
 function selectedSession() {
