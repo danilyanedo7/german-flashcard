@@ -1,0 +1,265 @@
+[
+  {
+    "id": "a2_0572",
+    "german": "das Erdgeschoss",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Erdgeschosse",
+    "english": "ground floor",
+    "accepted_answers": [
+      "ground floor"
+    ],
+    "example_de": "Ich wohne im Erdgeschoss.",
+    "example_en": "I live on the ground floor.",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0573",
+    "german": "das Fenster",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Fenster",
+    "english": "window",
+    "accepted_answers": [
+      "window"
+    ],
+    "example_de": "Kannst du bitte das Fenster öffnen?",
+    "example_en": "Can you please open the window?",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0574",
+    "german": "das Geschirr",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "dishes",
+    "accepted_answers": [
+      "dishes",
+      "crockery"
+    ],
+    "example_de": "Stellst du bitte das Geschirr in den Schrank?",
+    "example_en": "Could you please put the dishes in the cupboard?",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0575",
+    "german": "das Schlafzimmer",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Schlafzimmer",
+    "english": "bedroom",
+    "accepted_answers": [
+      "bedroom"
+    ],
+    "example_de": "Hier ist das Schlafzimmer.",
+    "example_en": "Here is the bedroom.",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0576",
+    "german": "das Wohnzimmer",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Wohnzimmer",
+    "english": "living room",
+    "accepted_answers": [
+      "living room"
+    ],
+    "example_de": "Die Kinder sitzen im Wohnzimmer und sehen fern.",
+    "example_en": "The children sit in the living room and watch TV.",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0577",
+    "german": "der Haushalt",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Haushalte",
+    "english": "household",
+    "accepted_answers": [
+      "household"
+    ],
+    "example_de": "Meine Frau und ich machen den Haushalt zusammen.",
+    "example_en": "My wife and I share the housework.",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0578",
+    "german": "der Keller",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Keller",
+    "english": "cellar",
+    "accepted_answers": [
+      "cellar",
+      "basement"
+    ],
+    "example_de": "Bitte bring die Kartoffeln in den Keller!",
+    "example_en": "Please bring the potatoes to the cellar!",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0579",
+    "german": "der Müll",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "rubbish",
+    "accepted_answers": [
+      "rubbish",
+      "trash",
+      "garbage"
+    ],
+    "example_de": "Bringst du bitte den Müll raus?",
+    "example_en": "Will you bring the garbage out?",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0580",
+    "german": "die Garage",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Garagen",
+    "english": "garage",
+    "accepted_answers": [
+      "garage"
+    ],
+    "example_de": "Hier ist eine Garage für dein Auto.",
+    "example_en": "Here is a garage for your car.",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0581",
+    "german": "die Heizung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Heizungen",
+    "english": "heating",
+    "accepted_answers": [
+      "heating",
+      "heater"
+    ],
+    "example_de": "Es ist kalt. Ist die Heizung kaputt?",
+    "example_en": "It is cold. Is the heater broken?",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0582",
+    "german": "die Lampe",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Lampen",
+    "english": "lamp",
+    "accepted_answers": [
+      "lamp"
+    ],
+    "example_de": "Mach bitte die Lampe an. Es ist so dunkel.",
+    "example_en": "Please turn on the lamp. It is so dark.",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0583",
+    "german": "die Vermieterin",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Vermieterinnen",
+    "english": "landlady",
+    "accepted_answers": [
+      "landlady"
+    ],
+    "example_de": "Unsere Vermieterin ist schon sehr alt.",
+    "example_en": "Our landlady is already very old.",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0584",
+    "german": "die Waschmaschine",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Waschmaschinen",
+    "english": "washing machine",
+    "accepted_answers": [
+      "washing machine"
+    ],
+    "example_de": "Die Waschmaschine ist kaputt.",
+    "example_en": "The washing machine is broken.",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0585",
+    "german": "der Spiegel",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Spiegel",
+    "english": "mirror",
+    "accepted_answers": [
+      "mirror"
+    ],
+    "example_de": "Der Spiegel hängt im Bad.",
+    "example_en": "The mirror hangs in the bathroom.",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0586",
+    "german": "der Teppich",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Teppiche",
+    "english": "carpet",
+    "accepted_answers": [
+      "carpet",
+      "rug"
+    ],
+    "example_de": "Der Teppich im Wohnzimmer ist neu.",
+    "example_en": "The carpet in the living room is new.",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0587",
+    "german": "der Flur",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Flure",
+    "english": "hallway",
+    "accepted_answers": [
+      "hallway",
+      "corridor"
+    ],
+    "example_de": "Die Jacken hängen im Flur.",
+    "example_en": "The jackets are hanging in the hallway.",
+    "topic": "home",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  }
+]

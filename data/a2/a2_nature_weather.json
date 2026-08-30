@@ -1,0 +1,213 @@
+[
+  {
+    "id": "a2_0608",
+    "german": "das Frühjahr",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Frühjahre",
+    "english": "spring",
+    "accepted_answers": [
+      "spring",
+      "springtime"
+    ],
+    "example_de": "Im Frühjahr wird es wieder wärmer.",
+    "example_en": "It gets warmer again in spring.",
+    "topic": "nature_weather",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0609",
+    "german": "das Gewitter",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Gewitter",
+    "english": "thunderstorm",
+    "accepted_answers": [
+      "thunderstorm"
+    ],
+    "example_de": "Ich glaube, es gibt heute ein Gewitter.",
+    "example_en": "I think there is a thunderstorm today.",
+    "topic": "nature_weather",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0610",
+    "german": "der Berg",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Berge",
+    "english": "mountain",
+    "accepted_answers": [
+      "mountain"
+    ],
+    "example_de": "Die Zugspitze ist der höchste Berg in Deutschland.",
+    "example_en": "The Zugspitze is the highest mountain in Germany.",
+    "topic": "nature_weather",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0611",
+    "german": "der Fluss",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Flüsse",
+    "english": "river",
+    "accepted_answers": [
+      "river"
+    ],
+    "example_de": "Der Rhein ist ein großer Fluss.",
+    "example_en": "The Rhine is a large river.",
+    "topic": "nature_weather",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0612",
+    "german": "der Himmel",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "sky",
+    "accepted_answers": [
+      "sky",
+      "heaven"
+    ],
+    "example_de": "Heute ist tolles Wetter: Der Himmel ist blau und es gibt keine Wolken.",
+    "example_en": "The weather is wonderful today: the sky is blue and there are no clouds.",
+    "topic": "nature_weather",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0613",
+    "german": "der Schnee",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "snow",
+    "accepted_answers": [
+      "snow"
+    ],
+    "example_de": "In den Bergen liegt viel Schnee.",
+    "example_en": "There is a lot of snow in the mountains.",
+    "topic": "nature_weather",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0614",
+    "german": "der Wald",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Wälder",
+    "english": "forest",
+    "accepted_answers": [
+      "forest",
+      "woods"
+    ],
+    "example_de": "Im Wald ist es ruhig.",
+    "example_en": "In the forest it is quiet.",
+    "topic": "nature_weather",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0615",
+    "german": "die Insel",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Inseln",
+    "english": "island",
+    "accepted_answers": [
+      "island"
+    ],
+    "example_de": "Ich möchte im Sommer auf einer Insel Urlaub machen.",
+    "example_en": "We are taking a vacation on an island this summer.",
+    "topic": "nature_weather",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0616",
+    "german": "die Jugendherberge",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Jugendherbergen",
+    "english": "youth hostel",
+    "accepted_answers": [
+      "youth hostel"
+    ],
+    "example_de": "Wir übernachten in einer Jugendherberge.",
+    "example_en": "We stay in a youth hostel.",
+    "topic": "nature_weather",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0617",
+    "german": "die Landschaft",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Landschaften",
+    "english": "landscape",
+    "accepted_answers": [
+      "landscape"
+    ],
+    "example_de": "Die Landschaft ist sehr schön.",
+    "example_en": "The landscape is very beautiful.",
+    "topic": "nature_weather",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0618",
+    "german": "die Natur",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "nature",
+    "accepted_answers": [
+      "nature"
+    ],
+    "example_de": "Ich bin gern draußen in der Natur.",
+    "example_en": "I like to be outdoors in nature.",
+    "topic": "nature_weather",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0619",
+    "german": "die Pflanze",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Pflanzen",
+    "english": "plant",
+    "accepted_answers": [
+      "plant"
+    ],
+    "example_de": "Können Sie sich bitte um unsere Pflanzen kümmern? Wir sind nächste Woche im Urlaub.",
+    "example_en": "We will be on vacation next week. Can you water the plants?",
+    "topic": "nature_weather",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0620",
+    "german": "die Wolke",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Wolken",
+    "english": "cloud",
+    "accepted_answers": [
+      "cloud"
+    ],
+    "example_de": "Heute gibt es viele Wolken.",
+    "example_en": "Today there are many clouds.",
+    "topic": "nature_weather",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  }
+]

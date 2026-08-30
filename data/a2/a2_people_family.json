@@ -1,0 +1,247 @@
+[
+  {
+    "id": "a2_0621",
+    "german": "der Cousin",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Cousins",
+    "english": "cousin",
+    "accepted_answers": [
+      "cousin"
+    ],
+    "example_de": "Mein Cousin wohnt in Berlin.",
+    "example_en": "My cousin lives in Berlin.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0622",
+    "german": "der Ehepartner",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Ehepartner",
+    "english": "spouse",
+    "accepted_answers": [
+      "spouse"
+    ],
+    "example_de": "Das ist mein Ehepartner.",
+    "example_en": "This is my spouse.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0623",
+    "german": "der Enkel",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Enkel",
+    "english": "grandson",
+    "accepted_answers": [
+      "grandson",
+      "grandchild"
+    ],
+    "example_de": "Mein Enkel geht schon zur Schule.",
+    "example_en": "My grandson already goes to school.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0624",
+    "german": "der Luxemburger / die Luxemburgerin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Luxemburger / die Luxemburgerinnen",
+    "english": "Luxembourger",
+    "accepted_answers": [
+      "Luxembourger",
+      "person from Luxembourg"
+    ],
+    "example_de": "Die Luxemburgerin spricht Deutsch.",
+    "example_en": "The Luxembourger speaks German.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0625",
+    "german": "der Nachbar",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Nachbarn",
+    "english": "neighbor",
+    "accepted_answers": [
+      "neighbor",
+      "male neighbor"
+    ],
+    "example_de": "Mein Nachbar kommt aus Brasilien.",
+    "example_en": "My neighbor comes from Brazil.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0626",
+    "german": "der Onkel",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Onkel",
+    "english": "uncle",
+    "accepted_answers": [
+      "uncle"
+    ],
+    "example_de": "Mein Onkel wohnt in Hamburg.",
+    "example_en": "My uncle lives in Hamburg.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0627",
+    "german": "der Schweizer / die Schweizerin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Schweizer / die Schweizerinnen",
+    "english": "Swiss person",
+    "accepted_answers": [
+      "Swiss person",
+      "Swiss"
+    ],
+    "example_de": "Die Schweizerin kommt aus Bern.",
+    "example_en": "The Swiss woman is from Bern.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0628",
+    "german": "der Österreicher / die Österreicherin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Österreicher / die Österreicherinnen",
+    "english": "Austrian",
+    "accepted_answers": [
+      "Austrian"
+    ],
+    "example_de": "Die Österreicherin kommt aus Wien.",
+    "example_en": "The Austrian is from Vienna.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0629",
+    "german": "die Cousine",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Cousinen",
+    "english": "cousin",
+    "accepted_answers": [
+      "cousin"
+    ],
+    "example_de": "Meine Cousine besucht uns am Wochenende.",
+    "example_en": "My cousin is visiting us this weekend.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0630",
+    "german": "die Enkelin",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Enkelinnen",
+    "english": "granddaughter",
+    "accepted_answers": [
+      "granddaughter"
+    ],
+    "example_de": "Meine Enkelin ist sechs Jahre alt.",
+    "example_en": "My granddaughter is six years old.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0631",
+    "german": "die Nachbarin",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Nachbarinnen",
+    "english": "neighbor",
+    "accepted_answers": [
+      "neighbor",
+      "female neighbor"
+    ],
+    "example_de": "Meine Nachbarin ist Italienerin.",
+    "example_en": "My neighbor is an Italian.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0632",
+    "german": "die Person",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Personen",
+    "english": "person",
+    "accepted_answers": [
+      "person"
+    ],
+    "example_de": "Eintritt pro Person: 5 Euro.",
+    "example_en": "Admission is five euros per person.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0633",
+    "german": "die Tante",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Tanten",
+    "english": "aunt",
+    "accepted_answers": [
+      "aunt"
+    ],
+    "example_de": "Meine Tante besucht uns am Sonntag.",
+    "example_en": "My aunt is visiting us on Sunday.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0634",
+    "german": "geschieden",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "divorced",
+    "accepted_answers": [
+      "divorced"
+    ],
+    "example_de": "Er ist seit zwei Jahren geschieden.",
+    "example_en": "He has been divorced for two years.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0635",
+    "german": "getrennt",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "separated",
+    "accepted_answers": [
+      "separated"
+    ],
+    "example_de": "Meine Eltern leben getrennt.",
+    "example_en": "My parents are separated.",
+    "topic": "people_family",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  }
+]

@@ -1,0 +1,874 @@
+[
+  {
+    "id": "a2_0721",
+    "german": "die Ausbildung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Ausbildungen",
+    "english": "vocational training",
+    "accepted_answers": [
+      "vocational training",
+      "training",
+      "apprenticeship"
+    ],
+    "example_de": "Ich möchte eine Ausbildung zum Krankenpfleger machen.",
+    "example_en": "I would like to train as a nurse.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0722",
+    "german": "das Abitur",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "school-leaving qualification",
+    "accepted_answers": [
+      "school-leaving qualification",
+      "Abitur",
+      "high school diploma"
+    ],
+    "example_de": "Sie macht nächstes Jahr ihr Abitur.",
+    "example_en": "She will complete her school-leaving qualification next year.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0723",
+    "german": "das Blatt",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Blätter",
+    "english": "leaf",
+    "accepted_answers": [
+      "leaf",
+      "sheet",
+      "piece of paper"
+    ],
+    "example_de": "Haben Sie ein Blatt Papier für mich?",
+    "example_en": "Do you have a piece of paper for me?",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0724",
+    "german": "das Büro",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Büros",
+    "english": "office",
+    "accepted_answers": [
+      "office"
+    ],
+    "example_de": "Ich arbeite in einem Büro.",
+    "example_en": "I work in an office.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0725",
+    "german": "das Englisch",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "English",
+    "accepted_answers": [
+      "English"
+    ],
+    "example_de": "Mein Englisch ist noch nicht sehr gut.",
+    "example_en": "My English is not very good yet.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0726",
+    "german": "das Fach",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Fächer",
+    "english": "subject",
+    "accepted_answers": [
+      "subject",
+      "compartment"
+    ],
+    "example_de": "Welches Fach magst du in der Schule am liebsten?",
+    "example_en": "What is your favorite subject in school?",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0727",
+    "german": "das Französisch",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "French",
+    "accepted_answers": [
+      "French"
+    ],
+    "example_de": "Sie lernt Französisch in der Schule.",
+    "example_en": "She learns French at school.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0728",
+    "german": "das Gehalt",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Gehälter",
+    "english": "salary",
+    "accepted_answers": [
+      "salary"
+    ],
+    "example_de": "Sie ist mit ihrem Gehalt zufrieden.",
+    "example_en": "She is satisfied with her salary.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0729",
+    "german": "das Latein",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "Latin",
+    "accepted_answers": [
+      "Latin"
+    ],
+    "example_de": "Mein Sohn lernt Latein.",
+    "example_en": "My son learns Latin.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0730",
+    "german": "das Model",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Models / die Modelle",
+    "english": "model",
+    "accepted_answers": [
+      "model"
+    ],
+    "example_de": "Das Model trägt ein rotes Kleid.",
+    "example_en": "The model is wearing a red dress.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0731",
+    "german": "das Projekt",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Projekte",
+    "english": "project",
+    "accepted_answers": [
+      "project"
+    ],
+    "example_de": "Wir machen ein Projekt über Sehenswürdigkeiten in unserer Stadt.",
+    "example_en": "We are doing a project about attractions in our city.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0732",
+    "german": "das Sekretariat",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Sekretariate",
+    "english": "school office",
+    "accepted_answers": [
+      "school office",
+      "secretary's office"
+    ],
+    "example_de": "Das Formular bekommen Sie im Sekretariat.",
+    "example_en": "You can get the form from the school office.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0733",
+    "german": "das Stipendium",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Stipendien",
+    "english": "scholarship",
+    "accepted_answers": [
+      "scholarship"
+    ],
+    "example_de": "Wenn ich ein gutes Zeugnis habe, bekomme ich ein Stipendium.",
+    "example_en": "If I have a good school report, I will receive a scholarship.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0734",
+    "german": "das Zeugnis",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Zeugnisse",
+    "english": "school report",
+    "accepted_answers": [
+      "school report",
+      "report card",
+      "certificate"
+    ],
+    "example_de": "Morgen bekommen die Kinder ihr Zeugnis.",
+    "example_en": "The children will receive their school reports tomorrow.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0735",
+    "german": "der Angestellte / die Angestellte",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Angestellten",
+    "english": "employee",
+    "accepted_answers": [
+      "employee"
+    ],
+    "example_de": "Die Angestellte arbeitet im Büro.",
+    "example_en": "The employee works in the office.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0736",
+    "german": "der Antwortbogen",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Antwortbögen",
+    "english": "answer sheet",
+    "accepted_answers": [
+      "answer sheet"
+    ],
+    "example_de": "Bitte schreiben Sie auf den Antwortbogen.",
+    "example_en": "Please write on the answer sheet.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0737",
+    "german": "der Artikel",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Artikel",
+    "english": "article",
+    "accepted_answers": [
+      "article",
+      "item"
+    ],
+    "example_de": "Im Deutschen gibt es drei Artikel: der, die und das.",
+    "example_en": "In German there are three articles: der, die, and das.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0738",
+    "german": "der Auszubildende / die Auszubildende",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Auszubildenden",
+    "english": "trainee",
+    "accepted_answers": [
+      "trainee",
+      "apprentice"
+    ],
+    "example_de": "Die Auszubildende arbeitet heute im Büro.",
+    "example_en": "The trainee is working in the office today.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0739",
+    "german": "der Autor / die Autorin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Autoren / die Autorinnen",
+    "english": "author",
+    "accepted_answers": [
+      "author",
+      "writer"
+    ],
+    "example_de": "Die Autorin liest aus ihrem neuen Buch.",
+    "example_en": "The author reads from her new book.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0740",
+    "german": "der Bäcker / die Bäckerin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Bäcker / die Bäckerinnen",
+    "english": "baker",
+    "accepted_answers": [
+      "baker"
+    ],
+    "example_de": "Die Bäckerin backt frisches Brot.",
+    "example_en": "The baker bakes fresh bread.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0741",
+    "german": "der Direktor",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Direktoren",
+    "english": "principal",
+    "accepted_answers": [
+      "principal",
+      "director",
+      "headteacher"
+    ],
+    "example_de": "Der Direktor spricht mit den Eltern.",
+    "example_en": "The principal speaks with the parents.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0742",
+    "german": "der Friseur / die Friseurin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Friseure / die Friseurinnen",
+    "english": "hairdresser",
+    "accepted_answers": [
+      "hairdresser",
+      "hairstylist"
+    ],
+    "example_de": "Die Friseurin schneidet meine Haare.",
+    "example_en": "The hairdresser cuts my hair.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0743",
+    "german": "der Handwerker / die Handwerkerin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Handwerker / die Handwerkerinnen",
+    "english": "tradesperson",
+    "accepted_answers": [
+      "tradesperson",
+      "craftsperson"
+    ],
+    "example_de": "Der Handwerker repariert die Heizung.",
+    "example_en": "The tradesperson repairs the heating.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0744",
+    "german": "der Journalist / die Journalistin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Journalisten / die Journalistinnen",
+    "english": "journalist",
+    "accepted_answers": [
+      "journalist"
+    ],
+    "example_de": "Die Journalistin schreibt einen Artikel.",
+    "example_en": "The journalist writes an article.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0745",
+    "german": "der Kaufmann / die Kauffrau",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Kaufleute / die Kauffrauen",
+    "english": "businessperson",
+    "accepted_answers": [
+      "businessperson",
+      "merchant"
+    ],
+    "example_de": "Die Kauffrau arbeitet in einer großen Firma.",
+    "example_en": "The businessperson works for a large company.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0746",
+    "german": "der Mechaniker / die Mechanikerin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Mechaniker / die Mechanikerinnen",
+    "english": "mechanic",
+    "accepted_answers": [
+      "mechanic"
+    ],
+    "example_de": "Die Mechanikerin repariert das Auto.",
+    "example_en": "The mechanic repairs the car.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0747",
+    "german": "der Mitarbeiter",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Mitarbeiter",
+    "english": "employee",
+    "accepted_answers": [
+      "employee",
+      "colleague"
+    ],
+    "example_de": "Unsere Firma hat sieben Mitarbeiter.",
+    "example_en": "Our company has seven employees.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0748",
+    "german": "der Polizist / die Polizistin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Polizisten / die Polizistinnen",
+    "english": "police officer",
+    "accepted_answers": [
+      "police officer"
+    ],
+    "example_de": "Die Polizistin hilft uns.",
+    "example_en": "The police officer helps us.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0749",
+    "german": "der Prüfer / die Prüferin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Prüfer / die Prüferinnen",
+    "english": "examiner",
+    "accepted_answers": [
+      "examiner"
+    ],
+    "example_de": "Die Prüferin erklärt die Aufgabe.",
+    "example_en": "The examiner explains the task.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0750",
+    "german": "der Punkt",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Punkte",
+    "english": "point",
+    "accepted_answers": [
+      "point",
+      "dot"
+    ],
+    "example_de": "Für diese Antwort bekommen Sie einen Punkt.",
+    "example_en": "You get one point for this answer.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0751",
+    "german": "der Stundenplan",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Stundenpläne",
+    "english": "timetable",
+    "accepted_answers": [
+      "timetable",
+      "class schedule"
+    ],
+    "example_de": "Mathematik steht am Montag auf dem Stundenplan.",
+    "example_en": "Math is on the timetable on Monday.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0752",
+    "german": "der Techniker / die Technikerin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Techniker / die Technikerinnen",
+    "english": "technician",
+    "accepted_answers": [
+      "technician"
+    ],
+    "example_de": "Die Technikerin repariert meinen PC.",
+    "example_en": "The technician repairs my computer.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0753",
+    "german": "die Bibliothek",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Bibliotheken",
+    "english": "library",
+    "accepted_answers": [
+      "library"
+    ],
+    "example_de": "Sie lernt jeden Tag in der Bibliothek.",
+    "example_en": "She studies in the library every day.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0754",
+    "german": "die Biologie",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "biology",
+    "accepted_answers": [
+      "biology"
+    ],
+    "example_de": "Biologie ist mein Lieblingsfach.",
+    "example_en": "Biology is my favorite subject.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0755",
+    "german": "die Chemie",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "chemistry",
+    "accepted_answers": [
+      "chemistry"
+    ],
+    "example_de": "Wir haben heute Chemie.",
+    "example_en": "We have chemistry today.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0756",
+    "german": "die Datei",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Dateien",
+    "english": "file",
+    "accepted_answers": [
+      "file"
+    ],
+    "example_de": "Wo hast du die Datei gespeichert?",
+    "example_en": "Where did you save the file?",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0757",
+    "german": "die Geografie",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "geography",
+    "accepted_answers": [
+      "geography"
+    ],
+    "example_de": "In Geografie lernen wir etwas über Europa.",
+    "example_en": "In geography, we learn about Europe.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0758",
+    "german": "die Kenntnisse",
+    "word_type": "noun",
+    "gender": "plural",
+    "plural": "die Kenntnisse",
+    "english": "knowledge",
+    "accepted_answers": [
+      "knowledge",
+      "skills",
+      "expertise"
+    ],
+    "example_de": "Deine Deutschkenntnisse sind sehr gut!",
+    "example_en": "Your German skills are very good!",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0759",
+    "german": "die Klassenfahrt",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Klassenfahrten",
+    "english": "class trip",
+    "accepted_answers": [
+      "class trip",
+      "school trip"
+    ],
+    "example_de": "Unsere Klasse macht eine Klassenfahrt nach Berlin.",
+    "example_en": "Our class is taking a school trip to Berlin.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0760",
+    "german": "die Kollegin",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Kolleginnen",
+    "english": "colleague",
+    "accepted_answers": [
+      "colleague",
+      "female colleague",
+      "co-worker"
+    ],
+    "example_de": "Wie heißt die neue Kollegin?",
+    "example_en": "What is the name of the new colleague?",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0761",
+    "german": "die Lehrerin",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Lehrerinnen",
+    "english": "teacher",
+    "accepted_answers": [
+      "teacher"
+    ],
+    "example_de": "Die Lehrerin erklärt die Aufgabe.",
+    "example_en": "The teacher explains the task.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0762",
+    "german": "die Mathematik",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "mathematics",
+    "accepted_answers": [
+      "mathematics",
+      "math",
+      "maths"
+    ],
+    "example_de": "Mathematik ist nicht leicht.",
+    "example_en": "Math is not easy.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0763",
+    "german": "die Note",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Noten",
+    "english": "grade",
+    "accepted_answers": [
+      "grade",
+      "mark",
+      "note"
+    ],
+    "example_de": "Eva hat immer sehr gute Noten in Deutsch.",
+    "example_en": "Eva always has very good grades in German.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0764",
+    "german": "die Physik",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "physics",
+    "accepted_answers": [
+      "physics"
+    ],
+    "example_de": "Wir schreiben morgen einen Test in Physik.",
+    "example_en": "We have a physics test tomorrow.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0765",
+    "german": "die Religion",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Religionen",
+    "english": "religion",
+    "accepted_answers": [
+      "religion"
+    ],
+    "example_de": "Religion ist heute die letzte Stunde.",
+    "example_en": "Religion is the last lesson today.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0766",
+    "german": "die Schülerin",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Schülerinnen",
+    "english": "pupil",
+    "accepted_answers": [
+      "pupil",
+      "student",
+      "female student"
+    ],
+    "example_de": "In meinem Kurs sind drei Schülerinnen.",
+    "example_en": "There are three female students in my class.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0767",
+    "german": "die Sozialkunde",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "social studies",
+    "accepted_answers": [
+      "social studies",
+      "civics"
+    ],
+    "example_de": "In Sozialkunde sprechen wir über Politik.",
+    "example_en": "In social studies, we talk about politics.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0768",
+    "german": "die Studentin",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Studentinnen",
+    "english": "student",
+    "accepted_answers": [
+      "student",
+      "female student"
+    ],
+    "example_de": "Ich bin Studentin.",
+    "example_en": "I am a student.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0769",
+    "german": "die Tafel",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Tafeln",
+    "english": "board",
+    "accepted_answers": [
+      "board",
+      "blackboard",
+      "whiteboard"
+    ],
+    "example_de": "Der Lehrer schreibt das neue Wort an die Tafel.",
+    "example_en": "The teacher writes the new word on the board.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0770",
+    "german": "markieren",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "mark",
+    "accepted_answers": [
+      "mark",
+      "highlight"
+    ],
+    "example_de": "Markieren Sie die richtige Antwort.",
+    "example_en": "Mark the correct answer.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0771",
+    "german": "der Lebenslauf",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Lebensläufe",
+    "english": "CV",
+    "accepted_answers": [
+      "CV",
+      "resume",
+      "curriculum vitae"
+    ],
+    "example_de": "Bitte schicken Sie Ihren Lebenslauf per E-Mail.",
+    "example_en": "Please send your CV by email.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0772",
+    "german": "das Vorstellungsgespräch",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Vorstellungsgespräche",
+    "english": "job interview",
+    "accepted_answers": [
+      "job interview",
+      "interview"
+    ],
+    "example_de": "Morgen habe ich ein Vorstellungsgespräch.",
+    "example_en": "Tomorrow I have a job interview.",
+    "topic": "work_education",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  }
+]

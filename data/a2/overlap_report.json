@@ -1,0 +1,5089 @@
+{
+  "level": "A2",
+  "normalization": "NFC, case-folded, articles/reflexive pronouns/formatting removed, ß normalized to ss",
+  "detected_a1_overlaps": 715,
+  "resolved_overlaps": [
+    {
+      "source_section": "alphabetical",
+      "source_order": 1,
+      "german": "ab",
+      "normalized_lemma": "ab",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 2,
+      "german": "aber",
+      "normalized_lemma": "aber",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 3,
+      "german": "anbieten",
+      "normalized_lemma": "anbieten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 4,
+      "german": "das Angebot",
+      "normalized_lemma": "angebot",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 5,
+      "german": "andere",
+      "normalized_lemma": "andere",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 6,
+      "german": "abgeben",
+      "normalized_lemma": "abgeben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 9,
+      "german": "abholen",
+      "normalized_lemma": "abholen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 11,
+      "german": "Achtung",
+      "normalized_lemma": "achtung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 12,
+      "german": "die Adresse",
+      "normalized_lemma": "adresse",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 13,
+      "german": "anfangen",
+      "normalized_lemma": "anfangen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 14,
+      "german": "der Anfang",
+      "normalized_lemma": "anfang",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 16,
+      "german": "ankommen",
+      "normalized_lemma": "ankommen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 20,
+      "german": "alle",
+      "normalized_lemma": "alle",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 21,
+      "german": "alle",
+      "normalized_lemma": "alle",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 22,
+      "german": "anmachen",
+      "normalized_lemma": "anmachen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 23,
+      "german": "die Ankunft",
+      "normalized_lemma": "ankunft",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 24,
+      "german": "sich anmelden",
+      "normalized_lemma": "anmelden",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 25,
+      "german": "die Anmeldung",
+      "normalized_lemma": "anmeldung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 26,
+      "german": "der Anrufbeantworter",
+      "normalized_lemma": "anrufbeantworter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 27,
+      "german": "anrufen",
+      "normalized_lemma": "anrufen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 28,
+      "german": "der Anruf",
+      "normalized_lemma": "anruf",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 29,
+      "german": "allein",
+      "normalized_lemma": "allein",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 31,
+      "german": "also",
+      "normalized_lemma": "also",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 32,
+      "german": "der Anschluss",
+      "normalized_lemma": "anschluss",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 34,
+      "german": "antworten",
+      "normalized_lemma": "antworten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 35,
+      "german": "die Antwort",
+      "normalized_lemma": "antwort",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 36,
+      "german": "alt",
+      "normalized_lemma": "alt",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 37,
+      "german": "das Alter",
+      "normalized_lemma": "alter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 39,
+      "german": "an",
+      "normalized_lemma": "an",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 40,
+      "german": "die Anzeige",
+      "normalized_lemma": "anzeige",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 42,
+      "german": "der Apfel",
+      "normalized_lemma": "apfel",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 45,
+      "german": "aus",
+      "normalized_lemma": "aus",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 46,
+      "german": "arbeiten",
+      "normalized_lemma": "arbeiten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 47,
+      "german": "die Arbeit",
+      "normalized_lemma": "arbeit",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 49,
+      "german": "der Ausflug",
+      "normalized_lemma": "ausflug",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 50,
+      "german": "arbeitslos",
+      "normalized_lemma": "arbeitslos",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 52,
+      "german": "ausfüllen",
+      "normalized_lemma": "ausfüllen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 53,
+      "german": "arm",
+      "normalized_lemma": "arm",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 54,
+      "german": "der Arm",
+      "normalized_lemma": "arm",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 55,
+      "german": "der Ausgang",
+      "normalized_lemma": "ausgang",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 59,
+      "german": "auch",
+      "normalized_lemma": "auch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 60,
+      "german": "auf",
+      "normalized_lemma": "auf",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 61,
+      "german": "die Auskunft",
+      "normalized_lemma": "auskunft",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 62,
+      "german": "das Ausland",
+      "normalized_lemma": "ausland",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 63,
+      "german": "ausmachen",
+      "normalized_lemma": "ausmachen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 68,
+      "german": "aussehen",
+      "normalized_lemma": "aussehen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 69,
+      "german": "aufhören",
+      "normalized_lemma": "aufhören",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 76,
+      "german": "aussteigen",
+      "normalized_lemma": "aussteigen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 79,
+      "german": "aufstehen",
+      "normalized_lemma": "aufstehen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 82,
+      "german": "der Ausweis",
+      "normalized_lemma": "ausweis",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 83,
+      "german": "der Aufzug",
+      "normalized_lemma": "aufzug",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 84,
+      "german": "das Auge",
+      "normalized_lemma": "auge",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 85,
+      "german": "das Auto",
+      "normalized_lemma": "auto",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 86,
+      "german": "die Autobahn",
+      "normalized_lemma": "autobahn",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 87,
+      "german": "der Automat",
+      "normalized_lemma": "automat",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 88,
+      "german": "automatisch",
+      "normalized_lemma": "automatisch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 89,
+      "german": "das Baby",
+      "normalized_lemma": "baby",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 92,
+      "german": "beginnen",
+      "normalized_lemma": "beginnen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 94,
+      "german": "bei",
+      "normalized_lemma": "bei",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 96,
+      "german": "die Bäckerei",
+      "normalized_lemma": "bäckerei",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 97,
+      "german": "das Bad",
+      "normalized_lemma": "bad",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 98,
+      "german": "beide",
+      "normalized_lemma": "beide",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 99,
+      "german": "baden",
+      "normalized_lemma": "baden",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 100,
+      "german": "die Bahn",
+      "normalized_lemma": "bahn",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 101,
+      "german": "bekannt",
+      "normalized_lemma": "bekannt",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 102,
+      "german": "die Bekannte",
+      "normalized_lemma": "bekannte",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 103,
+      "german": "der Bekannte",
+      "normalized_lemma": "bekannte",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 104,
+      "german": "der Bahnhof",
+      "normalized_lemma": "bahnhof",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 105,
+      "german": "der Bahnsteig",
+      "normalized_lemma": "bahnsteig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 106,
+      "german": "bekommen",
+      "normalized_lemma": "bekommen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 107,
+      "german": "bald",
+      "normalized_lemma": "bald",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 108,
+      "german": "der Balkon",
+      "normalized_lemma": "balkon",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 111,
+      "german": "die Banane",
+      "normalized_lemma": "banane",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 112,
+      "german": "benutzen",
+      "normalized_lemma": "benutzen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 115,
+      "german": "die Bank",
+      "normalized_lemma": "bank",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 116,
+      "german": "die Bank",
+      "normalized_lemma": "bank",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 117,
+      "german": "bar",
+      "normalized_lemma": "bar",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 122,
+      "german": "der Bauch",
+      "normalized_lemma": "bauch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 125,
+      "german": "der Beruf",
+      "normalized_lemma": "beruf",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 127,
+      "german": "der Baum",
+      "normalized_lemma": "baum",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 133,
+      "german": "bedeuten",
+      "normalized_lemma": "bedeuten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 136,
+      "german": "besetzt",
+      "normalized_lemma": "besetzt",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 137,
+      "german": "besichtigen",
+      "normalized_lemma": "besichtigen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 138,
+      "german": "bleiben",
+      "normalized_lemma": "bleiben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 140,
+      "german": "der Bleistift",
+      "normalized_lemma": "bleistift",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 146,
+      "german": "die Blume",
+      "normalized_lemma": "blume",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 148,
+      "german": "bestellen",
+      "normalized_lemma": "bestellen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 150,
+      "german": "böse",
+      "normalized_lemma": "böse",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 152,
+      "german": "besuchen",
+      "normalized_lemma": "besuchen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 154,
+      "german": "das Bett",
+      "normalized_lemma": "bett",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 155,
+      "german": "brauchen",
+      "normalized_lemma": "brauchen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 158,
+      "german": "der Brief",
+      "normalized_lemma": "brief",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 160,
+      "german": "die Briefmarke",
+      "normalized_lemma": "briefmarke",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 162,
+      "german": "bezahlen",
+      "normalized_lemma": "bezahlen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 163,
+      "german": "bringen",
+      "normalized_lemma": "bringen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 165,
+      "german": "das Brot",
+      "normalized_lemma": "brot",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 166,
+      "german": "das Bier",
+      "normalized_lemma": "bier",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 167,
+      "german": "das Bild",
+      "normalized_lemma": "bild",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 168,
+      "german": "das Brötchen",
+      "normalized_lemma": "brötchen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 169,
+      "german": "billig",
+      "normalized_lemma": "billig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 171,
+      "german": "die Birne",
+      "normalized_lemma": "birne",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 172,
+      "german": "das Buch",
+      "normalized_lemma": "buch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 173,
+      "german": "bis",
+      "normalized_lemma": "bis",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 174,
+      "german": "bisschen",
+      "normalized_lemma": "bisschen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 176,
+      "german": "der Buchstabe",
+      "normalized_lemma": "buchstabe",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 177,
+      "german": "bitte",
+      "normalized_lemma": "bitte",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 178,
+      "german": "die Bitte",
+      "normalized_lemma": "bitte",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 179,
+      "german": "bitten",
+      "normalized_lemma": "bitten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 180,
+      "german": "buchstabieren",
+      "normalized_lemma": "buchstabieren",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 182,
+      "german": "bitter",
+      "normalized_lemma": "bitter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 185,
+      "german": "der Bus",
+      "normalized_lemma": "bus",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 186,
+      "german": "die Butter",
+      "normalized_lemma": "butter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 187,
+      "german": "das Café",
+      "normalized_lemma": "caf",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 190,
+      "german": "das Datum",
+      "normalized_lemma": "datum",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 191,
+      "german": "dauern",
+      "normalized_lemma": "dauern",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 193,
+      "german": "der Chef",
+      "normalized_lemma": "chef",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 197,
+      "german": "denn",
+      "normalized_lemma": "denn",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 200,
+      "german": "der Computer",
+      "normalized_lemma": "computer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 205,
+      "german": "da",
+      "normalized_lemma": "da",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 206,
+      "german": "die Disco",
+      "normalized_lemma": "disco",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 215,
+      "german": "das Doppelzimmer",
+      "normalized_lemma": "doppelzimmer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 216,
+      "german": "die Dame",
+      "normalized_lemma": "dame",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 217,
+      "german": "daneben",
+      "normalized_lemma": "daneben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 218,
+      "german": "der Dank",
+      "normalized_lemma": "dank",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 219,
+      "german": "das Dorf",
+      "normalized_lemma": "dorf",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 220,
+      "german": "dort",
+      "normalized_lemma": "dort",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 221,
+      "german": "dorther",
+      "normalized_lemma": "dorther",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 222,
+      "german": "dorthin",
+      "normalized_lemma": "dorthin",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 223,
+      "german": "danke",
+      "normalized_lemma": "danke",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 224,
+      "german": "draußen",
+      "normalized_lemma": "draussen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 225,
+      "german": "danken",
+      "normalized_lemma": "danken",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 226,
+      "german": "dann",
+      "normalized_lemma": "dann",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 232,
+      "german": "drücken",
+      "normalized_lemma": "drücken",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 233,
+      "german": "drucken",
+      "normalized_lemma": "drucken",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 235,
+      "german": "der Drucker",
+      "normalized_lemma": "drucker",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 237,
+      "german": "einladen",
+      "normalized_lemma": "einladen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 239,
+      "german": "die Einladung",
+      "normalized_lemma": "einladung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 240,
+      "german": "einmal",
+      "normalized_lemma": "einmal",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 243,
+      "german": "durch",
+      "normalized_lemma": "durch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 244,
+      "german": "einsteigen",
+      "normalized_lemma": "einsteigen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 245,
+      "german": "dürfen",
+      "normalized_lemma": "dürfen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 247,
+      "german": "der Durst",
+      "normalized_lemma": "durst",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 248,
+      "german": "die Dusche",
+      "normalized_lemma": "dusche",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 249,
+      "german": "der Eintritt",
+      "normalized_lemma": "eintritt",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 251,
+      "german": "sich duschen",
+      "normalized_lemma": "duschen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 255,
+      "german": "das Einzelzimmer",
+      "normalized_lemma": "einzelzimmer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 257,
+      "german": "die Ecke",
+      "normalized_lemma": "ecke",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 261,
+      "german": "die E-Mail",
+      "normalized_lemma": "email",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 262,
+      "german": "die Ehefrau",
+      "normalized_lemma": "ehefrau",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 264,
+      "german": "der Ehemann",
+      "normalized_lemma": "ehemann",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 265,
+      "german": "das Ei",
+      "normalized_lemma": "ei",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 267,
+      "german": "der Empfänger",
+      "normalized_lemma": "empfänger",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 268,
+      "german": "empfehlen",
+      "normalized_lemma": "empfehlen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 270,
+      "german": "das Ende",
+      "normalized_lemma": "ende",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 271,
+      "german": "eilig",
+      "normalized_lemma": "eilig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 272,
+      "german": "einfach",
+      "normalized_lemma": "einfach",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 273,
+      "german": "enden",
+      "normalized_lemma": "enden",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 276,
+      "german": "der Eingang",
+      "normalized_lemma": "eingang",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 278,
+      "german": "sich entschuldigen",
+      "normalized_lemma": "entschuldigen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 279,
+      "german": "einkaufen",
+      "normalized_lemma": "einkaufen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 280,
+      "german": "die Entschuldigung",
+      "normalized_lemma": "entschuldigung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 282,
+      "german": "falsch",
+      "normalized_lemma": "falsch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 285,
+      "german": "die Familie",
+      "normalized_lemma": "familie",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 286,
+      "german": "der Familienname",
+      "normalized_lemma": "familienname",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 290,
+      "german": "erklären",
+      "normalized_lemma": "erklären",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 291,
+      "german": "die Farbe",
+      "normalized_lemma": "farbe",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 292,
+      "german": "erlauben",
+      "normalized_lemma": "erlauben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 297,
+      "german": "fehlen",
+      "normalized_lemma": "fehlen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 300,
+      "german": "der Fehler",
+      "normalized_lemma": "fehler",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 302,
+      "german": "der Feierabend",
+      "normalized_lemma": "feierabend",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 303,
+      "german": "der Feiertag",
+      "normalized_lemma": "feiertag",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 304,
+      "german": "feiern",
+      "normalized_lemma": "feiern",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 306,
+      "german": "der Erwachsene",
+      "normalized_lemma": "erwachsene",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 309,
+      "german": "erzählen",
+      "normalized_lemma": "erzählen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 310,
+      "german": "fernsehen",
+      "normalized_lemma": "fernsehen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 311,
+      "german": "essen",
+      "normalized_lemma": "essen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 312,
+      "german": "das Essen",
+      "normalized_lemma": "essen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 318,
+      "german": "fahren",
+      "normalized_lemma": "fahren",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 319,
+      "german": "abfahren",
+      "normalized_lemma": "abfahren",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 320,
+      "german": "die Abfahrt",
+      "normalized_lemma": "abfahrt",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 321,
+      "german": "die Fahrkarte",
+      "normalized_lemma": "fahrkarte",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 324,
+      "german": "das Fieber",
+      "normalized_lemma": "fieber",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 325,
+      "german": "der Film",
+      "normalized_lemma": "film",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 326,
+      "german": "finden",
+      "normalized_lemma": "finden",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 328,
+      "german": "die Firma",
+      "normalized_lemma": "firma",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 330,
+      "german": "das Fahrrad",
+      "normalized_lemma": "fahrrad",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 331,
+      "german": "der Fisch",
+      "normalized_lemma": "fisch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 333,
+      "german": "die Flasche",
+      "normalized_lemma": "flasche",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 334,
+      "german": "das Fleisch",
+      "normalized_lemma": "fleisch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 336,
+      "german": "früher",
+      "normalized_lemma": "früher",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 337,
+      "german": "das Frühstück",
+      "normalized_lemma": "frühstück",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 338,
+      "german": "frühstücken",
+      "normalized_lemma": "frühstücken",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 339,
+      "german": "fliegen",
+      "normalized_lemma": "fliegen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 340,
+      "german": "abfliegen",
+      "normalized_lemma": "abfliegen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 345,
+      "german": "die Führung",
+      "normalized_lemma": "führung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 347,
+      "german": "der Flughafen",
+      "normalized_lemma": "flughafen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 348,
+      "german": "das Flugzeug",
+      "normalized_lemma": "flugzeug",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 349,
+      "german": "für",
+      "normalized_lemma": "für",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 352,
+      "german": "das Formular",
+      "normalized_lemma": "formular",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 355,
+      "german": "der Fuß",
+      "normalized_lemma": "fuss",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 356,
+      "german": "der Fußball",
+      "normalized_lemma": "fussball",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 357,
+      "german": "das Foto",
+      "normalized_lemma": "foto",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 358,
+      "german": "die Frage",
+      "normalized_lemma": "frage",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 359,
+      "german": "fragen",
+      "normalized_lemma": "fragen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 360,
+      "german": "die Frau",
+      "normalized_lemma": "frau",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 363,
+      "german": "frei",
+      "normalized_lemma": "frei",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 365,
+      "german": "die Freizeit",
+      "normalized_lemma": "freizeit",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 366,
+      "german": "fremd",
+      "normalized_lemma": "fremd",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 368,
+      "german": "der Garten",
+      "normalized_lemma": "garten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 369,
+      "german": "der Gast",
+      "normalized_lemma": "gast",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 370,
+      "german": "geben",
+      "normalized_lemma": "geben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 371,
+      "german": "sich freuen",
+      "normalized_lemma": "freuen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 372,
+      "german": "geboren",
+      "normalized_lemma": "geboren",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 373,
+      "german": "der Geburtstag",
+      "normalized_lemma": "geburtstag",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 374,
+      "german": "der Geburtsort",
+      "normalized_lemma": "geburtsort",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 375,
+      "german": "das Geburtsjahr",
+      "normalized_lemma": "geburtsjahr",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 376,
+      "german": "der Freund",
+      "normalized_lemma": "freund",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 377,
+      "german": "die Freundin",
+      "normalized_lemma": "freundin",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 382,
+      "german": "gefallen",
+      "normalized_lemma": "gefallen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 385,
+      "german": "gegen",
+      "normalized_lemma": "gegen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 388,
+      "german": "gewinnen",
+      "normalized_lemma": "gewinnen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 391,
+      "german": "gehen",
+      "normalized_lemma": "gehen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 393,
+      "german": "das Glas",
+      "normalized_lemma": "glas",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 394,
+      "german": "glauben",
+      "normalized_lemma": "glauben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 395,
+      "german": "gleich",
+      "normalized_lemma": "gleich",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 396,
+      "german": "gehören",
+      "normalized_lemma": "gehören",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 397,
+      "german": "das Geld",
+      "normalized_lemma": "geld",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 398,
+      "german": "das Gleis",
+      "normalized_lemma": "gleis",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 399,
+      "german": "das Glück",
+      "normalized_lemma": "glück",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 401,
+      "german": "glücklich",
+      "normalized_lemma": "glücklich",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 402,
+      "german": "das Gemüse",
+      "normalized_lemma": "gemüse",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 403,
+      "german": "der Glückwunsch",
+      "normalized_lemma": "glückwunsch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 405,
+      "german": "gratulieren",
+      "normalized_lemma": "gratulieren",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 407,
+      "german": "grillen",
+      "normalized_lemma": "grillen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 408,
+      "german": "das Gepäck",
+      "normalized_lemma": "gepäck",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 409,
+      "german": "gerade",
+      "normalized_lemma": "gerade",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 411,
+      "german": "groß",
+      "normalized_lemma": "gross",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 412,
+      "german": "geradeaus",
+      "normalized_lemma": "geradeaus",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 413,
+      "german": "die Größe",
+      "normalized_lemma": "grösse",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 415,
+      "german": "die Gruppe",
+      "normalized_lemma": "gruppe",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 417,
+      "german": "gern",
+      "normalized_lemma": "gern",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 418,
+      "german": "der Gruß",
+      "normalized_lemma": "gruss",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 419,
+      "german": "das Geschäft",
+      "normalized_lemma": "geschäft",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 421,
+      "german": "das Geschenk",
+      "normalized_lemma": "geschenk",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 424,
+      "german": "günstig",
+      "normalized_lemma": "günstig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 425,
+      "german": "gut",
+      "normalized_lemma": "gut",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 427,
+      "german": "das Gespräch",
+      "normalized_lemma": "gespräch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 428,
+      "german": "gestern",
+      "normalized_lemma": "gestern",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 431,
+      "german": "das Getränk",
+      "normalized_lemma": "getränk",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 432,
+      "german": "das Haar",
+      "normalized_lemma": "haar",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 433,
+      "german": "haben",
+      "normalized_lemma": "haben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 434,
+      "german": "das Hähnchen",
+      "normalized_lemma": "hähnchen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 435,
+      "german": "die Halle",
+      "normalized_lemma": "halle",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 436,
+      "german": "hallo",
+      "normalized_lemma": "hallo",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 439,
+      "german": "der Herd",
+      "normalized_lemma": "herd",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 440,
+      "german": "der Herr",
+      "normalized_lemma": "herr",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 441,
+      "german": "halten",
+      "normalized_lemma": "halten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 444,
+      "german": "die Haltestelle",
+      "normalized_lemma": "haltestelle",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 446,
+      "german": "die Hand",
+      "normalized_lemma": "hand",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 448,
+      "german": "herzlich",
+      "normalized_lemma": "herzlich",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 449,
+      "german": "das Handy",
+      "normalized_lemma": "handy",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 450,
+      "german": "heute",
+      "normalized_lemma": "heute",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 452,
+      "german": "hier",
+      "normalized_lemma": "hier",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 454,
+      "german": "die Hilfe",
+      "normalized_lemma": "hilfe",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 458,
+      "german": "das Haus",
+      "normalized_lemma": "haus",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 463,
+      "german": "hinten",
+      "normalized_lemma": "hinten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 466,
+      "german": "die Heimat",
+      "normalized_lemma": "heimat",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 467,
+      "german": "das Hobby",
+      "normalized_lemma": "hobby",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 468,
+      "german": "hoch",
+      "normalized_lemma": "hoch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 469,
+      "german": "die Hochzeit",
+      "normalized_lemma": "hochzeit",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 470,
+      "german": "heiraten",
+      "normalized_lemma": "heiraten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 473,
+      "german": "heißen",
+      "normalized_lemma": "heissen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 475,
+      "german": "holen",
+      "normalized_lemma": "holen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 477,
+      "german": "helfen",
+      "normalized_lemma": "helfen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 479,
+      "german": "hören",
+      "normalized_lemma": "hören",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 480,
+      "german": "hell",
+      "normalized_lemma": "hell",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 485,
+      "german": "das Hotel",
+      "normalized_lemma": "hotel",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 486,
+      "german": "der Hund",
+      "normalized_lemma": "hund",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 487,
+      "german": "der Hunger",
+      "normalized_lemma": "hunger",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 490,
+      "german": "jung",
+      "normalized_lemma": "jung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 491,
+      "german": "immer",
+      "normalized_lemma": "immer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 492,
+      "german": "der Junge",
+      "normalized_lemma": "junge",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 493,
+      "german": "in",
+      "normalized_lemma": "in",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 494,
+      "german": "die Information",
+      "normalized_lemma": "information",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 496,
+      "german": "der Kaffee",
+      "normalized_lemma": "kaffee",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 504,
+      "german": "kaputt",
+      "normalized_lemma": "kaputt",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 505,
+      "german": "die Karte",
+      "normalized_lemma": "karte",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 508,
+      "german": "international",
+      "normalized_lemma": "international",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 509,
+      "german": "das Internet",
+      "normalized_lemma": "internet",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 510,
+      "german": "die Kartoffel",
+      "normalized_lemma": "kartoffel",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 512,
+      "german": "die Kasse",
+      "normalized_lemma": "kasse",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 514,
+      "german": "kaufen",
+      "normalized_lemma": "kaufen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 517,
+      "german": "kein",
+      "normalized_lemma": "kein",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 518,
+      "german": "ja",
+      "normalized_lemma": "ja",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 519,
+      "german": "die Jacke",
+      "normalized_lemma": "jacke",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 522,
+      "german": "jeder",
+      "normalized_lemma": "jeder",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 523,
+      "german": "jeder",
+      "normalized_lemma": "jeder",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 525,
+      "german": "kennen",
+      "normalized_lemma": "kennen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 526,
+      "german": "kennenlernen",
+      "normalized_lemma": "kennenlernen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 527,
+      "german": "jetzt",
+      "normalized_lemma": "jetzt",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 528,
+      "german": "der Job",
+      "normalized_lemma": "job",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 533,
+      "german": "das Kind",
+      "normalized_lemma": "kind",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 534,
+      "german": "der Jugendliche",
+      "normalized_lemma": "jugendliche",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 535,
+      "german": "die Jugendliche",
+      "normalized_lemma": "jugendliche",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 536,
+      "german": "der Kindergarten",
+      "normalized_lemma": "kindergarten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 537,
+      "german": "das Kino",
+      "normalized_lemma": "kino",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 538,
+      "german": "der Kiosk",
+      "normalized_lemma": "kiosk",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 542,
+      "german": "krank",
+      "normalized_lemma": "krank",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 544,
+      "german": "klar",
+      "normalized_lemma": "klar",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 551,
+      "german": "die Kleidung",
+      "normalized_lemma": "kleidung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 552,
+      "german": "kriegen",
+      "normalized_lemma": "kriegen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 553,
+      "german": "klein",
+      "normalized_lemma": "klein",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 556,
+      "german": "kochen",
+      "normalized_lemma": "kochen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 557,
+      "german": "die Küche",
+      "normalized_lemma": "küche",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 558,
+      "german": "der Kuchen",
+      "normalized_lemma": "kuchen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 560,
+      "german": "der Koffer",
+      "normalized_lemma": "koffer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 561,
+      "german": "der Kühlschrank",
+      "normalized_lemma": "kühlschrank",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 562,
+      "german": "der Kollege",
+      "normalized_lemma": "kollege",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 566,
+      "german": "sich kümmern",
+      "normalized_lemma": "kümmern",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 567,
+      "german": "kommen",
+      "normalized_lemma": "kommen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 568,
+      "german": "können",
+      "normalized_lemma": "können",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 570,
+      "german": "der Kunde",
+      "normalized_lemma": "kunde",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 574,
+      "german": "das Konto",
+      "normalized_lemma": "konto",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 575,
+      "german": "der Kurs",
+      "normalized_lemma": "kurs",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 576,
+      "german": "kurz",
+      "normalized_lemma": "kurz",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 579,
+      "german": "lachen",
+      "normalized_lemma": "lachen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 580,
+      "german": "der Kopf",
+      "normalized_lemma": "kopf",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 581,
+      "german": "der Laden",
+      "normalized_lemma": "laden",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 584,
+      "german": "das Land",
+      "normalized_lemma": "land",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 586,
+      "german": "kosten",
+      "normalized_lemma": "kosten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 588,
+      "german": "lang",
+      "normalized_lemma": "lang",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 589,
+      "german": "lange",
+      "normalized_lemma": "lange",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 590,
+      "german": "langsam",
+      "normalized_lemma": "langsam",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 592,
+      "german": "links",
+      "normalized_lemma": "links",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 595,
+      "german": "das Lokal",
+      "normalized_lemma": "lokal",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 601,
+      "german": "laufen",
+      "normalized_lemma": "laufen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 602,
+      "german": "lustig",
+      "normalized_lemma": "lustig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 603,
+      "german": "laut",
+      "normalized_lemma": "laut",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 604,
+      "german": "leben",
+      "normalized_lemma": "leben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 605,
+      "german": "machen",
+      "normalized_lemma": "machen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 606,
+      "german": "das Leben",
+      "normalized_lemma": "leben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 607,
+      "german": "die Lebensmittel",
+      "normalized_lemma": "lebensmittel",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 609,
+      "german": "das Mädchen",
+      "normalized_lemma": "mädchen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 611,
+      "german": "legen",
+      "normalized_lemma": "legen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 612,
+      "german": "leicht",
+      "normalized_lemma": "leicht",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 613,
+      "german": "leider",
+      "normalized_lemma": "leider",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 619,
+      "german": "man",
+      "normalized_lemma": "man",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 621,
+      "german": "leise",
+      "normalized_lemma": "leise",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 622,
+      "german": "lernen",
+      "normalized_lemma": "lernen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 625,
+      "german": "der Mann",
+      "normalized_lemma": "mann",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 626,
+      "german": "männlich",
+      "normalized_lemma": "männlich",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 627,
+      "german": "lesen",
+      "normalized_lemma": "lesen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 628,
+      "german": "letzt",
+      "normalized_lemma": "letzt",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 632,
+      "german": "die Leute",
+      "normalized_lemma": "leute",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 633,
+      "german": "das Licht",
+      "normalized_lemma": "licht",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 634,
+      "german": "lieber",
+      "normalized_lemma": "lieber",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 635,
+      "german": "die Maschine",
+      "normalized_lemma": "maschine",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 637,
+      "german": "das Meer",
+      "normalized_lemma": "meer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 638,
+      "german": "lieben",
+      "normalized_lemma": "lieben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 640,
+      "german": "mehr",
+      "normalized_lemma": "mehr",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 642,
+      "german": "das Lied",
+      "normalized_lemma": "lied",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 645,
+      "german": "liegen",
+      "normalized_lemma": "liegen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 646,
+      "german": "meisten",
+      "normalized_lemma": "meisten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 649,
+      "german": "der Mensch",
+      "normalized_lemma": "mensch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 650,
+      "german": "der Moment",
+      "normalized_lemma": "moment",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 651,
+      "german": "morgen",
+      "normalized_lemma": "morgen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 655,
+      "german": "müde",
+      "normalized_lemma": "müde",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 659,
+      "german": "die Miete",
+      "normalized_lemma": "miete",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 660,
+      "german": "der Mund",
+      "normalized_lemma": "mund",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 663,
+      "german": "mieten",
+      "normalized_lemma": "mieten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 664,
+      "german": "die Milch",
+      "normalized_lemma": "milch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 666,
+      "german": "müssen",
+      "normalized_lemma": "müssen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 669,
+      "german": "nach",
+      "normalized_lemma": "nach",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 670,
+      "german": "mit",
+      "normalized_lemma": "mit",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 671,
+      "german": "mitbringen",
+      "normalized_lemma": "mitbringen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 673,
+      "german": "mitmachen",
+      "normalized_lemma": "mitmachen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 674,
+      "german": "mitkommen",
+      "normalized_lemma": "mitkommen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 675,
+      "german": "mitnehmen",
+      "normalized_lemma": "mitnehmen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 679,
+      "german": "nächst",
+      "normalized_lemma": "nächst",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 683,
+      "german": "die Mitte",
+      "normalized_lemma": "mitte",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 684,
+      "german": "der Name",
+      "normalized_lemma": "name",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 687,
+      "german": "die Möbel",
+      "normalized_lemma": "möbel",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 689,
+      "german": "möchten",
+      "normalized_lemma": "möchten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 696,
+      "german": "mögen",
+      "normalized_lemma": "mögen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 698,
+      "german": "möglich",
+      "normalized_lemma": "möglich",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 699,
+      "german": "nehmen",
+      "normalized_lemma": "nehmen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 700,
+      "german": "nein",
+      "normalized_lemma": "nein",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 702,
+      "german": "öffnen",
+      "normalized_lemma": "öffnen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 703,
+      "german": "oft",
+      "normalized_lemma": "oft",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 704,
+      "german": "ohne",
+      "normalized_lemma": "ohne",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 709,
+      "german": "das Öl",
+      "normalized_lemma": "öl",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 710,
+      "german": "neu",
+      "normalized_lemma": "neu",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 712,
+      "german": "nicht",
+      "normalized_lemma": "nicht",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 713,
+      "german": "nichts",
+      "normalized_lemma": "nichts",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 714,
+      "german": "nie",
+      "normalized_lemma": "nie",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 716,
+      "german": "die Ordnung",
+      "normalized_lemma": "ordnung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 720,
+      "german": "der Ort",
+      "normalized_lemma": "ort",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 721,
+      "german": "noch",
+      "normalized_lemma": "noch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 722,
+      "german": "normal",
+      "normalized_lemma": "normal",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 731,
+      "german": "die Nummer",
+      "normalized_lemma": "nummer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 733,
+      "german": "das Papier",
+      "normalized_lemma": "papier",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 734,
+      "german": "die Papiere",
+      "normalized_lemma": "papiere",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 737,
+      "german": "nur",
+      "normalized_lemma": "nur",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 739,
+      "german": "der Partner",
+      "normalized_lemma": "partner",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 740,
+      "german": "die Partnerin",
+      "normalized_lemma": "partnerin",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 742,
+      "german": "die Party",
+      "normalized_lemma": "party",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 743,
+      "german": "der Pass",
+      "normalized_lemma": "pass",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 744,
+      "german": "oben",
+      "normalized_lemma": "oben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 745,
+      "german": "das Obst",
+      "normalized_lemma": "obst",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 748,
+      "german": "oder",
+      "normalized_lemma": "oder",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 751,
+      "german": "die Pause",
+      "normalized_lemma": "pause",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 752,
+      "german": "der Prospekt",
+      "normalized_lemma": "prospekt",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 757,
+      "german": "die Prüfung",
+      "normalized_lemma": "prüfung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 760,
+      "german": "pünktlich",
+      "normalized_lemma": "pünktlich",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 763,
+      "german": "der Plan",
+      "normalized_lemma": "plan",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 765,
+      "german": "der Platz",
+      "normalized_lemma": "platz",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 769,
+      "german": "die Polizei",
+      "normalized_lemma": "polizei",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 770,
+      "german": "die Pommes frites",
+      "normalized_lemma": "pommesfrites",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 774,
+      "german": "die Post",
+      "normalized_lemma": "post",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 778,
+      "german": "die Postleitzahl",
+      "normalized_lemma": "postleitzahl",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 780,
+      "german": "rauchen",
+      "normalized_lemma": "rauchen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 781,
+      "german": "das Praktikum",
+      "normalized_lemma": "praktikum",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 782,
+      "german": "der Raum",
+      "normalized_lemma": "raum",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 785,
+      "german": "die Praxis",
+      "normalized_lemma": "praxis",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 786,
+      "german": "die Rechnung",
+      "normalized_lemma": "rechnung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 788,
+      "german": "der Preis",
+      "normalized_lemma": "preis",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 791,
+      "german": "rechts",
+      "normalized_lemma": "rechts",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 793,
+      "german": "der Regen",
+      "normalized_lemma": "regen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 796,
+      "german": "regnen",
+      "normalized_lemma": "regnen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 798,
+      "german": "das Problem",
+      "normalized_lemma": "problem",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 805,
+      "german": "der Reis",
+      "normalized_lemma": "reis",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 806,
+      "german": "die Reise",
+      "normalized_lemma": "reise",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 807,
+      "german": "das Reisebüro",
+      "normalized_lemma": "reisebüro",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 808,
+      "german": "der Reiseführer",
+      "normalized_lemma": "reiseführer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 811,
+      "german": "reisen",
+      "normalized_lemma": "reisen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 814,
+      "german": "der Saft",
+      "normalized_lemma": "saft",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 815,
+      "german": "sagen",
+      "normalized_lemma": "sagen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 818,
+      "german": "der Salat",
+      "normalized_lemma": "salat",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 819,
+      "german": "das Salz",
+      "normalized_lemma": "salz",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 820,
+      "german": "die Reparatur",
+      "normalized_lemma": "reparatur",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 822,
+      "german": "reparieren",
+      "normalized_lemma": "reparieren",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 823,
+      "german": "der Satz",
+      "normalized_lemma": "satz",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 830,
+      "german": "das Restaurant",
+      "normalized_lemma": "restaurant",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 833,
+      "german": "der Schalter",
+      "normalized_lemma": "schalter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 834,
+      "german": "die Rezeption",
+      "normalized_lemma": "rezeption",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 835,
+      "german": "richtig",
+      "normalized_lemma": "richtig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 837,
+      "german": "riechen",
+      "normalized_lemma": "riechen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 838,
+      "german": "scheinen",
+      "normalized_lemma": "scheinen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 847,
+      "german": "schicken",
+      "normalized_lemma": "schicken",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 850,
+      "german": "das Schild",
+      "normalized_lemma": "schild",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 854,
+      "german": "ruhig",
+      "normalized_lemma": "ruhig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 856,
+      "german": "schlafen",
+      "normalized_lemma": "schlafen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 858,
+      "german": "der Schüler",
+      "normalized_lemma": "schüler",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 860,
+      "german": "schlecht",
+      "normalized_lemma": "schlecht",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 862,
+      "german": "schließen",
+      "normalized_lemma": "schliessen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 865,
+      "german": "schwer",
+      "normalized_lemma": "schwer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 869,
+      "german": "das Schwimmbad",
+      "normalized_lemma": "schwimmbad",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 870,
+      "german": "der Schluss",
+      "normalized_lemma": "schluss",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 871,
+      "german": "schwimmen",
+      "normalized_lemma": "schwimmen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 872,
+      "german": "der See",
+      "normalized_lemma": "see",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 873,
+      "german": "der Schlüssel",
+      "normalized_lemma": "schlüssel",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 874,
+      "german": "schmecken",
+      "normalized_lemma": "schmecken",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 875,
+      "german": "die See",
+      "normalized_lemma": "see",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 877,
+      "german": "sehen",
+      "normalized_lemma": "sehen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 882,
+      "german": "die Sehenswürdigkeit",
+      "normalized_lemma": "sehenswürdigkeit",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 883,
+      "german": "sehr",
+      "normalized_lemma": "sehr",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 885,
+      "german": "sein",
+      "normalized_lemma": "sein",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 886,
+      "german": "schnell",
+      "normalized_lemma": "schnell",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 888,
+      "german": "schon",
+      "normalized_lemma": "schon",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 889,
+      "german": "schön",
+      "normalized_lemma": "schön",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 890,
+      "german": "der Schrank",
+      "normalized_lemma": "schrank",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 891,
+      "german": "an sein",
+      "normalized_lemma": "ansein",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 892,
+      "german": "aus sein",
+      "normalized_lemma": "aussein",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 893,
+      "german": "auf sein",
+      "normalized_lemma": "aufsein",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 894,
+      "german": "weg sein",
+      "normalized_lemma": "wegsein",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 895,
+      "german": "zu sein",
+      "normalized_lemma": "zusein",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 897,
+      "german": "seit",
+      "normalized_lemma": "seit",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 899,
+      "german": "schreiben",
+      "normalized_lemma": "schreiben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 903,
+      "german": "der Schuh",
+      "normalized_lemma": "schuh",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 905,
+      "german": "die Schule",
+      "normalized_lemma": "schule",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 909,
+      "german": "spielen",
+      "normalized_lemma": "spielen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 910,
+      "german": "der Sport",
+      "normalized_lemma": "sport",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 914,
+      "german": "sitzen",
+      "normalized_lemma": "sitzen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 915,
+      "german": "sprechen",
+      "normalized_lemma": "sprechen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 916,
+      "german": "die Sprache",
+      "normalized_lemma": "sprache",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 918,
+      "german": "so",
+      "normalized_lemma": "so",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 920,
+      "german": "die Stadt",
+      "normalized_lemma": "stadt",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 921,
+      "german": "das Sofa",
+      "normalized_lemma": "sofa",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 924,
+      "german": "sofort",
+      "normalized_lemma": "sofort",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 928,
+      "german": "sollen",
+      "normalized_lemma": "sollen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 929,
+      "german": "stehen",
+      "normalized_lemma": "stehen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 930,
+      "german": "die Sonne",
+      "normalized_lemma": "sonne",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 932,
+      "german": "die Stelle",
+      "normalized_lemma": "stelle",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 934,
+      "german": "stellen",
+      "normalized_lemma": "stellen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 942,
+      "german": "spät",
+      "normalized_lemma": "spät",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 943,
+      "german": "später",
+      "normalized_lemma": "später",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 944,
+      "german": "der Stock",
+      "normalized_lemma": "stock",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 951,
+      "german": "die Straße",
+      "normalized_lemma": "strasse",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 952,
+      "german": "die Straßenbahn",
+      "normalized_lemma": "strassenbahn",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 953,
+      "german": "die Speisekarte",
+      "normalized_lemma": "speisekarte",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 961,
+      "german": "das Telefon",
+      "normalized_lemma": "telefon",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 962,
+      "german": "telefonieren",
+      "normalized_lemma": "telefonieren",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 963,
+      "german": "der Student",
+      "normalized_lemma": "student",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 965,
+      "german": "studieren",
+      "normalized_lemma": "studieren",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 968,
+      "german": "das Studium",
+      "normalized_lemma": "studium",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 970,
+      "german": "suchen",
+      "normalized_lemma": "suchen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 971,
+      "german": "der Termin",
+      "normalized_lemma": "termin",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 972,
+      "german": "teuer",
+      "normalized_lemma": "teuer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 973,
+      "german": "der Text",
+      "normalized_lemma": "text",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 976,
+      "german": "das Thema",
+      "normalized_lemma": "thema",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 977,
+      "german": "das Ticket",
+      "normalized_lemma": "ticket",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 985,
+      "german": "der Tisch",
+      "normalized_lemma": "tisch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 988,
+      "german": "die Toilette",
+      "normalized_lemma": "toilette",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 991,
+      "german": "die Tomate",
+      "normalized_lemma": "tomate",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 996,
+      "german": "tot",
+      "normalized_lemma": "tot",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1000,
+      "german": "tanzen",
+      "normalized_lemma": "tanzen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1001,
+      "german": "die Tasche",
+      "normalized_lemma": "tasche",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1010,
+      "german": "das Taxi",
+      "normalized_lemma": "taxi",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1015,
+      "german": "der Tee",
+      "normalized_lemma": "tee",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1018,
+      "german": "sich treffen",
+      "normalized_lemma": "treffen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1020,
+      "german": "und",
+      "normalized_lemma": "und",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1021,
+      "german": "die Treppe",
+      "normalized_lemma": "treppe",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1023,
+      "german": "trinken",
+      "normalized_lemma": "trinken",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1026,
+      "german": "unten",
+      "normalized_lemma": "unten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1027,
+      "german": "unter",
+      "normalized_lemma": "unter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1028,
+      "german": "tschüss",
+      "normalized_lemma": "tschüss",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1031,
+      "german": "tun",
+      "normalized_lemma": "tun",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1036,
+      "german": "der Unterricht",
+      "normalized_lemma": "unterricht",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1039,
+      "german": "unterschreiben",
+      "normalized_lemma": "unterschreiben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1040,
+      "german": "über",
+      "normalized_lemma": "über",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1043,
+      "german": "die Unterschrift",
+      "normalized_lemma": "unterschrift",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1046,
+      "german": "übernachten",
+      "normalized_lemma": "übernachten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1048,
+      "german": "der Urlaub",
+      "normalized_lemma": "urlaub",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1051,
+      "german": "überweisen",
+      "normalized_lemma": "überweisen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1052,
+      "german": "die Uhr",
+      "normalized_lemma": "uhr",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1053,
+      "german": "um",
+      "normalized_lemma": "um",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1056,
+      "german": "umziehen",
+      "normalized_lemma": "umziehen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1057,
+      "german": "sich umziehen",
+      "normalized_lemma": "umziehen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1060,
+      "german": "verdienen",
+      "normalized_lemma": "verdienen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1061,
+      "german": "der Verein",
+      "normalized_lemma": "verein",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1066,
+      "german": "verkaufen",
+      "normalized_lemma": "verkaufen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1068,
+      "german": "von",
+      "normalized_lemma": "von",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1069,
+      "german": "vor",
+      "normalized_lemma": "vor",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1080,
+      "german": "der Vorname",
+      "normalized_lemma": "vorname",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1082,
+      "german": "vermieten",
+      "normalized_lemma": "vermieten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1084,
+      "german": "der Vermieter",
+      "normalized_lemma": "vermieter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1087,
+      "german": "sich vorstellen",
+      "normalized_lemma": "vorstellen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1096,
+      "german": "verstehen",
+      "normalized_lemma": "verstehen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1102,
+      "german": "wandern",
+      "normalized_lemma": "wandern",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1103,
+      "german": "viel",
+      "normalized_lemma": "viel",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1104,
+      "german": "viel",
+      "normalized_lemma": "viel",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1105,
+      "german": "wann",
+      "normalized_lemma": "wann",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1106,
+      "german": "vielleicht",
+      "normalized_lemma": "vielleicht",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1109,
+      "german": "warten",
+      "normalized_lemma": "warten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1111,
+      "german": "warum",
+      "normalized_lemma": "warum",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1112,
+      "german": "was",
+      "normalized_lemma": "was",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1114,
+      "german": "wer",
+      "normalized_lemma": "wer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1118,
+      "german": "werden",
+      "normalized_lemma": "werden",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1119,
+      "german": "sich waschen",
+      "normalized_lemma": "waschen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1120,
+      "german": "das Wasser",
+      "normalized_lemma": "wasser",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1123,
+      "german": "das Wetter",
+      "normalized_lemma": "wetter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1126,
+      "german": "wichtig",
+      "normalized_lemma": "wichtig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1128,
+      "german": "wie",
+      "normalized_lemma": "wie",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1129,
+      "german": "wie viel",
+      "normalized_lemma": "wieviel",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1139,
+      "german": "wiederholen",
+      "normalized_lemma": "wiederholen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1142,
+      "german": "wehtun",
+      "normalized_lemma": "wehtun",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1143,
+      "german": "das Wiederhören",
+      "normalized_lemma": "wiederhören",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1144,
+      "german": "das Wiedersehen",
+      "normalized_lemma": "wiedersehen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1145,
+      "german": "weiblich",
+      "normalized_lemma": "weiblich",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1146,
+      "german": "willkommen",
+      "normalized_lemma": "willkommen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1147,
+      "german": "der Wind",
+      "normalized_lemma": "wind",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1151,
+      "german": "der Wein",
+      "normalized_lemma": "wein",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1153,
+      "german": "wissen",
+      "normalized_lemma": "wissen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1155,
+      "german": "weit",
+      "normalized_lemma": "weit",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1156,
+      "german": "weiter",
+      "normalized_lemma": "weiter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1159,
+      "german": "welcher",
+      "normalized_lemma": "welcher",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1162,
+      "german": "wo",
+      "normalized_lemma": "wo",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1163,
+      "german": "woher",
+      "normalized_lemma": "woher",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1164,
+      "german": "wohin",
+      "normalized_lemma": "wohin",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1165,
+      "german": "wohnen",
+      "normalized_lemma": "wohnen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1166,
+      "german": "die Welt",
+      "normalized_lemma": "welt",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1167,
+      "german": "wenig",
+      "normalized_lemma": "wenig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1169,
+      "german": "die Wohnung",
+      "normalized_lemma": "wohnung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1172,
+      "german": "das Zimmer",
+      "normalized_lemma": "zimmer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1173,
+      "german": "wollen",
+      "normalized_lemma": "wollen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1178,
+      "german": "zu",
+      "normalized_lemma": "zu",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1179,
+      "german": "das Wort",
+      "normalized_lemma": "wort",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1180,
+      "german": "wunderbar",
+      "normalized_lemma": "wunderbar",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1186,
+      "german": "zufrieden",
+      "normalized_lemma": "zufrieden",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1187,
+      "german": "der Zug",
+      "normalized_lemma": "zug",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1191,
+      "german": "zahlen",
+      "normalized_lemma": "zahlen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1194,
+      "german": "zum Beispiel",
+      "normalized_lemma": "zumbeispiel",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1197,
+      "german": "zurück",
+      "normalized_lemma": "zurück",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1198,
+      "german": "die Zeit",
+      "normalized_lemma": "zeit",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1205,
+      "german": "die Zeitung",
+      "normalized_lemma": "zeitung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1209,
+      "german": "zusammen",
+      "normalized_lemma": "zusammen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1210,
+      "german": "zwischen",
+      "normalized_lemma": "zwischen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1212,
+      "german": "anziehen",
+      "normalized_lemma": "anziehen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "alphabetical",
+      "source_order": 1213,
+      "german": "ausziehen",
+      "normalized_lemma": "ausziehen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "ca.",
+      "normalized_lemma": "ca",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "Lkw",
+      "normalized_lemma": "lkw",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "z. B.",
+      "normalized_lemma": "zb",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Aufgabe",
+      "normalized_lemma": "aufgabe",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "das Beispiel",
+      "normalized_lemma": "beispiel",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Durchsage",
+      "normalized_lemma": "durchsage",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Lösung",
+      "normalized_lemma": "lösung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Prüfung",
+      "normalized_lemma": "prüfung",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Teil",
+      "normalized_lemma": "teil",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Test",
+      "normalized_lemma": "test",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Text",
+      "normalized_lemma": "text",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "das Wörterbuch",
+      "normalized_lemma": "wörterbuch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Hausmann / die Hausfrau",
+      "normalized_lemma": "hausmann / hausfrau",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Bruder",
+      "normalized_lemma": "bruder",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Eltern",
+      "normalized_lemma": "eltern",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Geschwister",
+      "normalized_lemma": "geschwister",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Großeltern",
+      "normalized_lemma": "grosseltern",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Großmutter",
+      "normalized_lemma": "grossmutter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Großvater",
+      "normalized_lemma": "grossvater",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "das Kind",
+      "normalized_lemma": "kind",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Mutter",
+      "normalized_lemma": "mutter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Schwester",
+      "normalized_lemma": "schwester",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Sohn",
+      "normalized_lemma": "sohn",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Tochter",
+      "normalized_lemma": "tochter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Vater",
+      "normalized_lemma": "vater",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Verwandte",
+      "normalized_lemma": "verwandte",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "ledig",
+      "normalized_lemma": "ledig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "verheiratet",
+      "normalized_lemma": "verheiratet",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "blau",
+      "normalized_lemma": "blau",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "braun",
+      "normalized_lemma": "braun",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "gelb",
+      "normalized_lemma": "gelb",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "grau",
+      "normalized_lemma": "grau",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "grün",
+      "normalized_lemma": "grün",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "rot",
+      "normalized_lemma": "rot",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "schwarz",
+      "normalized_lemma": "schwarz",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "weiß",
+      "normalized_lemma": "weiss",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Norden",
+      "normalized_lemma": "norden",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Süden",
+      "normalized_lemma": "süden",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Osten",
+      "normalized_lemma": "osten",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Westen",
+      "normalized_lemma": "westen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "Deutschland",
+      "normalized_lemma": "deutschland",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Deutsche / die Deutsche",
+      "normalized_lemma": "deutsche / deutsche",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "deutsch",
+      "normalized_lemma": "deutsch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "Europa",
+      "normalized_lemma": "europa",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Europäer / die Europäerin",
+      "normalized_lemma": "europäer / europäerin",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "europäisch",
+      "normalized_lemma": "europäisch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Hausaufgabe",
+      "normalized_lemma": "hausaufgabe",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Klasse",
+      "normalized_lemma": "klasse",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "Deutsch",
+      "normalized_lemma": "deutsch",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Sport",
+      "normalized_lemma": "sport",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Euro / der Cent",
+      "normalized_lemma": "euro / cent",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Meter",
+      "normalized_lemma": "meter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Zentimeter",
+      "normalized_lemma": "zentimeter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Kilometer",
+      "normalized_lemma": "kilometer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "das Prozent",
+      "normalized_lemma": "prozent",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Liter",
+      "normalized_lemma": "liter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "das Gramm / das Kilogramm",
+      "normalized_lemma": "gramm / kilogramm",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Sommer",
+      "normalized_lemma": "sommer",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Herbst",
+      "normalized_lemma": "herbst",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Winter",
+      "normalized_lemma": "winter",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Januar",
+      "normalized_lemma": "januar",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Februar",
+      "normalized_lemma": "februar",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der März",
+      "normalized_lemma": "märz",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der April",
+      "normalized_lemma": "april",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Mai",
+      "normalized_lemma": "mai",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Juni",
+      "normalized_lemma": "juni",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Juli",
+      "normalized_lemma": "juli",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der August",
+      "normalized_lemma": "august",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der September",
+      "normalized_lemma": "september",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Oktober",
+      "normalized_lemma": "oktober",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der November",
+      "normalized_lemma": "november",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Dezember",
+      "normalized_lemma": "dezember",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Tag",
+      "normalized_lemma": "tag",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Morgen",
+      "normalized_lemma": "morgen",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Vormittag",
+      "normalized_lemma": "vormittag",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Mittag",
+      "normalized_lemma": "mittag",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Nachmittag",
+      "normalized_lemma": "nachmittag",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Abend",
+      "normalized_lemma": "abend",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Nacht",
+      "normalized_lemma": "nacht",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "am Wochenende",
+      "normalized_lemma": "amwochenende",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "der Feiertag",
+      "normalized_lemma": "feiertag",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Sekunde",
+      "normalized_lemma": "sekunde",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Minute",
+      "normalized_lemma": "minute",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Stunde",
+      "normalized_lemma": "stunde",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "die Woche",
+      "normalized_lemma": "woche",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "das Jahr",
+      "normalized_lemma": "jahr",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "eins",
+      "normalized_lemma": "eins",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "zwei",
+      "normalized_lemma": "zwei",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "drei",
+      "normalized_lemma": "drei",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "vier",
+      "normalized_lemma": "vier",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "fünf",
+      "normalized_lemma": "fünf",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "sechs",
+      "normalized_lemma": "sechs",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "sieben",
+      "normalized_lemma": "sieben",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "acht",
+      "normalized_lemma": "acht",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "neun",
+      "normalized_lemma": "neun",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "zehn",
+      "normalized_lemma": "zehn",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "elf",
+      "normalized_lemma": "elf",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "zwölf",
+      "normalized_lemma": "zwölf",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "dreizehn",
+      "normalized_lemma": "dreizehn",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "vierzehn",
+      "normalized_lemma": "vierzehn",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "fünfzehn",
+      "normalized_lemma": "fünfzehn",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "sechzehn",
+      "normalized_lemma": "sechzehn",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "siebzehn",
+      "normalized_lemma": "siebzehn",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "achtzehn",
+      "normalized_lemma": "achtzehn",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "neunzehn",
+      "normalized_lemma": "neunzehn",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "zwanzig",
+      "normalized_lemma": "zwanzig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "dreißig",
+      "normalized_lemma": "dreissig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "vierzig",
+      "normalized_lemma": "vierzig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "fünfzig",
+      "normalized_lemma": "fünfzig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "sechzig",
+      "normalized_lemma": "sechzig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "siebzig",
+      "normalized_lemma": "siebzig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "achtzig",
+      "normalized_lemma": "achtzig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "neunzig",
+      "normalized_lemma": "neunzig",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "hundert",
+      "normalized_lemma": "hundert",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "tausend",
+      "normalized_lemma": "tausend",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    },
+    {
+      "source_section": "word_groups",
+      "source_order": null,
+      "german": "einmal",
+      "normalized_lemma": "einmal",
+      "resolution": "excluded_as_ordinary_A1_overlap"
+    }
+  ],
+  "source_variants_consolidated": 8,
+  "consolidated_variants": [
+    {
+      "german": "die Rentnerin",
+      "normalized_lemma": "rentnerin",
+      "kept_as": "die Rentnerin",
+      "resolution": "alphabetical_card_already_represents_word_group_item"
+    },
+    {
+      "german": "die Geschichte",
+      "normalized_lemma": "geschichte",
+      "kept_as": "die Geschichte",
+      "resolution": "alphabetical_card_already_represents_word_group_item"
+    },
+    {
+      "german": "die Kunst",
+      "normalized_lemma": "kunst",
+      "kept_as": "die Kunst",
+      "resolution": "alphabetical_card_already_represents_word_group_item"
+    },
+    {
+      "german": "der Babysitter",
+      "normalized_lemma": "babysitter",
+      "kept_as": "alphabetical section card",
+      "resolution": "alphabetical_card_already_represents_word_group_item"
+    },
+    {
+      "german": "der Rentner / die Rentnerin",
+      "normalized_lemma": "rentner / rentnerin",
+      "kept_as": "alphabetical section card",
+      "resolution": "alphabetical_card_already_represents_word_group_item"
+    },
+    {
+      "german": "die Geschichte",
+      "normalized_lemma": "geschichte",
+      "kept_as": "alphabetical section card",
+      "resolution": "alphabetical_card_already_represents_word_group_item"
+    },
+    {
+      "german": "die Kunst",
+      "normalized_lemma": "kunst",
+      "kept_as": "alphabetical section card",
+      "resolution": "alphabetical_card_already_represents_word_group_item"
+    },
+    {
+      "german": "die Musik",
+      "normalized_lemma": "musik",
+      "kept_as": "alphabetical section card",
+      "resolution": "alphabetical_card_already_represents_word_group_item"
+    }
+  ],
+  "resolved_homographs": [
+    {
+      "normalized_lemma": "mal",
+      "cards": [
+        "das Mal",
+        "mal"
+      ],
+      "resolution": "kept_as_distinct_word_classes_or_meanings"
+    },
+    {
+      "normalized_lemma": "orange",
+      "cards": [
+        "die Orange",
+        "orange"
+      ],
+      "resolution": "kept_as_distinct_word_classes_or_meanings"
+    },
+    {
+      "normalized_lemma": "weg",
+      "cards": [
+        "der Weg",
+        "weg"
+      ],
+      "resolution": "kept_as_distinct_word_classes_or_meanings"
+    }
+  ]
+}

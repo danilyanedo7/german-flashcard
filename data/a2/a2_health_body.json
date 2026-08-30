@@ -1,0 +1,384 @@
+[
+  {
+    "id": "a2_0549",
+    "german": "das Gesicht",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Gesichter",
+    "english": "face",
+    "accepted_answers": [
+      "face"
+    ],
+    "example_de": "Wasch dir bitte das Gesicht.",
+    "example_en": "Please wash your face.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0550",
+    "german": "das Krankenhaus",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Krankenhäuser",
+    "english": "hospital",
+    "accepted_answers": [
+      "hospital"
+    ],
+    "example_de": "Meine Tante ist im Krankenhaus.",
+    "example_en": "My aunt is in the hospital.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0551",
+    "german": "das Medikament",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Medikamente",
+    "english": "medication",
+    "accepted_answers": [
+      "medication",
+      "medicine",
+      "drug"
+    ],
+    "example_de": "Nehmen Sie dieses Medikament dreimal pro Tag!",
+    "example_en": "Take this medicine three times a day!",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0552",
+    "german": "der Hals",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Hälse",
+    "english": "throat",
+    "accepted_answers": [
+      "throat",
+      "neck"
+    ],
+    "example_de": "Mir tut der Hals weh.",
+    "example_en": "My neck hurts.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0553",
+    "german": "der Krankenpfleger / die Krankenschwester",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Krankenpfleger / die Krankenschwestern",
+    "english": "nurse",
+    "accepted_answers": [
+      "nurse"
+    ],
+    "example_de": "Der Krankenpfleger arbeitet im Krankenhaus.",
+    "example_en": "The nurse works at the hospital.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0554",
+    "german": "der Körper",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Körper",
+    "english": "body",
+    "accepted_answers": [
+      "body"
+    ],
+    "example_de": "Der Arzt sagt, ich muss etwas für meinen Körper tun, zum Beispiel schwimmen oder Fahrrad fahren.",
+    "example_en": "The doctor says I have to do something for my body, like swimming or cycling.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0555",
+    "german": "der Magen",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Mägen",
+    "english": "stomach",
+    "accepted_answers": [
+      "stomach"
+    ],
+    "example_de": "Mein Magen tut weh.",
+    "example_en": "My stomach hurts.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0556",
+    "german": "der Schmerz",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Schmerzen",
+    "english": "pain",
+    "accepted_answers": [
+      "pain",
+      "ache"
+    ],
+    "example_de": "Haben Sie Schmerzen?",
+    "example_en": "Do you have pain?",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0557",
+    "german": "der Zahn",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Zähne",
+    "english": "tooth",
+    "accepted_answers": [
+      "tooth"
+    ],
+    "example_de": "Der Zahn tut mir schon seit einer Woche weh.",
+    "example_en": "The tooth has been hurting me for a week.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0558",
+    "german": "die Angst",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Ängste",
+    "english": "fear",
+    "accepted_answers": [
+      "fear",
+      "anxiety"
+    ],
+    "example_de": "Hab keine Angst!",
+    "example_en": "Have no fear!",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0559",
+    "german": "die Apotheke",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Apotheken",
+    "english": "pharmacy",
+    "accepted_answers": [
+      "pharmacy",
+      "drugstore"
+    ],
+    "example_de": "Das Medikament bekommen Sie in der Apotheke.",
+    "example_en": "You can get the medicine at the pharmacy.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0560",
+    "german": "die Brille",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Brillen",
+    "english": "glasses",
+    "accepted_answers": [
+      "glasses",
+      "spectacles"
+    ],
+    "example_de": "Wo ist meine Brille?",
+    "example_en": "Where are my glasses?",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0561",
+    "german": "die Doktorin",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Doktorinnen",
+    "english": "doctor",
+    "accepted_answers": [
+      "doctor"
+    ],
+    "example_de": "Die Doktorin arbeitet im Krankenhaus.",
+    "example_en": "The doctor works at the hospital.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0562",
+    "german": "die Gesundheit",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "health",
+    "accepted_answers": [
+      "health",
+      "bless you"
+    ],
+    "example_de": "Gesundheit! Sind Sie erkältet?",
+    "example_en": "Bless you! Do you have a cold?",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0563",
+    "german": "die Grippe",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "flu",
+    "accepted_answers": [
+      "flu",
+      "influenza"
+    ],
+    "example_de": "Ich habe eine Grippe und kann leider nicht kommen.",
+    "example_en": "I have a flu and cannot come unfortunately.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0564",
+    "german": "die Krankenkasse",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Krankenkassen",
+    "english": "health insurance provider",
+    "accepted_answers": [
+      "health insurance provider",
+      "health insurance fund"
+    ],
+    "example_de": "Bei welcher Krankenkasse sind Sie?",
+    "example_en": "Which health insurance provider are you with?",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0565",
+    "german": "die Krankheit",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Krankheiten",
+    "english": "illness",
+    "accepted_answers": [
+      "illness",
+      "disease"
+    ],
+    "example_de": "Welche Krankheit hat Herr Brandner?",
+    "example_en": "What disease does Mr. Brandner have?",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0566",
+    "german": "die Ärztin",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Ärztinnen",
+    "english": "doctor",
+    "accepted_answers": [
+      "doctor",
+      "physician"
+    ],
+    "example_de": "Die Ärztin untersucht mich.",
+    "example_en": "The doctor examines me.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0567",
+    "german": "die Erkältung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Erkältungen",
+    "english": "cold",
+    "accepted_answers": [
+      "cold"
+    ],
+    "example_de": "Ich habe eine Erkältung.",
+    "example_en": "I have a cold.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0568",
+    "german": "der Schnupfen",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "runny nose",
+    "accepted_answers": [
+      "runny nose",
+      "cold",
+      "sniffles"
+    ],
+    "example_de": "Ich habe einen schlimmen Schnupfen.",
+    "example_en": "I have a bad runny nose.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0569",
+    "german": "das Knie",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Knie",
+    "english": "knee",
+    "accepted_answers": [
+      "knee"
+    ],
+    "example_de": "Mir tut das Knie weh.",
+    "example_en": "My knee hurts.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0570",
+    "german": "der Finger",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Finger",
+    "english": "finger",
+    "accepted_answers": [
+      "finger"
+    ],
+    "example_de": "Ich habe mir in den Finger geschnitten.",
+    "example_en": "I cut my finger.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0571",
+    "german": "das Herz",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Herzen",
+    "english": "heart",
+    "accepted_answers": [
+      "heart"
+    ],
+    "example_de": "Das Herz schlägt schneller beim Sport.",
+    "example_en": "The heart beats faster during sports.",
+    "topic": "health_body",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  }
+]

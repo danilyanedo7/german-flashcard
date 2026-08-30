@@ -1,0 +1,92 @@
+{
+  "level": "A2",
+  "official_source_items_examined": 1444,
+  "official_alphabetic_items_examined": 1214,
+  "official_word_group_items_examined": 230,
+  "a1_overlaps_detected_and_excluded": 715,
+  "source_variants_consolidated": 8,
+  "unique_a2_cards_added": 772,
+  "manual_review_required": 0,
+  "official_source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+  "official_source_access_date": "2026-08-30",
+  "official_source_is_cumulative": true,
+  "validation_errors": [],
+  "quality_checks": [
+    "valid UTF-8 JSON and NFC Unicode",
+    "exact A1 field names, field order, types, and null handling",
+    "unique sequential A2 IDs",
+    "unique exact German headwords",
+    "normalized German homographs explicitly resolved",
+    "automated normalized A1/A2 lemma comparison",
+    "articles, noun genders, and full plural forms",
+    "verb infinitives and normalized reflexive/separable forms",
+    "non-empty primary and accepted English answers",
+    "duplicate and malformed accepted answers",
+    "natural punctuated German and English examples",
+    "official source metadata on every card",
+    "topic shards exactly reproduce the master dataset",
+    "zero unresolved production-review entries"
+  ],
+  "files": [
+    {
+      "topic": "common_actions_descriptions",
+      "file": "a2_common_actions_descriptions.json",
+      "entries": 418
+    },
+    {
+      "topic": "communication",
+      "file": "a2_communication.json",
+      "entries": 94
+    },
+    {
+      "topic": "food_drink",
+      "file": "a2_food_drink.json",
+      "entries": 36
+    },
+    {
+      "topic": "health_body",
+      "file": "a2_health_body.json",
+      "entries": 23
+    },
+    {
+      "topic": "home",
+      "file": "a2_home.json",
+      "entries": 16
+    },
+    {
+      "topic": "leisure",
+      "file": "a2_leisure.json",
+      "entries": 20
+    },
+    {
+      "topic": "nature_weather",
+      "file": "a2_nature_weather.json",
+      "entries": 13
+    },
+    {
+      "topic": "people_family",
+      "file": "a2_people_family.json",
+      "entries": 15
+    },
+    {
+      "topic": "shopping_services",
+      "file": "a2_shopping_services.json",
+      "entries": 13
+    },
+    {
+      "topic": "time_numbers",
+      "file": "a2_time_numbers.json",
+      "entries": 46
+    },
+    {
+      "topic": "travel_transport",
+      "file": "a2_travel_transport.json",
+      "entries": 26
+    },
+    {
+      "topic": "work_education",
+      "file": "a2_work_education.json",
+      "entries": 52
+    }
+  ]
+}

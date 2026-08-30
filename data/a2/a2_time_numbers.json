@@ -1,0 +1,768 @@
+[
+  {
+    "id": "a2_0649",
+    "german": "abends",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "in the evenings",
+    "accepted_answers": [
+      "in the evenings",
+      "every evening"
+    ],
+    "example_de": "Abends lese ich gern.",
+    "example_en": "I like to read in the evenings.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0650",
+    "german": "am Wochenende",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "at the weekend",
+    "accepted_answers": [
+      "at the weekend",
+      "on the weekend"
+    ],
+    "example_de": "Am Wochenende besuchen wir Freunde.",
+    "example_en": "We are visiting friends at the weekend.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0651",
+    "german": "damals",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "back then",
+    "accepted_answers": [
+      "back then",
+      "at that time"
+    ],
+    "example_de": "Als Student hatte ich viel Zeit und wollte reisen, aber damals hatte ich kein Geld.",
+    "example_en": "As a student I had a lot of time and wanted to travel, but then I had no money.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0652",
+    "german": "das Mal",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "time",
+    "accepted_answers": [
+      "time"
+    ],
+    "example_de": "Das erste Mal war ich vor fünf Jahren in England.",
+    "example_en": "The first time I was in England was five years ago.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0653",
+    "german": "der Arbeitstag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Arbeitstage",
+    "english": "workday",
+    "accepted_answers": [
+      "workday",
+      "working day"
+    ],
+    "example_de": "Mein Arbeitstag beginnt um acht Uhr.",
+    "example_en": "My workday starts at eight o'clock.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0654",
+    "german": "der Franken",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Franken",
+    "english": "franc",
+    "accepted_answers": [
+      "franc",
+      "Swiss franc"
+    ],
+    "example_de": "Das kostet zehn Franken.",
+    "example_en": "That costs ten francs.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0655",
+    "german": "der Kalender",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Kalender",
+    "english": "calendar",
+    "accepted_answers": [
+      "calendar"
+    ],
+    "example_de": "Haben Sie am Montag Zeit? - Einen Moment, ich schaue in meinem Kalender.",
+    "example_en": "One moment, let me check my calendar.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0656",
+    "german": "der Rappen",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Rappen",
+    "english": "rappen",
+    "accepted_answers": [
+      "rappen",
+      "Swiss centime"
+    ],
+    "example_de": "Ein Franken hat hundert Rappen.",
+    "example_en": "One franc is one hundred rappen.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0657",
+    "german": "der Werktag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Werktage",
+    "english": "weekday",
+    "accepted_answers": [
+      "weekday",
+      "working day"
+    ],
+    "example_de": "Die Praxis ist nur an Werktagen geöffnet.",
+    "example_en": "The doctor's office is only open on weekdays.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0658",
+    "german": "die Mitternacht",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "midnight",
+    "accepted_answers": [
+      "midnight"
+    ],
+    "example_de": "Der Film endet um Mitternacht.",
+    "example_en": "The movie ends at midnight.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0659",
+    "german": "die Zahl",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Zahlen",
+    "english": "number",
+    "accepted_answers": [
+      "number"
+    ],
+    "example_de": "Können Sie die Zahl bitte wiederholen?",
+    "example_en": "Can you repeat the number please?",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0660",
+    "german": "dienstags",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "on Tuesdays",
+    "accepted_answers": [
+      "on Tuesdays",
+      "every Tuesday"
+    ],
+    "example_de": "Dienstags gehe ich schwimmen.",
+    "example_en": "I go swimming on Tuesdays.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0661",
+    "german": "donnerstags",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "on Thursdays",
+    "accepted_answers": [
+      "on Thursdays",
+      "every Thursday"
+    ],
+    "example_de": "Donnerstags spielt sie Tennis.",
+    "example_en": "She plays tennis on Thursdays.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0662",
+    "german": "dreimal",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "three times",
+    "accepted_answers": [
+      "three times"
+    ],
+    "example_de": "Nehmen Sie die Tablette dreimal täglich.",
+    "example_en": "Take the tablet three times a day.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0663",
+    "german": "dritte",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "third",
+    "accepted_answers": [
+      "third"
+    ],
+    "example_de": "Wir wohnen im dritten Stock.",
+    "example_en": "We live on the third floor.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0664",
+    "german": "eine Million",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "one million",
+    "accepted_answers": [
+      "one million",
+      "a million"
+    ],
+    "example_de": "Die Stadt hat eine Million Einwohner.",
+    "example_en": "The city has one million residents.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0665",
+    "german": "einundzwanzig",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "twenty-one",
+    "accepted_answers": [
+      "twenty-one",
+      "twenty one"
+    ],
+    "example_de": "Der Kurs hat einundzwanzig Teilnehmer.",
+    "example_en": "The course has twenty-one participants.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0666",
+    "german": "erste",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "first",
+    "accepted_answers": [
+      "first"
+    ],
+    "example_de": "Sie war die erste Person am Ziel.",
+    "example_en": "She was the first person at the finish.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0667",
+    "german": "freitags",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "on Fridays",
+    "accepted_answers": [
+      "on Fridays",
+      "every Friday"
+    ],
+    "example_de": "Freitags gehen wir ins Kino.",
+    "example_en": "We go to the movies on Fridays.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0668",
+    "german": "Grad Celsius",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "degree Celsius",
+    "accepted_answers": [
+      "degree Celsius",
+      "degree centigrade"
+    ],
+    "example_de": "Heute sind es zehn Grad Celsius.",
+    "example_en": "It is ten degrees Celsius today.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0669",
+    "german": "hunderteins",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "one hundred and one",
+    "accepted_answers": [
+      "one hundred and one",
+      "one hundred one"
+    ],
+    "example_de": "Das Buch hat hunderteins Seiten.",
+    "example_en": "The book has one hundred and one pages.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0670",
+    "german": "Karneval",
+    "word_type": "proper noun",
+    "gender": null,
+    "plural": null,
+    "english": "Carnival",
+    "accepted_answers": [
+      "Carnival"
+    ],
+    "example_de": "Im Februar feiern wir Karneval.",
+    "example_en": "We celebrate Carnival in February.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0671",
+    "german": "mal",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "once",
+    "accepted_answers": [
+      "once",
+      "just",
+      "sometime"
+    ],
+    "example_de": "Sag mal, wie gefällt dir mein neues Kleid?",
+    "example_en": "Tell me, what do you think of my new dress?",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0672",
+    "german": "manchmal",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "sometimes",
+    "accepted_answers": [
+      "sometimes"
+    ],
+    "example_de": "Manchmal essen wir im Restaurant.",
+    "example_en": "Sometimes we eat in the restaurant.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0673",
+    "german": "mittags",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "at noon",
+    "accepted_answers": [
+      "at noon",
+      "at lunchtime"
+    ],
+    "example_de": "Mittags esse ich in der Kantine.",
+    "example_en": "I eat in the cafeteria at noon.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0674",
+    "german": "mittwochs",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "on Wednesdays",
+    "accepted_answers": [
+      "on Wednesdays",
+      "every Wednesday"
+    ],
+    "example_de": "Mittwochs arbeite ich zu Hause.",
+    "example_en": "I work from home on Wednesdays.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0675",
+    "german": "montags",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "on Mondays",
+    "accepted_answers": [
+      "on Mondays",
+      "every Monday"
+    ],
+    "example_de": "Montags habe ich Deutschkurs.",
+    "example_en": "I have German class on Mondays.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0676",
+    "german": "morgens",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "in the mornings",
+    "accepted_answers": [
+      "in the mornings",
+      "every morning"
+    ],
+    "example_de": "Morgens trinke ich Kaffee.",
+    "example_en": "I drink coffee in the mornings.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0677",
+    "german": "nachmittags",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "in the afternoons",
+    "accepted_answers": [
+      "in the afternoons",
+      "every afternoon"
+    ],
+    "example_de": "Nachmittags mache ich meine Hausaufgaben.",
+    "example_en": "I do my homework in the afternoons.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0678",
+    "german": "nachts",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "at night",
+    "accepted_answers": [
+      "at night",
+      "during the night"
+    ],
+    "example_de": "Nachts ist es hier ruhig.",
+    "example_en": "It is quiet here at night.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0679",
+    "german": "Neujahr",
+    "word_type": "proper noun",
+    "gender": null,
+    "plural": null,
+    "english": "New Year's Day",
+    "accepted_answers": [
+      "New Year's Day",
+      "New Year"
+    ],
+    "example_de": "An Neujahr haben viele Geschäfte geschlossen.",
+    "example_en": "Many stores are closed on New Year's Day.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0680",
+    "german": "Ostern",
+    "word_type": "proper noun",
+    "gender": null,
+    "plural": null,
+    "english": "Easter",
+    "accepted_answers": [
+      "Easter"
+    ],
+    "example_de": "Zu Ostern besuchen wir unsere Familie.",
+    "example_en": "We visit our family at Easter.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0681",
+    "german": "samstags",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "on Saturdays",
+    "accepted_answers": [
+      "on Saturdays",
+      "every Saturday"
+    ],
+    "example_de": "Samstags kaufe ich auf dem Markt ein.",
+    "example_en": "I shop at the market on Saturdays.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0682",
+    "german": "Silvester",
+    "word_type": "proper noun",
+    "gender": null,
+    "plural": null,
+    "english": "New Year's Eve",
+    "accepted_answers": [
+      "New Year's Eve"
+    ],
+    "example_de": "An Silvester feiern wir mit Freunden.",
+    "example_en": "We celebrate with friends on New Year's Eve.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0683",
+    "german": "sonntags",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "on Sundays",
+    "accepted_answers": [
+      "on Sundays",
+      "every Sunday"
+    ],
+    "example_de": "Sonntags besuchen wir meine Eltern.",
+    "example_en": "We visit my parents on Sundays.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0684",
+    "german": "tagsüber",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "during the day",
+    "accepted_answers": [
+      "during the day",
+      "in the daytime"
+    ],
+    "example_de": "Tagsüber bin ich bei der Arbeit.",
+    "example_en": "I am at work during the day.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0685",
+    "german": "täglich",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "daily",
+    "accepted_answers": [
+      "daily",
+      "every day"
+    ],
+    "example_de": "Der Bus fährt täglich.",
+    "example_en": "The bus runs every day.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0686",
+    "german": "um Mitternacht",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "at midnight",
+    "accepted_answers": [
+      "at midnight"
+    ],
+    "example_de": "Der Zug fährt um Mitternacht ab.",
+    "example_en": "The train leaves at midnight.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0687",
+    "german": "viermal",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "four times",
+    "accepted_answers": [
+      "four times"
+    ],
+    "example_de": "Der Bus fährt viermal am Tag.",
+    "example_en": "The bus runs four times a day.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0688",
+    "german": "vierte",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "fourth",
+    "accepted_answers": [
+      "fourth"
+    ],
+    "example_de": "Die vierte Aufgabe ist schwer.",
+    "example_en": "The fourth task is difficult.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0689",
+    "german": "vormittags",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "in the late mornings",
+    "accepted_answers": [
+      "in the late mornings",
+      "before noon"
+    ],
+    "example_de": "Vormittags bin ich im Büro.",
+    "example_en": "I am at the office before noon.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0690",
+    "german": "Weihnachten",
+    "word_type": "proper noun",
+    "gender": null,
+    "plural": null,
+    "english": "Christmas",
+    "accepted_answers": [
+      "Christmas"
+    ],
+    "example_de": "Zu Weihnachten fahren wir zu meinen Eltern.",
+    "example_en": "We visit my parents at Christmas.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0691",
+    "german": "zweihundert",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "two hundred",
+    "accepted_answers": [
+      "two hundred"
+    ],
+    "example_de": "Das Hotel hat zweihundert Zimmer.",
+    "example_en": "The hotel has two hundred rooms.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0692",
+    "german": "zweimal",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "twice",
+    "accepted_answers": [
+      "twice",
+      "two times"
+    ],
+    "example_de": "Ich trainiere zweimal pro Woche.",
+    "example_en": "I train twice a week.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0693",
+    "german": "zweitausendeins",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "two thousand and one",
+    "accepted_answers": [
+      "two thousand and one",
+      "two thousand one"
+    ],
+    "example_de": "Er wurde im Jahr zweitausendeins geboren.",
+    "example_en": "He was born in the year two thousand and one.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0694",
+    "german": "zweite",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "second",
+    "accepted_answers": [
+      "second"
+    ],
+    "example_de": "Das ist mein zweiter Versuch.",
+    "example_en": "This is my second attempt.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  }
+]

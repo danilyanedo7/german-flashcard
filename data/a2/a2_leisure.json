@@ -1,0 +1,328 @@
+[
+  {
+    "id": "a2_0588",
+    "german": "das Festival",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Festivals",
+    "english": "festival",
+    "accepted_answers": [
+      "festival"
+    ],
+    "example_de": "Am Wochenende ist in der Stadt ein Musikfestival.",
+    "example_en": "There is a music festival in the city this weekend.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0589",
+    "german": "das Instrument",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Instrumente",
+    "english": "instrument",
+    "accepted_answers": [
+      "instrument"
+    ],
+    "example_de": "Ich spiele Klavier. Spielen Sie auch ein Instrument?",
+    "example_en": "I play piano. Do you also play an instrument?",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0590",
+    "german": "das Konzert",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Konzerte",
+    "english": "concert",
+    "accepted_answers": [
+      "concert"
+    ],
+    "example_de": "Für das Konzert am Sonntag gibt es noch Karten.",
+    "example_en": "There are still tickets for the concert on Sunday.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0591",
+    "german": "das Museum",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Museen",
+    "english": "museum",
+    "accepted_answers": [
+      "museum"
+    ],
+    "example_de": "Im Kunstmuseum gibt es eine neue Ausstellung.",
+    "example_en": "There is a new exhibition in the Kunstmuseum.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0592",
+    "german": "das Theater",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Theater",
+    "english": "theater",
+    "accepted_answers": [
+      "theater",
+      "theatre"
+    ],
+    "example_de": "Ich gehe nicht gern ins Theater.",
+    "example_en": "I do not like going to the theater.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0593",
+    "german": "der Basketball",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Basketbälle",
+    "english": "basketball",
+    "accepted_answers": [
+      "basketball"
+    ],
+    "example_de": "Yannick spielt lieber Basketball als Fußball.",
+    "example_en": "Yannick likes to play basketball rather than football.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0594",
+    "german": "der Flohmarkt",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Flohmärkte",
+    "english": "flea market",
+    "accepted_answers": [
+      "flea market"
+    ],
+    "example_de": "Ich gehe gern auf den Flohmarkt.",
+    "example_en": "I like to go to the flea market.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0595",
+    "german": "der Krimi",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Krimis",
+    "english": "crime story",
+    "accepted_answers": [
+      "crime story",
+      "crime novel",
+      "thriller"
+    ],
+    "example_de": "Miriam liest gern spannende Krimis.",
+    "example_en": "Miriam likes to read exciting thrillers.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0596",
+    "german": "der Künstler / die Künstlerin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Künstler / die Künstlerinnen",
+    "english": "artist",
+    "accepted_answers": [
+      "artist"
+    ],
+    "example_de": "Die Künstlerin malt ein Bild.",
+    "example_en": "The artist paints a picture.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0597",
+    "german": "der Musiker / die Musikerin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Musiker / die Musikerinnen",
+    "english": "musician",
+    "accepted_answers": [
+      "musician"
+    ],
+    "example_de": "Der Musiker spielt Klavier.",
+    "example_en": "The musician plays the piano.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0598",
+    "german": "der Schauspieler / die Schauspielerin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Schauspieler / die Schauspielerinnen",
+    "english": "actor",
+    "accepted_answers": [
+      "actor",
+      "actress"
+    ],
+    "example_de": "Die Schauspielerin spielt in einem neuen Film.",
+    "example_en": "The actor is in a new movie.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0599",
+    "german": "der Sportplatz",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Sportplätze",
+    "english": "sports field",
+    "accepted_answers": [
+      "sports field",
+      "sports ground"
+    ],
+    "example_de": "Das Fußballtraining ist um 17 Uhr auf dem Sportplatz.",
+    "example_en": "The football training is at 5 pm on the sports field.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0600",
+    "german": "der Sänger / die Sängerin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Sänger / die Sängerinnen",
+    "english": "singer",
+    "accepted_answers": [
+      "singer"
+    ],
+    "example_de": "Die Sängerin ist sehr bekannt.",
+    "example_en": "The singer is very well known.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0601",
+    "german": "der Volleyball",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Volleybälle",
+    "english": "volleyball",
+    "accepted_answers": [
+      "volleyball"
+    ],
+    "example_de": "Ich spiele gern Volleyball.",
+    "example_en": "I like to play volleyball.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0602",
+    "german": "der Zirkus",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Zirkusse",
+    "english": "circus",
+    "accepted_answers": [
+      "circus"
+    ],
+    "example_de": "Heute gehen wir mit den Kindern in den Zirkus.",
+    "example_en": "We are taking the children to the circus today.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0603",
+    "german": "der Zoo",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Zoos",
+    "english": "zoo",
+    "accepted_answers": [
+      "zoo"
+    ],
+    "example_de": "Am Sonntag gehen wir in den Zoo.",
+    "example_en": "On Sunday we go to the zoo.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0604",
+    "german": "die Band",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Bands",
+    "english": "band",
+    "accepted_answers": [
+      "band",
+      "music group"
+    ],
+    "example_de": "Was ist deine Lieblingsband?",
+    "example_en": "What's your favorite band?",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0605",
+    "german": "die Gitarre",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Gitarren",
+    "english": "guitar",
+    "accepted_answers": [
+      "guitar"
+    ],
+    "example_de": "Er kann gut Gitarre spielen.",
+    "example_en": "He can play guitar.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0606",
+    "german": "die Kunst",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Künste",
+    "english": "art",
+    "accepted_answers": [
+      "art"
+    ],
+    "example_de": "Ich verstehe nichts von moderner Kunst.",
+    "example_en": "I do not understand modern art.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0607",
+    "german": "malen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "paint",
+    "accepted_answers": [
+      "paint"
+    ],
+    "example_de": "Mein Sohn kann gut malen.",
+    "example_en": "My son can paint well.",
+    "topic": "leisure",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  }
+]
