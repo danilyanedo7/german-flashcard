@@ -1,0 +1,423 @@
+[
+  {
+    "id": "a1_0492",
+    "german": "das Apartment",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Apartments",
+    "english": "apartment",
+    "accepted_answers": [
+      "apartment"
+    ],
+    "example_de": "Wir haben ein Apartment gemietet.",
+    "example_en": "We rented an apartment.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0493",
+    "german": "das Bad",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Bäder",
+    "english": "bathroom",
+    "accepted_answers": [
+      "bathroom"
+    ],
+    "example_de": "Wir haben kein großes Bad.",
+    "example_en": "We don’t have a large bathroom.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0494",
+    "german": "das Bett",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Betten",
+    "english": "bed",
+    "accepted_answers": [
+      "bed"
+    ],
+    "example_de": "Wir brauchen noch ein Kinderbett.",
+    "example_en": "We need another children’s bed.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0495",
+    "german": "das Haus",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Häuser",
+    "english": "house",
+    "accepted_answers": [
+      "house",
+      "building",
+      "home"
+    ],
+    "example_de": "In welchem Haus wohnst du?",
+    "example_en": "Which house do you live in?",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0496",
+    "german": "das Licht",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Lichter",
+    "english": "light",
+    "accepted_answers": [
+      "light"
+    ],
+    "example_de": "Wo macht man hier das Licht an?",
+    "example_en": "Where do you switch on the light here?",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0497",
+    "german": "das Sofa",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Sofas",
+    "english": "sofa",
+    "accepted_answers": [
+      "sofa"
+    ],
+    "example_de": "Das Sofa ist neu.",
+    "example_en": "The sofa is new.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0498",
+    "german": "das Zimmer",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Zimmer",
+    "english": "room",
+    "accepted_answers": [
+      "room"
+    ],
+    "example_de": "Das Zimmer ist groß.",
+    "example_en": "The room is large.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0499",
+    "german": "der Balkon",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Balkone",
+    "english": "balcony",
+    "accepted_answers": [
+      "balcony"
+    ],
+    "example_de": "Die Wohnung hat auch einen kleinen Balkon.",
+    "example_en": "The flat also has a small balcony.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0500",
+    "german": "der Eingang",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Eingänge",
+    "english": "entrance",
+    "accepted_answers": [
+      "entrance"
+    ],
+    "example_de": "Der Eingang ist um die Ecke.",
+    "example_en": "The entrance is round the corner.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0501",
+    "german": "der Garten",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Gärten",
+    "english": "garden",
+    "accepted_answers": [
+      "garden"
+    ],
+    "example_de": "Wir haben leider keinen Garten.",
+    "example_en": "Unfortunately we don't have a garden.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0502",
+    "german": "der Herd",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Herde",
+    "english": "stove",
+    "accepted_answers": [
+      "stove"
+    ],
+    "example_de": "In der neuen Küche fehlt noch der Herd.",
+    "example_en": "The stove is still missing from the new kitchen.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0503",
+    "german": "der Kühlschrank",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Kühlschränke",
+    "english": "fridge",
+    "accepted_answers": [
+      "fridge"
+    ],
+    "example_de": "Die Milch ist im Kühlschrank.",
+    "example_en": "The milk is in the fridge.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0504",
+    "german": "der Raum",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Räume",
+    "english": "room",
+    "accepted_answers": [
+      "room"
+    ],
+    "example_de": "Der Unterricht ist in Raum 332.",
+    "example_en": "The class is in room 332.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0505",
+    "german": "der Schlüssel",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Schlüssel",
+    "english": "key",
+    "accepted_answers": [
+      "key"
+    ],
+    "example_de": "Ich gebe Ihnen noch den Zimmerschlüssel.",
+    "example_en": "I’ll give you the room key as well.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0506",
+    "german": "der Schrank",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Schränke",
+    "english": "cabinet",
+    "accepted_answers": [
+      "cabinet",
+      "cupboard",
+      "wardrobe"
+    ],
+    "example_de": "Die Gläser stehen im Schrank.",
+    "example_en": "The glasses are in the cupboard.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0507",
+    "german": "der Vermieter",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Vermieter",
+    "english": "landlord",
+    "accepted_answers": [
+      "landlord"
+    ],
+    "example_de": "Unser Vermieter heißt Huber. Er wohnt auch hier.",
+    "example_en": "Our landlord is called Huber. He lives here, too.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0508",
+    "german": "die Dusche",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Duschen",
+    "english": "shower",
+    "accepted_answers": [
+      "shower"
+    ],
+    "example_de": "Unsere Wohnung hat nur eine Dusche.",
+    "example_en": "Our flat only has a shower.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0509",
+    "german": "die Küche",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Küchen",
+    "english": "kitchen",
+    "accepted_answers": [
+      "kitchen"
+    ],
+    "example_de": "Der neue Herd kommt in die Küche.",
+    "example_en": "The new stove goes in the kitchen.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0510",
+    "german": "die Miete",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Mieten",
+    "english": "rent",
+    "accepted_answers": [
+      "rent"
+    ],
+    "example_de": "Die Miete für diese Wohnung ist 600 Euro.",
+    "example_en": "The rent for this flat is 600 euros.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0511",
+    "german": "die Möbel",
+    "word_type": "noun",
+    "gender": "plural",
+    "plural": "die Möbel",
+    "english": "furniture",
+    "accepted_answers": [
+      "furniture"
+    ],
+    "example_de": "Sind die Möbel neu?",
+    "example_en": "Is the furniture new?",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0512",
+    "german": "die Treppe",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Treppen",
+    "english": "stairs",
+    "accepted_answers": [
+      "stairs",
+      "staircase"
+    ],
+    "example_de": "Die Toilette? Die Treppe hoch und dann links.",
+    "example_en": "The toilet? Up the stairs and then left.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0513",
+    "german": "die Wohnung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Wohnungen",
+    "english": "apartment",
+    "accepted_answers": [
+      "apartment"
+    ],
+    "example_de": "Seit wann haben Sie diese Wohnung?",
+    "example_en": "How long have you had this flat?",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0514",
+    "german": "mieten",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "rent",
+    "accepted_answers": [
+      "rent"
+    ],
+    "example_de": "Ich möchte ein Auto mieten.",
+    "example_en": "I would like to rent a car.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0515",
+    "german": "umziehen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "move",
+    "accepted_answers": [
+      "move"
+    ],
+    "example_de": "Nächsten Monat ziehen wir um.",
+    "example_en": "Next month we are moving.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0516",
+    "german": "vermieten",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "rent out",
+    "accepted_answers": [
+      "rent out"
+    ],
+    "example_de": "Die Wohnung ist schon vermietet.",
+    "example_en": "The flat is already rented out.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0517",
+    "german": "wohnen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "live",
+    "accepted_answers": [
+      "live"
+    ],
+    "example_de": "Ich wohne in München.",
+    "example_en": "I live in Munich.",
+    "topic": "home",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  }
+]

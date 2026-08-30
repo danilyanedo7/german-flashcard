@@ -1,0 +1,290 @@
+[
+  {
+    "id": "a1_0474",
+    "german": "baden",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "bathe",
+    "accepted_answers": [
+      "bathe"
+    ],
+    "example_de": "Ich bade nicht so gern, ich dusche lieber.",
+    "example_en": "I don’t like bathing so much, I prefer to shower.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0475",
+    "german": "das Auge",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Augen",
+    "english": "eye",
+    "accepted_answers": [
+      "eye"
+    ],
+    "example_de": "Er hat blaue Augen.",
+    "example_en": "He has blue eyes.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0476",
+    "german": "das Bein",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Beine",
+    "english": "leg",
+    "accepted_answers": [
+      "leg"
+    ],
+    "example_de": "Mein rechtes Bein tut weh.",
+    "example_en": "My right leg hurts.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0477",
+    "german": "das Fieber",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "fever",
+    "accepted_answers": [
+      "fever"
+    ],
+    "example_de": "Mein Mann hat noch immer Fieber.",
+    "example_en": "My husband still has a fever.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0478",
+    "german": "der Arm",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Arme",
+    "english": "arm",
+    "accepted_answers": [
+      "arm"
+    ],
+    "example_de": "Mein Arm tut weh.",
+    "example_en": "My arm hurts.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0479",
+    "german": "der Arzt",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Ärzte",
+    "english": "doctor",
+    "accepted_answers": [
+      "doctor"
+    ],
+    "example_de": "Morgen habe ich einen Termin bei meiner Ärztin.",
+    "example_en": "Tomorrow I have an appointment with my doctor.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0480",
+    "german": "der Bauch",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Bäuche",
+    "english": "stomach",
+    "accepted_answers": [
+      "stomach"
+    ],
+    "example_de": "Seit gestern tut mir der Bauch weh.",
+    "example_en": "My stomach has been hurting since yesterday.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0481",
+    "german": "der Fuß",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Füße",
+    "english": "foot",
+    "accepted_answers": [
+      "foot"
+    ],
+    "example_de": "Der linke Fuß tut mir weh.",
+    "example_en": "My left foot hurts.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0482",
+    "german": "der Kopf",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Köpfe",
+    "english": "head",
+    "accepted_answers": [
+      "head"
+    ],
+    "example_de": "Mein Kopf tut weh!",
+    "example_en": "My head hurts!",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0483",
+    "german": "der Mund",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Münder",
+    "english": "mouth",
+    "accepted_answers": [
+      "mouth"
+    ],
+    "example_de": "Öffnen Sie den Mund.",
+    "example_en": "Open your mouth.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0484",
+    "german": "die Hand",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Hände",
+    "english": "hand",
+    "accepted_answers": [
+      "hand"
+    ],
+    "example_de": "Er gibt mir die Hand.",
+    "example_en": "He gives me his hand.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0485",
+    "german": "die Hilfe",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Hilfen",
+    "english": "help",
+    "accepted_answers": [
+      "help"
+    ],
+    "example_de": "Hilfe! Bitte helfen Sie mir!",
+    "example_en": "Help! Please help me!",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0486",
+    "german": "die Praxis",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Praxen",
+    "english": "practice",
+    "accepted_answers": [
+      "practice"
+    ],
+    "example_de": "Die Praxis ist ab acht Uhr geöffnet.",
+    "example_en": "The practice is open from 8 am.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0487",
+    "german": "die Toilette",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Toiletten",
+    "english": "restroom",
+    "accepted_answers": [
+      "restroom"
+    ],
+    "example_de": "Wo ist die Toilette, bitte?",
+    "example_en": "Where is the toilet, please?",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0488",
+    "german": "krank",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "ill",
+    "accepted_answers": [
+      "ill"
+    ],
+    "example_de": "Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett.",
+    "example_en": "I can’t come to work today, I’m ill in bed.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0489",
+    "german": "sich duschen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "shower",
+    "accepted_answers": [
+      "shower"
+    ],
+    "example_de": "Ich bade nicht so gern, ich dusche lieber.",
+    "example_en": "I don’t like bathing so much, I prefer to shower.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0490",
+    "german": "sich waschen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "wash",
+    "accepted_answers": [
+      "wash"
+    ],
+    "example_de": "Wo kann ich mir die Hände waschen?",
+    "example_en": "Where can I wash my hands?",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0491",
+    "german": "wehtun",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "hurt",
+    "accepted_answers": [
+      "hurt"
+    ],
+    "example_de": "Ich muss zum Arzt. Mein Bein tut weh.",
+    "example_en": "I need to go to the doctor. My leg hurts.",
+    "topic": "health_body",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  }
+]

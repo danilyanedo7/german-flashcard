@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A focused German vocabulary typing game for everyday A1 practice.">
+    <title>Wort für Wort · German typing practice</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <button class="brand" type="button" data-action="home" aria-label="Return to level selection">
+          <span class="brand__mark" aria-hidden="true">W</span>
+          <span>Wort für Wort</span>
+        </button>
+        <p class="site-header__tagline">German typing practice</p>
+      </div>
+    </header>
+
+    <main id="main-content" class="page-shell">
+      <section id="home-view" class="view view--home" aria-labelledby="home-title">
+        <div class="hero">
+          <p class="eyebrow">German · vocabulary · focus</p>
+          <h1 id="home-title">Build your German, one word at a time.</h1>
+          <p class="hero__lede">Type the English translation, learn from your misses, and keep your momentum.</p>
+        </div>
+
+        <div id="data-error" class="data-error" role="alert" hidden></div>
+
+        <section class="surface level-picker" aria-labelledby="level-title">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Choose your level</p>
+              <h2 id="level-title">Where would you like to start?</h2>
+            </div>
+            <span class="section-heading__note">A1 is ready</span>
+          </div>
+          <div id="level-grid" class="level-grid" aria-live="polite"></div>
+        </section>
+
+        <div class="home-footer">
+          <p id="history-note" class="muted-note">Learning history is saved on this device.</p>
+          <button id="reset-history" class="text-button" type="button">Reset learning history</button>
+        </div>
+      </section>
+
+      <section id="session-view" class="view" aria-labelledby="session-title" hidden>
+        <button class="back-button" type="button" data-action="home">← Back to levels</button>
+        <div class="session-intro">
+          <p class="eyebrow">Level <span id="selected-level">A1</span></p>
+          <h1 id="session-title">Choose your practice length.</h1>
+          <p id="selected-level-count" class="muted-note">Loading cards…</p>
+        </div>
+        <form id="session-form" class="surface session-form">
+          <fieldset>
+            <legend>How many questions?</legend>
+            <div class="session-options">
+              <label class="session-option session-option--selected">
+                <input id="session-size-20" type="radio" name="session-size" value="20" checked>
+                <span class="session-option__number">20</span>
+                <span class="session-option__label">Quick practice</span>
+              </label>
+              <label class="session-option">
+                <input type="radio" name="session-size" value="50">
+                <span class="session-option__number">50</span>
+                <span class="session-option__label">Standard session</span>
+              </label>
+              <label class="session-option">
+                <input type="radio" name="session-size" value="100">
+                <span class="session-option__number">100</span>
+                <span class="session-option__label">Deep practice</span>
+              </label>
+              <label class="session-option">
+                <input type="radio" name="session-size" value="endless">
+                <span class="session-option__number session-option__number--word">∞</span>
+                <span class="session-option__label">Endless practice</span>
+              </label>
+            </div>
+          </fieldset>
+          <button class="button button--primary button--large" type="submit">Start practice <span aria-hidden="true">→</span></button>
+        </form>
+      </section>
+
+      <section id="game-view" class="view" aria-labelledby="game-title" hidden>
+        <div class="game-topline">
+          <span class="level-pill" id="game-level">A1</span>
+          <p class="progress-label">Question <span id="question-progress">1 / 20</span></p>
+          <button class="text-button" type="button" data-action="home">Leave session</button>
+        </div>
+
+        <div class="stats-row" aria-label="Session statistics">
+          <div class="stat"><span class="stat__label">Correct</span><strong id="correct-count">0</strong></div>
+          <div class="stat"><span class="stat__label">Streak</span><strong id="streak-count">0</strong></div>
+          <div class="stat"><span class="stat__label">Unique words</span><strong id="unique-count">0</strong></div>
+        </div>
+
+        <article class="surface game-card">
+          <div class="word-stage">
+            <p class="eyebrow">Translate this word</p>
+            <h1 id="game-title" class="german-word"><span id="german-word">der Apfel</span></h1>
+          </div>
+
+          <form id="answer-form" class="answer-form" novalidate>
+            <label for="answer-input">English translation</label>
+            <div class="answer-form__row">
+              <input id="answer-input" name="answer" type="text" autocomplete="off" autocapitalize="none" spellcheck="false" aria-describedby="feedback-answer">
+              <button id="answer-action" class="button button--primary" type="submit">Check</button>
+            </div>
+          </form>
+
+          <div id="feedback" class="feedback feedback--empty" aria-live="polite" role="status">
+            <p id="feedback-heading" class="feedback__heading">Your answer</p>
+            <p id="feedback-answer" class="feedback__answer">Type the English translation, then press Enter or Check.</p>
+          </div>
+
+          <section id="answer-details" class="answer-details" aria-labelledby="details-title" hidden>
+            <div class="details-heading">
+              <p class="eyebrow" id="details-title">A little more</p>
+              <span class="details-heading__hint">Now revealed</span>
+            </div>
+            <dl class="details-grid">
+              <div><dt>Word type</dt><dd id="detail-type">—</dd></div>
+              <div><dt>Gender</dt><dd id="detail-gender">—</dd></div>
+              <div><dt>Plural</dt><dd id="detail-plural">—</dd></div>
+            </dl>
+            <p id="detail-example" class="example-line">—</p>
+          </section>
+        </article>
+        <button id="end-session" class="button button--quiet" type="button" hidden>End session</button>
+      </section>
+
+      <section id="summary-view" class="view" aria-labelledby="summary-title" hidden>
+        <div class="summary-heading">
+          <p class="eyebrow">A1 · practice recap</p>
+          <h1 id="summary-title">Session complete</h1>
+          <p class="hero__lede">Nice work. Here is what you built today.</p>
+        </div>
+        <div class="surface summary-card">
+          <div class="summary-metrics">
+            <div class="summary-metric summary-metric--accent"><span>Accuracy</span><strong id="summary-accuracy">0%</strong></div>
+            <div class="summary-metric"><span>Questions answered</span><strong id="summary-questions">0</strong></div>
+            <div class="summary-metric"><span>Correct answers</span><strong id="summary-correct">0</strong></div>
+            <div class="summary-metric"><span>Incorrect answers</span><strong id="summary-incorrect">0</strong></div>
+            <div class="summary-metric"><span>Unique words</span><strong id="summary-unique">0</strong></div>
+            <div class="summary-metric"><span>Longest streak</span><strong id="summary-longest">0</strong></div>
+          </div>
+
+          <div class="missed-section">
+            <div class="section-heading section-heading--compact">
+              <div><p class="eyebrow">Keep these close</p><h2>Most frequently missed</h2></div>
+            </div>
+            <p id="missed-empty" class="muted-note">No missed words this time. Excellent.</p>
+            <ul id="missed-list" class="missed-list"></ul>
+          </div>
+        </div>
+        <div class="summary-actions">
+          <button id="review-mistakes" class="button button--primary" type="button" hidden>Review mistakes</button>
+          <button id="play-again" class="button button--secondary" type="button">Play again</button>
+          <button class="button button--quiet" type="button" data-action="home">Choose level</button>
+        </div>
+      </section>
+    </main>
+    <footer class="site-footer">Short sessions. Steady progress.</footer>
+    <script type="module" src="js/app.js"></script>
+  </body>
+</html>

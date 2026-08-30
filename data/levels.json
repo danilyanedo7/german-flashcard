@@ -1,0 +1,30 @@
+{
+  "defaultLevel": "A1",
+  "levels": {
+    "A1": {
+      "enabled": true,
+      "label": "A1",
+      "data": "data/a1/a1_all.json"
+    },
+    "A2": {
+      "enabled": false,
+      "label": "A2",
+      "comingSoon": "Coming soon."
+    },
+    "B1": {
+      "enabled": false,
+      "label": "B1",
+      "comingSoon": "Coming soon."
+    },
+    "B2": {
+      "enabled": false,
+      "label": "B2",
+      "comingSoon": "Coming soon."
+    },
+    "C1": {
+      "enabled": false,
+      "label": "C1",
+      "comingSoon": "Coming soon."
+    }
+  }
+}

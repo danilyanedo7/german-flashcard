@@ -1,0 +1,633 @@
+[
+  {
+    "id": "a1_0761",
+    "german": "arbeiten",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "work",
+    "accepted_answers": [
+      "work"
+    ],
+    "example_de": "Wo arbeiten Sie?",
+    "example_en": "Where do you work?",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0762",
+    "german": "das Buch",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Bücher",
+    "english": "book",
+    "accepted_answers": [
+      "book"
+    ],
+    "example_de": "Gute Bücher sind oft sehr teuer.",
+    "example_en": "Good books are often very expensive.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0763",
+    "german": "das Formular",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Formulare",
+    "english": "form",
+    "accepted_answers": [
+      "form"
+    ],
+    "example_de": "Sie müssen dieses Formular ausfüllen.",
+    "example_en": "You must fill out this form.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0764",
+    "german": "das Praktikum",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Praktika",
+    "english": "internship",
+    "accepted_answers": [
+      "internship"
+    ],
+    "example_de": "Ich mache ein Praktikum bei Siemens.",
+    "example_en": "I am doing an internship at Siemens.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0765",
+    "german": "das Studium",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Studien",
+    "english": "studies",
+    "accepted_answers": [
+      "studies",
+      "degree course"
+    ],
+    "example_de": "Das Studium beginnt im Oktober.",
+    "example_en": "The degree course begins in October.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0766",
+    "german": "das Wörterbuch",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Wörterbücher",
+    "english": "dictionary",
+    "accepted_answers": [
+      "dictionary"
+    ],
+    "example_de": "In diesem Wörterbuch finden Sie mehr als 20.000 Wörter.",
+    "example_en": "You will find more than 20,000 words in this dictionary.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0767",
+    "german": "der Arbeitsplatz",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Arbeitsplätze",
+    "english": "workplace",
+    "accepted_answers": [
+      "workplace"
+    ],
+    "example_de": "An meinem Arbeitsplatz fehlt ein Drucker.",
+    "example_en": "There is no printer at my workplace.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0768",
+    "german": "der Beamte",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Beamten",
+    "english": "civil servant",
+    "accepted_answers": [
+      "civil servant",
+      "official"
+    ],
+    "example_de": "Fragen Sie die Beamtin an Schalter acht!",
+    "example_en": "Ask the official at counter eight!",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0769",
+    "german": "der Beruf",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Berufe",
+    "english": "profession",
+    "accepted_answers": [
+      "profession",
+      "occupation"
+    ],
+    "example_de": "Was sind Sie von Beruf?",
+    "example_en": "What is your profession?",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0770",
+    "german": "der Bleistift",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Bleistifte",
+    "english": "pencil",
+    "accepted_answers": [
+      "pencil"
+    ],
+    "example_de": "Hast du einen Bleistift?",
+    "example_en": "Do you have a pencil?",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0771",
+    "german": "der Bogen",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Bögen",
+    "english": "sheet",
+    "accepted_answers": [
+      "sheet"
+    ],
+    "example_de": "Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.",
+    "example_en": "Write your solutions on the answer sheet.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0772",
+    "german": "der Buchstabe",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Buchstaben",
+    "english": "letter",
+    "accepted_answers": [
+      "letter"
+    ],
+    "example_de": "Diesen Buchstaben gibt es in meiner Sprache nicht.",
+    "example_en": "We don't have this letter in my language.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0773",
+    "german": "der Chef",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Chefs",
+    "english": "boss",
+    "accepted_answers": [
+      "boss"
+    ],
+    "example_de": "Wir haben eine neue Chefin.",
+    "example_en": "We have a new boss.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0774",
+    "german": "der Computer",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Computer",
+    "english": "computer",
+    "accepted_answers": [
+      "computer"
+    ],
+    "example_de": "Wann bekommst du deinen neuen Computer?",
+    "example_en": "When are you getting your new computer?",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0775",
+    "german": "der Drucker",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Drucker",
+    "english": "printer",
+    "accepted_answers": [
+      "printer"
+    ],
+    "example_de": "Mein Drucker ist kaputt.",
+    "example_en": "My printer is broken.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0776",
+    "german": "der Fehler",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Fehler",
+    "english": "mistake",
+    "accepted_answers": [
+      "mistake"
+    ],
+    "example_de": "Diesen Fehler mache ich immer.",
+    "example_en": "I always make this mistake.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0777",
+    "german": "der Job",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Jobs",
+    "english": "job",
+    "accepted_answers": [
+      "job"
+    ],
+    "example_de": "Jenny hat einen neuen Job bei der Post.",
+    "example_en": "Jenny has a new job at the post office.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0778",
+    "german": "der Kindergarten",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Kindergärten",
+    "english": "kindergarten",
+    "accepted_answers": [
+      "kindergarten"
+    ],
+    "example_de": "Die kleine Laura geht schon in den Kindergarten.",
+    "example_en": "Little Laura is already going to kindergarten.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0779",
+    "german": "der Kollege",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Kollegen",
+    "english": "colleague",
+    "accepted_answers": [
+      "colleague"
+    ],
+    "example_de": "ßt die neue Kollegin?",
+    "example_en": "What’s the new colleague called?",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0780",
+    "german": "der Kugelschreiber",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Kugelschreiber",
+    "english": "ball-point pen",
+    "accepted_answers": [
+      "ball-point pen"
+    ],
+    "example_de": "Hast du einen Kugelschreiber für mich?",
+    "example_en": "Do you have a pen I can borrow?",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0781",
+    "german": "der Kurs",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Kurse",
+    "english": "course",
+    "accepted_answers": [
+      "course"
+    ],
+    "example_de": "Der Deutschkurs geht bis zum Sommer.",
+    "example_en": "The German course runs until summer.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0782",
+    "german": "der Lehrer",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Lehrer",
+    "english": "teacher",
+    "accepted_answers": [
+      "teacher"
+    ],
+    "example_de": "Unsere Deutschlehrerin heißt Frau Müller.",
+    "example_en": "Our German teacher is called Ms Müller.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0783",
+    "german": "der Schüler",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Schüler",
+    "english": "pupil",
+    "accepted_answers": [
+      "pupil"
+    ],
+    "example_de": "In meinem Kurs sind acht Schülerinnen und fünf Schüler.",
+    "example_en": "In my course there are 8 female pupils and 5 male pupils.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0784",
+    "german": "der Student",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Studenten",
+    "english": "student",
+    "accepted_answers": [
+      "student"
+    ],
+    "example_de": "Ich bin Studentin.",
+    "example_en": "I am a student.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0785",
+    "german": "der Test",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Tests",
+    "english": "test",
+    "accepted_answers": [
+      "test"
+    ],
+    "example_de": "Der Test war einfach.",
+    "example_en": "The test was simple.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0786",
+    "german": "der Text",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Texte",
+    "english": "text",
+    "accepted_answers": [
+      "text"
+    ],
+    "example_de": "Lesen Sie bitte diesen Text.",
+    "example_en": "Please read this text.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0787",
+    "german": "der Unterricht",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "class",
+    "accepted_answers": [
+      "class",
+      "lessons",
+      "instruction"
+    ],
+    "example_de": "Wir haben Unterricht von 8:00 bis 12:00 Uhr.",
+    "example_en": "We have classes from 8 am until 12 pm.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0788",
+    "german": "die Arbeit",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Arbeiten",
+    "english": "work",
+    "accepted_answers": [
+      "work"
+    ],
+    "example_de": "Mein Bruder sucht Arbeit.",
+    "example_en": "My brother is looking for work.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0789",
+    "german": "die Aufgabe",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Aufgaben",
+    "english": "task",
+    "accepted_answers": [
+      "task"
+    ],
+    "example_de": "Das ist eine schwere Aufgabe.",
+    "example_en": "That is a difficult task.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0790",
+    "german": "die Firma",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Firmen",
+    "english": "company",
+    "accepted_answers": [
+      "company"
+    ],
+    "example_de": "Er arbeitet jetzt bei einer anderen Firma.",
+    "example_en": "He works for another company now.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0791",
+    "german": "die Hausaufgabe",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Hausaufgaben",
+    "english": "homework",
+    "accepted_answers": [
+      "homework"
+    ],
+    "example_de": "Kannst du mir bei den Hausaufgaben helfen?",
+    "example_en": "Can you help me with the homework?",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0792",
+    "german": "die Klasse",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Klassen",
+    "english": "class",
+    "accepted_answers": [
+      "class"
+    ],
+    "example_de": "In unserer Klasse sind fünfundzwanzig Schüler.",
+    "example_en": "In our class there are twenty five pupils.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0793",
+    "german": "die Lösung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Lösungen",
+    "english": "solution",
+    "accepted_answers": [
+      "solution"
+    ],
+    "example_de": "Die Lösung ist ganz einfach.",
+    "example_en": "The solution is quite simple.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0794",
+    "german": "die Prüfung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Prüfungen",
+    "english": "exam",
+    "accepted_answers": [
+      "exam",
+      "examination",
+      "test"
+    ],
+    "example_de": "Die Prüfung ist am Montag um 8:00 Uhr.",
+    "example_en": "The exam is on Monday at 8 am.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0795",
+    "german": "die Schule",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Schulen",
+    "english": "school",
+    "accepted_answers": [
+      "school"
+    ],
+    "example_de": "Meine Tochter geht schon in die Schule.",
+    "example_en": "My daughter is already going to school.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0796",
+    "german": "lernen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "learn",
+    "accepted_answers": [
+      "learn"
+    ],
+    "example_de": "Wie lange lernen Sie schon Deutsch?",
+    "example_en": "How long have you been learning German?",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0797",
+    "german": "lesen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "read",
+    "accepted_answers": [
+      "read"
+    ],
+    "example_de": "Ich lese ein Buch von García Márquez.",
+    "example_en": "I’m reading a book by García Márquez.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0798",
+    "german": "schreiben",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "write",
+    "accepted_answers": [
+      "write"
+    ],
+    "example_de": "Er schreibt jeden Tag fünfzig E-Mails.",
+    "example_en": "He writes fifty emails a day.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0799",
+    "german": "studieren",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "study",
+    "accepted_answers": [
+      "study"
+    ],
+    "example_de": "Ich studiere in Mainz.",
+    "example_en": "I study in Mainz.",
+    "topic": "work_education",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "level": "A1",
+  "total_entries": 799,
+  "official_goethe_entries": 796,
+  "entries_added_beyond_official_goethe_list": 3,
+  "addition_entries": [
+    {
+      "id": "a1_0323",
+      "german": "Bis später!"
+    },
+    {
+      "id": "a1_0356",
+      "german": "Gute Nacht!"
+    },
+    {
+      "id": "a1_0419",
+      "german": "Wie geht es dir?"
+    }
+  ],
+  "duplicate_entries": 0,
+  "duplicate_keys": [],
+  "entries_with_uncertain_translations": 0,
+  "uncertain_translation_ids": [],
+  "noun_entries": 390,
+  "nouns_with_no_common_plural": 34,
+  "validation_errors": [],
+  "official_source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+  "quality_checks": [
+    "valid JSON",
+    "required fields and field types",
+    "unique sequential IDs",
+    "duplicate German entries",
+    "noun article and gender consistency",
+    "noun plural field presence",
+    "primary answer included in accepted answers",
+    "German and English example punctuation",
+    "official versus addition source labeling",
+    "topic shards exactly partition the master file"
+  ],
+  "notes": [
+    "A null plural means the noun has no ordinary count plural in its A1 sense.",
+    "Function words can have several meanings; accepted answers include only common A1 equivalents.",
+    "Goethe A1 includes alphabetic entries and vocabulary from the booklet's official word groups and examples."
+  ],
+  "files": [
+    {
+      "topic": "common_actions_descriptions",
+      "file": "a1_common_actions_descriptions.json",
+      "entries": 305
+    },
+    {
+      "topic": "communication",
+      "file": "a1_communication.json",
+      "entries": 125
+    },
+    {
+      "topic": "food_drink",
+      "file": "a1_food_drink.json",
+      "entries": 43
+    },
+    {
+      "topic": "health_body",
+      "file": "a1_health_body.json",
+      "entries": 18
+    },
+    {
+      "topic": "home",
+      "file": "a1_home.json",
+      "entries": 26
+    },
+    {
+      "topic": "leisure",
+      "file": "a1_leisure.json",
+      "entries": 21
+    },
+    {
+      "topic": "nature_weather",
+      "file": "a1_nature_weather.json",
+      "entries": 18
+    },
+    {
+      "topic": "people_family",
+      "file": "a1_people_family.json",
+      "entries": 39
+    },
+    {
+      "topic": "shopping_services",
+      "file": "a1_shopping_services.json",
+      "entries": 36
+    },
+    {
+      "topic": "time_numbers",
+      "file": "a1_time_numbers.json",
+      "entries": 87
+    },
+    {
+      "topic": "travel_transport",
+      "file": "a1_travel_transport.json",
+      "entries": 42
+    },
+    {
+      "topic": "work_education",
+      "file": "a1_work_education.json",
+      "entries": 39
+    }
+  ]
+}

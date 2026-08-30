@@ -1,0 +1,691 @@
+[
+  {
+    "id": "a1_0431",
+    "german": "das Bier",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Biere",
+    "english": "beer",
+    "accepted_answers": [
+      "beer"
+    ],
+    "example_de": "Noch ein Bier bitte.",
+    "example_en": "Another beer, please.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0432",
+    "german": "das Brot",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Brote",
+    "english": "bread",
+    "accepted_answers": [
+      "bread"
+    ],
+    "example_de": "Haben Sie auch Weißbrot?",
+    "example_en": "Do you have white bread, too?",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0433",
+    "german": "das Brötchen",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Brötchen",
+    "english": "bread roll",
+    "accepted_answers": [
+      "bread roll"
+    ],
+    "example_de": "Möchtest du Brötchen zum Frühstück?",
+    "example_en": "Would you like bread rolls for breakfast?",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0434",
+    "german": "das Café",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Cafés",
+    "english": "cafe",
+    "accepted_answers": [
+      "cafe"
+    ],
+    "example_de": "Sollen wir uns im Café treffen?",
+    "example_en": "Should we meet at the cafe?",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0435",
+    "german": "das Ei",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Eier",
+    "english": "egg",
+    "accepted_answers": [
+      "egg"
+    ],
+    "example_de": "Möchtest du ein Ei zum Frühstück?",
+    "example_en": "Would you like an egg for breakfast?",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0436",
+    "german": "das Essen",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Essen",
+    "english": "food",
+    "accepted_answers": [
+      "food"
+    ],
+    "example_de": "Das Essen ist heute sehr gut.",
+    "example_en": "The food is very good today.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0437",
+    "german": "das Fleisch",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "meat",
+    "accepted_answers": [
+      "meat"
+    ],
+    "example_de": "Fleisch mag ich nicht.",
+    "example_en": "I don’t like meat.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0438",
+    "german": "das Frühstück",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Frühstücke",
+    "english": "breakfast",
+    "accepted_answers": [
+      "breakfast"
+    ],
+    "example_de": "Möchtest du ein Ei zum Frühstück?",
+    "example_en": "Would you like an egg for breakfast?",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0439",
+    "german": "das Gemüse",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "vegetables",
+    "accepted_answers": [
+      "vegetables"
+    ],
+    "example_de": "Gemüse brauchen wir auch noch.",
+    "example_en": "We also need vegetables.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0440",
+    "german": "das Getränk",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Getränke",
+    "english": "drink",
+    "accepted_answers": [
+      "drink"
+    ],
+    "example_de": "Mein Lieblingsgetränk ist Tomatensaft.",
+    "example_en": "My favourite drink is tomato juice.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0441",
+    "german": "das Glas",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Gläser",
+    "english": "glass",
+    "accepted_answers": [
+      "glass"
+    ],
+    "example_de": "Bitte noch ein Glas Wein!",
+    "example_en": "Another glass of wine, please!",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0442",
+    "german": "das Hähnchen",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Hähnchen",
+    "english": "chicken",
+    "accepted_answers": [
+      "chicken"
+    ],
+    "example_de": "Ein Hähnchen mit Pommes bitte!",
+    "example_en": "Chicken with chips, please!",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0443",
+    "german": "das Obst",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "fruit",
+    "accepted_answers": [
+      "fruit"
+    ],
+    "example_de": "Im Sommer ist das Obst billig.",
+    "example_en": "In summer fruit is cheap.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0444",
+    "german": "das Restaurant",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Restaurants",
+    "english": "restaurant",
+    "accepted_answers": [
+      "restaurant"
+    ],
+    "example_de": "Wir essen heute in einem Restaurant.",
+    "example_en": "We are eating at a restaurant today.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0445",
+    "german": "das Salz",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Salze",
+    "english": "salt",
+    "accepted_answers": [
+      "salt"
+    ],
+    "example_de": "Entschuldigung, kann ich bitte das Salz haben?",
+    "example_en": "Excuse me, can I have the salt please?",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0446",
+    "german": "das Wasser",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "water",
+    "accepted_answers": [
+      "water"
+    ],
+    "example_de": "Ein Glas Wasser, bitte.",
+    "example_en": "A glass of water, please.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0447",
+    "german": "der Apfel",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Äpfel",
+    "english": "apple",
+    "accepted_answers": [
+      "apple"
+    ],
+    "example_de": "Ein Pfund Äpfel bitte.",
+    "example_en": "One pound of apples, please.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0448",
+    "german": "der Appetit",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "appetite",
+    "accepted_answers": [
+      "appetite"
+    ],
+    "example_de": "Guten Appetit!",
+    "example_en": "Bon appetit!",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0449",
+    "german": "der Durst",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "thirst",
+    "accepted_answers": [
+      "thirst"
+    ],
+    "example_de": "Hast du etwas zu trinken? Ich habe großen Durst.",
+    "example_en": "Do you have anything to drink? I’m very thirsty.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0450",
+    "german": "der Hunger",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "hunger",
+    "accepted_answers": [
+      "hunger"
+    ],
+    "example_de": "Ich habe Hunger! Wann ist das Essen fertig?",
+    "example_en": "I’m hungry! When will the food be ready?",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0451",
+    "german": "der Kaffee",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Kaffees",
+    "english": "coffee",
+    "accepted_answers": [
+      "coffee"
+    ],
+    "example_de": "Zum Frühstück trinke ich immer Kaffee.",
+    "example_en": "For breakfast I always drink coffee.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0452",
+    "german": "der Kuchen",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Kuchen",
+    "english": "cake",
+    "accepted_answers": [
+      "cake"
+    ],
+    "example_de": "Ich nehme ein Stück Kuchen.",
+    "example_en": "I’ll have a piece of cake.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0453",
+    "german": "der Reis",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "rice",
+    "accepted_answers": [
+      "rice"
+    ],
+    "example_de": "Ich esse gern Reis.",
+    "example_en": "I like eating rice.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0454",
+    "german": "der Saft",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Säfte",
+    "english": "juice",
+    "accepted_answers": [
+      "juice"
+    ],
+    "example_de": "Möchtest du einen Apfelsaft?",
+    "example_en": "Would you like an apple juice?",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0455",
+    "german": "der Salat",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Salate",
+    "english": "salad",
+    "accepted_answers": [
+      "salad"
+    ],
+    "example_de": "Wie schmeckt dir der Salat?",
+    "example_en": "How does the salad taste?",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0456",
+    "german": "der Schinken",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Schinken",
+    "english": "ham",
+    "accepted_answers": [
+      "ham"
+    ],
+    "example_de": "Ich möchte gern ein Schinkenbrot.",
+    "example_en": "I would like a ham roll.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0457",
+    "german": "der Tee",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Tees",
+    "english": "tea",
+    "accepted_answers": [
+      "tea"
+    ],
+    "example_de": "Ich trinke morgens immer Tee.",
+    "example_en": "I always drink tea in the morning.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0458",
+    "german": "der Wein",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Weine",
+    "english": "wine",
+    "accepted_answers": [
+      "wine"
+    ],
+    "example_de": "Nein danke, ich möchte keinen Wein.",
+    "example_en": "No thank you, I don’t want any wine.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0459",
+    "german": "die Banane",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Bananen",
+    "english": "banana",
+    "accepted_answers": [
+      "banana"
+    ],
+    "example_de": "Drei Bananen, bitte!",
+    "example_en": "Three bananas, please!",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0460",
+    "german": "die Birne",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Birnen",
+    "english": "pear",
+    "accepted_answers": [
+      "pear"
+    ],
+    "example_de": "Ein Kilo Birnen, bitte!",
+    "example_en": "One kilogram of pears, please!",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0461",
+    "german": "die Butter",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "butter",
+    "accepted_answers": [
+      "butter"
+    ],
+    "example_de": "Für mich bitte ein Brötchen mit Butter und Käse.",
+    "example_en": "A bread roll with butter and cheese for me, please.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0462",
+    "german": "die Kartoffel",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Kartoffeln",
+    "english": "potato",
+    "accepted_answers": [
+      "potato"
+    ],
+    "example_de": "Für Pommes frites braucht man Kartoffeln.",
+    "example_en": "For chips you need potatoes.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0463",
+    "german": "die Lebensmittel",
+    "word_type": "noun",
+    "gender": "plural",
+    "plural": "die Lebensmittel",
+    "english": "food",
+    "accepted_answers": [
+      "food"
+    ],
+    "example_de": "Lebensmittel bekommen Sie im Supermarkt.",
+    "example_en": "You can get food from the supermarket.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0464",
+    "german": "die Milch",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "milk",
+    "accepted_answers": [
+      "milk"
+    ],
+    "example_de": "Die Milch steht im Kühlschrank.",
+    "example_en": "The milk is in the fridge.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0465",
+    "german": "die Speisekarte",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Speisekarten",
+    "english": "menu",
+    "accepted_answers": [
+      "menu"
+    ],
+    "example_de": "Bringen Sie mir die Speisekarte, bitte.",
+    "example_en": "Bring me the menu, please.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0466",
+    "german": "die Tomate",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Tomaten",
+    "english": "tomato",
+    "accepted_answers": [
+      "tomato"
+    ],
+    "example_de": "Die Tomate ist noch grün.",
+    "example_en": "The tomato is still green.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0467",
+    "german": "essen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "eat",
+    "accepted_answers": [
+      "eat"
+    ],
+    "example_de": "Was gibt es zu essen?",
+    "example_en": "What is there to eat?",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0468",
+    "german": "frühstücken",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "have breakfast",
+    "accepted_answers": [
+      "have breakfast"
+    ],
+    "example_de": "Am Sonntag frühstücke ich gern im Bett.",
+    "example_en": "On Sunday I like to have breakfast in bed.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0469",
+    "german": "grillen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "barbecue",
+    "accepted_answers": [
+      "barbecue"
+    ],
+    "example_de": "Heute grillen wir im Garten.",
+    "example_en": "Today we are having a barbecue in the garden.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0470",
+    "german": "Guten Appetit!",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "enjoy your meal",
+    "accepted_answers": [
+      "enjoy your meal",
+      "bon appétit"
+    ],
+    "example_de": "Guten Appetit!",
+    "example_en": "Enjoy your meal!",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0471",
+    "german": "kochen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "cook",
+    "accepted_answers": [
+      "cook"
+    ],
+    "example_de": "Herr Georgi kann gut kochen.",
+    "example_en": "Mr Georgi is good at cooking.",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0472",
+    "german": "schmecken",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "taste",
+    "accepted_answers": [
+      "taste"
+    ],
+    "example_de": "Schmeckt das gut?",
+    "example_en": "Does that taste good?",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0473",
+    "german": "trinken",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "drink",
+    "accepted_answers": [
+      "drink"
+    ],
+    "example_de": "Möchtest du etwas trinken?",
+    "example_en": "Would you like something to drink?",
+    "topic": "food_drink",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  }
+]

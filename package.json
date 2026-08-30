@@ -1,0 +1,8 @@
+{
+  "name": "wort-fuer-wort",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/game-logic.test.js"
+  }
+}

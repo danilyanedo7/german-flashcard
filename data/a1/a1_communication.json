@@ -1,0 +1,2055 @@
+[
+  {
+    "id": "a1_0306",
+    "german": "ab",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "from",
+    "accepted_answers": [
+      "from"
+    ],
+    "example_de": "Ab morgen muss ich arbeiten.",
+    "example_en": "I have to work from tomorrow.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0307",
+    "german": "aber",
+    "word_type": "conjunction",
+    "gender": null,
+    "plural": null,
+    "english": "but",
+    "accepted_answers": [
+      "but"
+    ],
+    "example_de": "Ich bin oft im Büro, aber nur für wenige Stunden.",
+    "example_en": "I am often in the office, but only for a few hours.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0308",
+    "german": "Achtung",
+    "word_type": "interjection",
+    "gender": null,
+    "plural": null,
+    "english": "attention",
+    "accepted_answers": [
+      "attention",
+      "watch out"
+    ],
+    "example_de": "Achtung! Das dürfen Sie nicht tun.",
+    "example_en": "Attention! You must not do that.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0309",
+    "german": "alle",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "all",
+    "accepted_answers": [
+      "all"
+    ],
+    "example_de": "Alles Gute!",
+    "example_en": "All the best!",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0310",
+    "german": "allein",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "alone",
+    "accepted_answers": [
+      "alone"
+    ],
+    "example_de": "Er kommt allein.",
+    "example_en": "He comes alone.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0311",
+    "german": "also",
+    "word_type": "conjunction",
+    "gender": null,
+    "plural": null,
+    "english": "so",
+    "accepted_answers": [
+      "so"
+    ],
+    "example_de": "Also, wir gehen jetzt.",
+    "example_en": "So, we are leaving now.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0312",
+    "german": "am besten",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "best",
+    "accepted_answers": [
+      "best"
+    ],
+    "example_de": "Am besten treffen wir uns morgen.",
+    "example_en": "It's best that we meet tomorrow.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0313",
+    "german": "an",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "at",
+    "accepted_answers": [
+      "at"
+    ],
+    "example_de": "Fahren Sie an der nächsten Straße nach rechts.",
+    "example_en": "Turn right at the next street.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0314",
+    "german": "andere",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "other",
+    "accepted_answers": [
+      "other"
+    ],
+    "example_de": "Willst du diese Jacke?",
+    "example_en": "Do you want this jacket?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0315",
+    "german": "auch",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "also",
+    "accepted_answers": [
+      "also"
+    ],
+    "example_de": "Ich bin auch Spanier.",
+    "example_en": "I am also Spanish.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0316",
+    "german": "auf",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "on",
+    "accepted_answers": [
+      "on",
+      "until",
+      "in"
+    ],
+    "example_de": "Die Kinder spielen auf der Straße.",
+    "example_en": "The children play on the street.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0317",
+    "german": "Auf Wiederhören!",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "goodbye on the phone",
+    "accepted_answers": [
+      "goodbye on the phone"
+    ],
+    "example_de": "Auf Wiederhören!",
+    "example_en": "Goodbye on the phone!",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0318",
+    "german": "Auf Wiedersehen!",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "goodbye",
+    "accepted_answers": [
+      "goodbye"
+    ],
+    "example_de": "Auf Wiedersehen!",
+    "example_en": "Goodbye!",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0319",
+    "german": "aus",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "from",
+    "accepted_answers": [
+      "from"
+    ],
+    "example_de": "Er kommt aus Brasilien.",
+    "example_en": "He comes from Brazil.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0320",
+    "german": "bei",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "at",
+    "accepted_answers": [
+      "at",
+      "with",
+      "near"
+    ],
+    "example_de": "Ich wohne bei meinen Eltern.",
+    "example_en": "I live with my parents.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0321",
+    "german": "beide",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "both",
+    "accepted_answers": [
+      "both"
+    ],
+    "example_de": "Beide Eltern arbeiten.",
+    "example_en": "Both parents work.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0322",
+    "german": "bis",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "until",
+    "accepted_answers": [
+      "until",
+      "as far as"
+    ],
+    "example_de": "Ich fahre nur bis Stuttgart.",
+    "example_en": "I’m only travelling to Stuttgart.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0323",
+    "german": "Bis später!",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "see you later",
+    "accepted_answers": [
+      "see you later",
+      "until later"
+    ],
+    "example_de": "Bis später!",
+    "example_en": "See you later!",
+    "topic": "communication",
+    "source": "Everyday A1 addition",
+    "source_url": null
+  },
+  {
+    "id": "a1_0324",
+    "german": "bisschen",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "a little",
+    "accepted_answers": [
+      "a little",
+      "a bit"
+    ],
+    "example_de": "Ich spreche Englisch, Französisch und ein bisschen Deutsch.",
+    "example_en": "I speak English, French, and a little German.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0325",
+    "german": "bitte",
+    "word_type": "interjection",
+    "gender": null,
+    "plural": null,
+    "english": "please",
+    "accepted_answers": [
+      "please",
+      "you're welcome"
+    ],
+    "example_de": "Eine Tasse Kaffee, bitte!",
+    "example_en": "A cup of coffee, please!",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0326",
+    "german": "circa/ca.",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "approximately",
+    "accepted_answers": [
+      "approximately"
+    ],
+    "example_de": "Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.",
+    "example_en": "From Mainz to Frankfurt it is approximately 50 kilometres.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0327",
+    "german": "da",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "there",
+    "accepted_answers": [
+      "there",
+      "here"
+    ],
+    "example_de": "Da hinten ist er ja.",
+    "example_en": "He’s back there.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0328",
+    "german": "daneben",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "next to it",
+    "accepted_answers": [
+      "next to it"
+    ],
+    "example_de": "Du kennst doch die Post. Daneben ist die Bank.",
+    "example_en": "You do know the post office. The bank is next to it.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0329",
+    "german": "danke",
+    "word_type": "interjection",
+    "gender": null,
+    "plural": null,
+    "english": "thank you",
+    "accepted_answers": [
+      "thank you"
+    ],
+    "example_de": "Danke für deine Hilfe!",
+    "example_en": "Thank you for your help!",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0330",
+    "german": "dann",
+    "word_type": "conjunction",
+    "gender": null,
+    "plural": null,
+    "english": "then",
+    "accepted_answers": [
+      "then"
+    ],
+    "example_de": "Ich muss noch schnell zur Post, dann komme ich.",
+    "example_en": "I still need to pop to the post office, then I’ll come.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0331",
+    "german": "das",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "that",
+    "accepted_answers": [
+      "that",
+      "the"
+    ],
+    "example_de": "Ich nehme das da.",
+    "example_en": "I’ll take that there.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0332",
+    "german": "dein",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "your",
+    "accepted_answers": [
+      "your",
+      "yours"
+    ],
+    "example_de": "Ist das dein Auto?",
+    "example_en": "Is that your car?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0333",
+    "german": "denn",
+    "word_type": "conjunction",
+    "gender": null,
+    "plural": null,
+    "english": "because",
+    "accepted_answers": [
+      "because"
+    ],
+    "example_de": "Ich kann nicht kommen, denn ich bin krank.",
+    "example_en": "I can’t come because I’m ill.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0334",
+    "german": "der",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "the",
+    "accepted_answers": [
+      "the"
+    ],
+    "example_de": "Hier ist der Brief, den du suchst.",
+    "example_en": "Here is the letter that you’re looking for.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0335",
+    "german": "dich",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "you",
+    "accepted_answers": [
+      "you"
+    ],
+    "example_de": "Die Blumen sind für dich.",
+    "example_en": "The flowers are for you.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0336",
+    "german": "die",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "the",
+    "accepted_answers": [
+      "the"
+    ],
+    "example_de": "Die Fahrkarte bekommst du am Bahnhof.",
+    "example_en": "You will get the ticket at the train station.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0337",
+    "german": "die meisten",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "most",
+    "accepted_answers": [
+      "most"
+    ],
+    "example_de": "Die meisten Norddeutschen sind sehr groß.",
+    "example_en": "Most northern Germans are very tall.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0338",
+    "german": "dieser",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "this",
+    "accepted_answers": [
+      "this"
+    ],
+    "example_de": "Ich nehme lieber diesen Kuchen.",
+    "example_en": "I’d prefer to have this cake.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0339",
+    "german": "dir",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "you",
+    "accepted_answers": [
+      "you"
+    ],
+    "example_de": "Gefallen dir die Blumen?",
+    "example_en": "Do you like the flowers?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0340",
+    "german": "dort",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "there",
+    "accepted_answers": [
+      "there"
+    ],
+    "example_de": "Dort ist mein Zimmer.",
+    "example_en": "There's my room.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0341",
+    "german": "dorther",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "from there",
+    "accepted_answers": [
+      "from there"
+    ],
+    "example_de": "Er kommt gerade dorther.",
+    "example_en": "He's just coming from there.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0342",
+    "german": "dorthin",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "there",
+    "accepted_answers": [
+      "there",
+      "to that place"
+    ],
+    "example_de": "Deine Tasche kannst du dorthin stellen.",
+    "example_en": "You can put your bag there.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0343",
+    "german": "draußen",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "outside",
+    "accepted_answers": [
+      "outside"
+    ],
+    "example_de": "Wollen wir draußen sitzen?",
+    "example_en": "Shall we sit outside?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0344",
+    "german": "durch",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "through",
+    "accepted_answers": [
+      "through"
+    ],
+    "example_de": "Am besten gehen Sie durch die Breite Straße.",
+    "example_en": "It's best to go through Breite Straße.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0345",
+    "german": "ein",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "a",
+    "accepted_answers": [
+      "a",
+      "an",
+      "one"
+    ],
+    "example_de": "Ich nehme ein Bier. Willst du auch eins?",
+    "example_en": "I’ll have a beer. Do you want one, too?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0346",
+    "german": "einmal",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "once",
+    "accepted_answers": [
+      "once"
+    ],
+    "example_de": "Sie dürfen diese Prüfung nur einmal machen.",
+    "example_en": "You may only take this exam once.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0347",
+    "german": "er",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "he",
+    "accepted_answers": [
+      "he"
+    ],
+    "example_de": "Er heißt Ali.",
+    "example_en": "He’s called Ali.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0348",
+    "german": "es",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "it",
+    "accepted_answers": [
+      "it"
+    ],
+    "example_de": "Es regnet.",
+    "example_en": "It’s raining.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0349",
+    "german": "euer",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "your",
+    "accepted_answers": [
+      "your"
+    ],
+    "example_de": "Euer Kurs beginnt heute.",
+    "example_en": "Your course begins today.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0350",
+    "german": "früher",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "earlier",
+    "accepted_answers": [
+      "earlier",
+      "in the past"
+    ],
+    "example_de": "Früher waren wir oft zusammen im Kino.",
+    "example_en": "In the past we often went to the cinema together.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0351",
+    "german": "für",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "for",
+    "accepted_answers": [
+      "for"
+    ],
+    "example_de": "Das ist für Sie.",
+    "example_en": "That's for you.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0352",
+    "german": "gegen",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "against",
+    "accepted_answers": [
+      "against",
+      "around",
+      "about"
+    ],
+    "example_de": "Fahr nicht gegen den Baum!",
+    "example_en": "Don’t drive into the tree!",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0353",
+    "german": "gerade",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "now",
+    "accepted_answers": [
+      "now"
+    ],
+    "example_de": "Da kommt er ja gerade.",
+    "example_en": "There he comes now.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0354",
+    "german": "geradeaus",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "straight on",
+    "accepted_answers": [
+      "straight on"
+    ],
+    "example_de": "Gehen Sie immer geradeaus!",
+    "example_en": "Keep going straight on!",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0355",
+    "german": "gern",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "gladly",
+    "accepted_answers": [
+      "gladly",
+      "like to"
+    ],
+    "example_de": "Ich gehe gerne einkaufen.",
+    "example_en": "I like to go shopping.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0356",
+    "german": "Gute Nacht!",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "good night",
+    "accepted_answers": [
+      "good night"
+    ],
+    "example_de": "Gute Nacht!",
+    "example_en": "Good night!",
+    "topic": "communication",
+    "source": "Everyday A1 addition",
+    "source_url": null
+  },
+  {
+    "id": "a1_0357",
+    "german": "Guten Morgen!",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "good morning",
+    "accepted_answers": [
+      "good morning"
+    ],
+    "example_de": "Guten Morgen!",
+    "example_en": "Good morning!",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0358",
+    "german": "Guten Tag!",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "hello",
+    "accepted_answers": [
+      "hello",
+      "good day"
+    ],
+    "example_de": "Guten Tag!",
+    "example_en": "Hello!",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0359",
+    "german": "hallo",
+    "word_type": "interjection",
+    "gender": null,
+    "plural": null,
+    "english": "hello",
+    "accepted_answers": [
+      "hello"
+    ],
+    "example_de": "Hallo Inge! Wie geht’s?",
+    "example_en": "Hello Inge! How’s it going?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0360",
+    "german": "hier",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "here",
+    "accepted_answers": [
+      "here"
+    ],
+    "example_de": "Hier ist 06131-553221, Pamela Linke.",
+    "example_en": "This is 06131-553221, Pamela Linke.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0361",
+    "german": "hinten",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "at the back",
+    "accepted_answers": [
+      "at the back",
+      "in the back"
+    ],
+    "example_de": "Die Tür zum Aussteigen ist hinten.",
+    "example_en": "The exit door is at the back.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0362",
+    "german": "ich",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "I",
+    "accepted_answers": [
+      "I"
+    ],
+    "example_de": "Ich heiße Veronika.",
+    "example_en": "I’m called Veronika.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0363",
+    "german": "ihm/ihr",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "him",
+    "accepted_answers": [
+      "him",
+      "her"
+    ],
+    "example_de": "Gib ihm/ihr bitte das Buch.",
+    "example_en": "Please give the book to him/her.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0364",
+    "german": "ihn",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "him",
+    "accepted_answers": [
+      "him"
+    ],
+    "example_de": "Ruf ihn bitte an.",
+    "example_en": "Call him, please.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0365",
+    "german": "immer",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "always",
+    "accepted_answers": [
+      "always"
+    ],
+    "example_de": "Frau Bast kommt immer zu spät.",
+    "example_en": "Ms Bast is always late.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0366",
+    "german": "in",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "in",
+    "accepted_answers": [
+      "in",
+      "to"
+    ],
+    "example_de": "Ich wohne in Wiesbaden.",
+    "example_en": "I live in Wiesbaden.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0367",
+    "german": "ja",
+    "word_type": "interjection",
+    "gender": null,
+    "plural": null,
+    "english": "yes",
+    "accepted_answers": [
+      "yes"
+    ],
+    "example_de": "Ja, ich komme mit.",
+    "example_en": "Yes, I am coming along.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0368",
+    "german": "jeder",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "every",
+    "accepted_answers": [
+      "every"
+    ],
+    "example_de": "Blumen kannst du in jedem Bahnhof kaufen.",
+    "example_en": "You can buy flowers at every station.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0369",
+    "german": "kein",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "no",
+    "accepted_answers": [
+      "no",
+      "not a",
+      "none"
+    ],
+    "example_de": "Es gibt keine Eintrittskarten mehr.",
+    "example_en": "There are no more tickets.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0370",
+    "german": "lange",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "long",
+    "accepted_answers": [
+      "long"
+    ],
+    "example_de": "Wie lange fährt der Zug von Hamburg nach Berlin?",
+    "example_en": "How long is the train journey from Hamburg to Berlin?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0371",
+    "german": "leider",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "unfortunately",
+    "accepted_answers": [
+      "unfortunately"
+    ],
+    "example_de": "Leider kann ich nicht kommen. Ich muss zum Arzt.",
+    "example_en": "Unfortunately I can’t come. I need to go to the doctor.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0372",
+    "german": "lieber",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "rather",
+    "accepted_answers": [
+      "rather",
+      "preferably",
+      "prefer"
+    ],
+    "example_de": "Sie fährt lieber mit der Bahn.",
+    "example_en": "She prefers to travel by train.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0373",
+    "german": "links",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "left",
+    "accepted_answers": [
+      "left"
+    ],
+    "example_de": "Gehen Sie die nächste Straße links.",
+    "example_en": "Go down the next street on the left.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0374",
+    "german": "man",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "one",
+    "accepted_answers": [
+      "one",
+      "impersonal ‘you’"
+    ],
+    "example_de": "Hier darf man nicht rauchen.",
+    "example_en": "You may not smoke here.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0375",
+    "german": "mehr",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "more",
+    "accepted_answers": [
+      "more"
+    ],
+    "example_de": "Dieses Auto kostet 1.000 Euro mehr als das andere.",
+    "example_en": "This car costs 1000 euros more than the other.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0376",
+    "german": "mein",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "my",
+    "accepted_answers": [
+      "my"
+    ],
+    "example_de": "Mein Vater ist Arzt.",
+    "example_en": "My father is a doctor.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0377",
+    "german": "mit",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "with",
+    "accepted_answers": [
+      "with"
+    ],
+    "example_de": "Trinken Sie den Kaffee mit Milch?",
+    "example_en": "Do you take milk with your coffee?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0378",
+    "german": "nach",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "to",
+    "accepted_answers": [
+      "to",
+      "after",
+      "past"
+    ],
+    "example_de": "Wir fahren nach Wien.",
+    "example_en": "We are traveling to Vienna.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0379",
+    "german": "nein",
+    "word_type": "interjection",
+    "gender": null,
+    "plural": null,
+    "english": "no",
+    "accepted_answers": [
+      "no"
+    ],
+    "example_de": "Nein, ich habe keine Zeit.",
+    "example_en": "No, I do not have time.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0380",
+    "german": "nicht",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "not",
+    "accepted_answers": [
+      "not",
+      "no"
+    ],
+    "example_de": "Das stimmt nicht.",
+    "example_en": "That’s not right.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0381",
+    "german": "nichts",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "nothing",
+    "accepted_answers": [
+      "nothing"
+    ],
+    "example_de": "Das macht nichts.",
+    "example_en": "It's okay, don't worry.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0382",
+    "german": "nie",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "never",
+    "accepted_answers": [
+      "never"
+    ],
+    "example_de": "Er kommt nie pünktlich.",
+    "example_en": "He is never on time.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0383",
+    "german": "noch",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "still",
+    "accepted_answers": [
+      "still",
+      "another"
+    ],
+    "example_de": "Vielleicht kommt er noch.",
+    "example_en": "Perhaps he will still come.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0384",
+    "german": "nur",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "only",
+    "accepted_answers": [
+      "only"
+    ],
+    "example_de": "Ich möchte nur ein Glas Wasser.",
+    "example_en": "I only want a glass of water.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0385",
+    "german": "oben",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "upstairs",
+    "accepted_answers": [
+      "upstairs"
+    ],
+    "example_de": "Ich wohne oben.",
+    "example_en": "I live upstairs.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0386",
+    "german": "oder",
+    "word_type": "conjunction",
+    "gender": null,
+    "plural": null,
+    "english": "or",
+    "accepted_answers": [
+      "or"
+    ],
+    "example_de": "Wann können Sie kommen – heute oder morgen?",
+    "example_en": "When can you come – today or tomorrow?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0387",
+    "german": "oft",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "often",
+    "accepted_answers": [
+      "often"
+    ],
+    "example_de": "Petra treffe ich oft.",
+    "example_en": "I often meet Petra.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0388",
+    "german": "ohne",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "without",
+    "accepted_answers": [
+      "without"
+    ],
+    "example_de": "Ohne Geld kann er nichts kaufen.",
+    "example_en": "Without money he can’t buy anything.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0389",
+    "german": "rechts",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "right",
+    "accepted_answers": [
+      "right"
+    ],
+    "example_de": "Die Schillerstraße ist hier rechts.",
+    "example_en": "Schillerstraße is on the right here.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0390",
+    "german": "schon",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "already",
+    "accepted_answers": [
+      "already"
+    ],
+    "example_de": "Ist das Essen schon fertig?",
+    "example_en": "Is the food done already?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0391",
+    "german": "sehr",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "very",
+    "accepted_answers": [
+      "very"
+    ],
+    "example_de": "Danke sehr!",
+    "example_en": "Thank you very much!",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0392",
+    "german": "seit",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "since",
+    "accepted_answers": [
+      "since",
+      "for"
+    ],
+    "example_de": "Ich wohne seit Montag hier.",
+    "example_en": "I have lived here since Monday.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0393",
+    "german": "sich",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "yourself",
+    "accepted_answers": [
+      "yourself"
+    ],
+    "example_de": "Sie müssen sich erst anmelden.",
+    "example_en": "You must register yourself first.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0394",
+    "german": "sie",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "she",
+    "accepted_answers": [
+      "she"
+    ],
+    "example_de": "Wie heißt sie?",
+    "example_en": "What is she called?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0395",
+    "german": "Sie",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "you",
+    "accepted_answers": [
+      "you"
+    ],
+    "example_de": "Wie heißen Sie, bitte?",
+    "example_en": "What are you called, please?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0396",
+    "german": "so",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "like this",
+    "accepted_answers": [
+      "like this",
+      "so",
+      "as"
+    ],
+    "example_de": "Sie müssen das so machen!",
+    "example_en": "You must do it like this!",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0397",
+    "german": "sofort",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "immediately",
+    "accepted_answers": [
+      "immediately"
+    ],
+    "example_de": "Bitte antworten Sie sofort.",
+    "example_en": "Please answer immediately.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0398",
+    "german": "später",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "later",
+    "accepted_answers": [
+      "later"
+    ],
+    "example_de": "Das können wir später machen.",
+    "example_en": "We can do that later.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0399",
+    "german": "tschüss",
+    "word_type": "interjection",
+    "gender": null,
+    "plural": null,
+    "english": "goodbye",
+    "accepted_answers": [
+      "goodbye",
+      "bye"
+    ],
+    "example_de": "Tschüss, bis morgen!",
+    "example_en": "Goodbye, see you tomorrow!",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0400",
+    "german": "um",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "at",
+    "accepted_answers": [
+      "at",
+      "around"
+    ],
+    "example_de": "Er kommt um sieben Uhr.",
+    "example_en": "He is coming at seven o’clock.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0401",
+    "german": "und",
+    "word_type": "conjunction",
+    "gender": null,
+    "plural": null,
+    "english": "and",
+    "accepted_answers": [
+      "and"
+    ],
+    "example_de": "Peter und Helmut sind meine Söhne.",
+    "example_en": "Peter and Helmut are my sons.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0402",
+    "german": "unser",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "our",
+    "accepted_answers": [
+      "our"
+    ],
+    "example_de": "Das ist unsere Lehrerin.",
+    "example_en": "That is our teacher.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0403",
+    "german": "unten",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "at the bottom",
+    "accepted_answers": [
+      "at the bottom"
+    ],
+    "example_de": "Er wohnt ganz unten im Haus.",
+    "example_en": "He lives right at the bottom of the house.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0404",
+    "german": "unter",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "under",
+    "accepted_answers": [
+      "under",
+      "below"
+    ],
+    "example_de": "Unter uns wohnt eine Familie mit drei Kindern.",
+    "example_en": "Below us lives a family with three children.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0405",
+    "german": "viel",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "a lot",
+    "accepted_answers": [
+      "a lot"
+    ],
+    "example_de": "Hier regnet es viel.",
+    "example_en": "It rains a lot here.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0406",
+    "german": "Vielen Dank!",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "thank you very much",
+    "accepted_answers": [
+      "thank you very much",
+      "many thanks"
+    ],
+    "example_de": "Vielen Dank!",
+    "example_en": "Thank you very much!",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0407",
+    "german": "vielleicht",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "perhaps",
+    "accepted_answers": [
+      "perhaps",
+      "may"
+    ],
+    "example_de": "Ich komme vielleicht mit dem Bus.",
+    "example_en": "I may come by bus.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0408",
+    "german": "von",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "from",
+    "accepted_answers": [
+      "from",
+      "of"
+    ],
+    "example_de": "Das Auto von Felix ist kaputt.",
+    "example_en": "Felix’s car is broken.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0409",
+    "german": "vor",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "in front of",
+    "accepted_answers": [
+      "in front of",
+      "before",
+      "ago"
+    ],
+    "example_de": "Das Auto steht vor dem Haus.",
+    "example_en": "The car is in front of the house.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0410",
+    "german": "wann",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "when",
+    "accepted_answers": [
+      "when"
+    ],
+    "example_de": "Wann bist du fertig?",
+    "example_en": "When will you be finished?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0411",
+    "german": "warum",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "why",
+    "accepted_answers": [
+      "why"
+    ],
+    "example_de": "Warum kommt er nicht?",
+    "example_en": "Why isn’t he coming?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0412",
+    "german": "was",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "what",
+    "accepted_answers": [
+      "what"
+    ],
+    "example_de": "Was ist das?",
+    "example_en": "What is that?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0413",
+    "german": "was für ein",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "what kind of",
+    "accepted_answers": [
+      "what kind of"
+    ],
+    "example_de": "Was für eine Farbe möchten Sie?",
+    "example_en": "What colour would you like?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0414",
+    "german": "weiter",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "further",
+    "accepted_answers": [
+      "further"
+    ],
+    "example_de": "Der Bus fährt nicht weiter.",
+    "example_en": "The bus doesn’t go any further.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0415",
+    "german": "welcher",
+    "word_type": "determiner",
+    "gender": null,
+    "plural": null,
+    "english": "which",
+    "accepted_answers": [
+      "which"
+    ],
+    "example_de": "Welches Buch möchtest du?",
+    "example_en": "Which book would you like?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0416",
+    "german": "wenig",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "little",
+    "accepted_answers": [
+      "little",
+      "not very much"
+    ],
+    "example_de": "Ich habe leider nur wenig verstanden.",
+    "example_en": "Unfortunately I didn't understand very much.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0417",
+    "german": "wer",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "who",
+    "accepted_answers": [
+      "who"
+    ],
+    "example_de": "Wer ist das?",
+    "example_en": "Who is that?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0418",
+    "german": "wie",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "how",
+    "accepted_answers": [
+      "how",
+      "like",
+      "as"
+    ],
+    "example_de": "Wie heißt du?",
+    "example_en": "What are you called?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0419",
+    "german": "Wie geht es dir?",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "how are you?",
+    "accepted_answers": [
+      "how are you?"
+    ],
+    "example_de": "Wie geht es dir?",
+    "example_en": "How are you?",
+    "topic": "communication",
+    "source": "Everyday A1 addition",
+    "source_url": null
+  },
+  {
+    "id": "a1_0420",
+    "german": "Wie geht's?",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "how are you?",
+    "accepted_answers": [
+      "how are you?",
+      "how's it going?"
+    ],
+    "example_de": "Wie geht's?",
+    "example_en": "How are you?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0421",
+    "german": "wir",
+    "word_type": "pronoun",
+    "gender": null,
+    "plural": null,
+    "english": "we",
+    "accepted_answers": [
+      "we"
+    ],
+    "example_de": "Wir lernen Deutsch.",
+    "example_en": "We are learning German.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0422",
+    "german": "wo",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "where",
+    "accepted_answers": [
+      "where"
+    ],
+    "example_de": "Wo waren Sie im Urlaub?",
+    "example_en": "Where were you on holiday?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0423",
+    "german": "woher",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "from where",
+    "accepted_answers": [
+      "from where",
+      "where from"
+    ],
+    "example_de": "Woher kommen Sie?",
+    "example_en": "Where do you come from?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0424",
+    "german": "wohin",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "where to",
+    "accepted_answers": [
+      "where to"
+    ],
+    "example_de": "Wohin fährt dieser Bus?",
+    "example_en": "Where does this bus go?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0425",
+    "german": "zu",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "to",
+    "accepted_answers": [
+      "to",
+      "by",
+      "at"
+    ],
+    "example_de": "Der Bus fährt zum Bahnhof.",
+    "example_en": "The bus goes to the station.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0426",
+    "german": "zurzeit",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "at the moment",
+    "accepted_answers": [
+      "at the moment"
+    ],
+    "example_de": "Zurzeit habe ich sehr viel zu tun.",
+    "example_en": "I have a lot to do at the moment.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0427",
+    "german": "zurück",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "back",
+    "accepted_answers": [
+      "back",
+      "return"
+    ],
+    "example_de": "Ich komme bald zurück.",
+    "example_en": "I will be back soon.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0428",
+    "german": "zusammen",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "together",
+    "accepted_answers": [
+      "together"
+    ],
+    "example_de": "Sollen wir zusammen essen gehen?",
+    "example_en": "Should we go out to eat together?",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0429",
+    "german": "zwischen",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "between",
+    "accepted_answers": [
+      "between"
+    ],
+    "example_de": "Heidelberg liegt zwischen Frankfurt und Stuttgart.",
+    "example_en": "Heidelberg is located between Frankfurt and Stuttgart.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0430",
+    "german": "über",
+    "word_type": "preposition",
+    "gender": null,
+    "plural": null,
+    "english": "over",
+    "accepted_answers": [
+      "over",
+      "above",
+      "across"
+    ],
+    "example_de": "Gehen Sie hier über die Straße.",
+    "example_en": "Go across the street here.",
+    "topic": "communication",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  }
+]

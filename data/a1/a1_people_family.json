@@ -1,0 +1,637 @@
+[
+  {
+    "id": "a1_0557",
+    "german": "das Alter",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "age",
+    "accepted_answers": [
+      "age"
+    ],
+    "example_de": "Alter: 26 Jahre.",
+    "example_en": "Age: 26 years.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0558",
+    "german": "das Baby",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Babys",
+    "english": "baby",
+    "accepted_answers": [
+      "baby"
+    ],
+    "example_de": "Mein Kind ist noch ein Baby.",
+    "example_en": "My child is still a baby.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0559",
+    "german": "das Kind",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Kinder",
+    "english": "child",
+    "accepted_answers": [
+      "child"
+    ],
+    "example_de": "Wie viele Kinder haben Sie?",
+    "example_en": "How many children do you have?",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0560",
+    "german": "der Bruder",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Brüder",
+    "english": "brother",
+    "accepted_answers": [
+      "brother"
+    ],
+    "example_de": "Sein Bruder arbeitet auch hier.",
+    "example_en": "His brother also works here.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0561",
+    "german": "der Deutsche / die Deutsche",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Deutschen",
+    "english": "German",
+    "accepted_answers": [
+      "German"
+    ],
+    "example_de": "Der Deutsche und die Deutsche wohnen hier.",
+    "example_en": "The German man and woman live here.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0562",
+    "german": "der Ehemann",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Ehemänner",
+    "english": "husband",
+    "accepted_answers": [
+      "husband"
+    ],
+    "example_de": "Das ist mein (Ehe-) Mann.",
+    "example_en": "That is my husband.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0563",
+    "german": "der Erwachsene",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Erwachsenen",
+    "english": "adult",
+    "accepted_answers": [
+      "adult"
+    ],
+    "example_de": "Dieser Film ist nur für Erwachsene.",
+    "example_en": "This film is for adults only.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0564",
+    "german": "der Europäer / die Europäerin",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Europäer / die Europäerinnen",
+    "english": "European",
+    "accepted_answers": [
+      "European"
+    ],
+    "example_de": "Der Europäer und die Europäerin wohnen hier.",
+    "example_en": "The European man and woman live here.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0565",
+    "german": "der Familienname",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Familiennamen",
+    "english": "last name",
+    "accepted_answers": [
+      "last name"
+    ],
+    "example_de": "Meine Familiennamen sind García González.",
+    "example_en": "My surname is García González.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0566",
+    "german": "der Familienstand",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Familienstände",
+    "english": "marital status",
+    "accepted_answers": [
+      "marital status"
+    ],
+    "example_de": "Bei „Familienstand“ musst du „ledig“ ankreuzen.",
+    "example_en": "Under “family status” you have to tick “single”.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0567",
+    "german": "der Freund",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Freunde",
+    "english": "friend",
+    "accepted_answers": [
+      "friend"
+    ],
+    "example_de": "Das ist ein Freund von mir.",
+    "example_en": "That is a friend of mine.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0568",
+    "german": "der Geburtstag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Geburtstage",
+    "english": "birthday",
+    "accepted_answers": [
+      "birthday"
+    ],
+    "example_de": "Herzlichen Glückwunsch zum Geburtstag!",
+    "example_en": "Best wishes on your birthday!",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0569",
+    "german": "der Großvater",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Großväter",
+    "english": "grandfather",
+    "accepted_answers": [
+      "grandfather"
+    ],
+    "example_de": "Mein Großvater ist schon 80.",
+    "example_en": "My grandfather is already 80.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0570",
+    "german": "der Herr",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Herren",
+    "english": "Mr.",
+    "accepted_answers": [
+      "Mr.",
+      "man",
+      "gentleman"
+    ],
+    "example_de": "Guten Tag, Herr Sommer!",
+    "example_en": "Good day, Mr Sommer!",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0571",
+    "german": "der Jugendliche",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Jugendlichen",
+    "english": "young person",
+    "accepted_answers": [
+      "young person",
+      "teenager",
+      "youth"
+    ],
+    "example_de": "Viele Jugendliche kaufen gern ein.",
+    "example_en": "Many youths like shopping.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0572",
+    "german": "der Junge",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Jungen",
+    "english": "boy",
+    "accepted_answers": [
+      "boy"
+    ],
+    "example_de": "Ich habe zwei Kinder. Einen Jungen und ein Mädchen.",
+    "example_en": "I have two children. One boy and one girl.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0573",
+    "german": "der Mann",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Männer",
+    "english": "man",
+    "accepted_answers": [
+      "man",
+      "husband"
+    ],
+    "example_de": "Mein Mann arbeitet bei der Polizei.",
+    "example_en": "My husband works for the police.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0574",
+    "german": "der Mensch",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Menschen",
+    "english": "person",
+    "accepted_answers": [
+      "person",
+      "human"
+    ],
+    "example_de": "Die Menschen sind hier anders als bei uns.",
+    "example_en": "The people here are different than at home.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0575",
+    "german": "der Name",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Namen",
+    "english": "name",
+    "accepted_answers": [
+      "name"
+    ],
+    "example_de": "Mein Name ist Thomas Schmidt.",
+    "example_en": "My name is Thomas Schmidt.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0576",
+    "german": "der Opa",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Opas",
+    "english": "grandfather",
+    "accepted_answers": [
+      "grandfather"
+    ],
+    "example_de": "Mein Opa heißt Hans.",
+    "example_en": "My grandfather is called Hans.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0577",
+    "german": "der Partner",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Partner",
+    "english": "partner",
+    "accepted_answers": [
+      "partner"
+    ],
+    "example_de": "Er is mein Partner.",
+    "example_en": "He is my partner.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0578",
+    "german": "der Sohn",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Söhne",
+    "english": "son",
+    "accepted_answers": [
+      "son"
+    ],
+    "example_de": "Das ist Hans, mein Sohn.",
+    "example_en": "That is Hans, my son.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0579",
+    "german": "der Vater",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Väter",
+    "english": "father",
+    "accepted_answers": [
+      "father"
+    ],
+    "example_de": "Mein Vater ist Arbeiter.",
+    "example_en": "My father is a worker.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0580",
+    "german": "der Verwandte",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Verwandten",
+    "english": "relative",
+    "accepted_answers": [
+      "relative"
+    ],
+    "example_de": "Peter besucht seine Verwandten in Polen.",
+    "example_en": "Peter visits his relatives in Poland.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0581",
+    "german": "der Vorname",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Vornamen",
+    "english": "first name",
+    "accepted_answers": [
+      "first name"
+    ],
+    "example_de": "Ich heiße Müller, mein Vorname ist Eva.",
+    "example_en": "I’m called Müller, my first name is Eva.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0582",
+    "german": "die Ehefrau",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Ehefrauen",
+    "english": "wife",
+    "accepted_answers": [
+      "wife"
+    ],
+    "example_de": "Das ist meine (Ehe-) Frau.",
+    "example_en": "That is my wife.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0583",
+    "german": "die Eltern",
+    "word_type": "noun",
+    "gender": "plural",
+    "plural": "die Eltern",
+    "english": "parents",
+    "accepted_answers": [
+      "parents"
+    ],
+    "example_de": "Meine Eltern leben in Spanien.",
+    "example_en": "My parents live in spain.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0584",
+    "german": "die Familie",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Familien",
+    "english": "family",
+    "accepted_answers": [
+      "family"
+    ],
+    "example_de": "Meine Familie lebt in Spanien.",
+    "example_en": "My family lives in Spain.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0585",
+    "german": "die Frau",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Frauen",
+    "english": "woman",
+    "accepted_answers": [
+      "woman",
+      "wife",
+      "Mrs.",
+      "Ms."
+    ],
+    "example_de": "Die Frau wartet draußen.",
+    "example_en": "The woman is waiting outside.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0586",
+    "german": "die Freundin",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Freundinnen",
+    "english": "friend",
+    "accepted_answers": [
+      "friend",
+      "girlfriend"
+    ],
+    "example_de": "Das ist meine Freundin.",
+    "example_en": "This is my friend.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0587",
+    "german": "die Geschwister",
+    "word_type": "noun",
+    "gender": "plural",
+    "plural": "die Geschwister",
+    "english": "siblings",
+    "accepted_answers": [
+      "siblings"
+    ],
+    "example_de": "Ich habe leider keine Geschwister.",
+    "example_en": "Unfortunately I have no siblings.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0588",
+    "german": "die Großeltern",
+    "word_type": "noun",
+    "gender": "plural",
+    "plural": "die Großeltern",
+    "english": "grandparents",
+    "accepted_answers": [
+      "grandparents"
+    ],
+    "example_de": "Meine Großeltern leben in Japan.",
+    "example_en": "My grandparents live in Japan.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0589",
+    "german": "die Großmutter",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Großmütter",
+    "english": "grandmother",
+    "accepted_answers": [
+      "grandmother"
+    ],
+    "example_de": "Meine Großmutter heißt Eva.",
+    "example_en": "My grandmother is called Eva.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0590",
+    "german": "die Hochzeit",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Hochzeiten",
+    "english": "wedding",
+    "accepted_answers": [
+      "wedding",
+      "marriage"
+    ],
+    "example_de": "Die Hochzeit ist am Samstag.",
+    "example_en": "The wedding is on Saturday.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0591",
+    "german": "die Mutter",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Mütter",
+    "english": "mother",
+    "accepted_answers": [
+      "mother"
+    ],
+    "example_de": "Frau Berghäuser ist die Mutter von Michaela.",
+    "example_en": "Ms Berghäuser is the mother of Michaela.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0592",
+    "german": "die Oma",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Omas",
+    "english": "grandmother",
+    "accepted_answers": [
+      "grandmother"
+    ],
+    "example_de": "Meine Oma ist schon tot.",
+    "example_en": "My grandmother is already dead.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0593",
+    "german": "die Schwester",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Schwestern",
+    "english": "sister",
+    "accepted_answers": [
+      "sister"
+    ],
+    "example_de": "Meine Schwester kommt am Dienstag.",
+    "example_en": "My sister is coming on Tuesday.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0594",
+    "german": "die Tochter",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Töchter",
+    "english": "daughter",
+    "accepted_answers": [
+      "daughter"
+    ],
+    "example_de": "Das ist meine Tochter Katharina.",
+    "example_en": "That is my daughter Katharina.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0595",
+    "german": "heiraten",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "marry",
+    "accepted_answers": [
+      "marry"
+    ],
+    "example_de": "Meine Schwester heiratet einen Japaner.",
+    "example_en": "My sister is marrying a Japanese man.",
+    "topic": "people_family",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  }
+]

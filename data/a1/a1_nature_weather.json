@@ -1,0 +1,290 @@
+[
+  {
+    "id": "a1_0539",
+    "german": "das Land",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Länder",
+    "english": "country",
+    "accepted_answers": [
+      "country"
+    ],
+    "example_de": "Italien ist ein schönes Land.",
+    "example_en": "Italy is a beautiful country.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0540",
+    "german": "das Meer",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Meere",
+    "english": "sea",
+    "accepted_answers": [
+      "sea"
+    ],
+    "example_de": "Wir machen Urlaub am Meer.",
+    "example_en": "We are holidaying by the sea.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0541",
+    "german": "das Wetter",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "weather",
+    "accepted_answers": [
+      "weather"
+    ],
+    "example_de": "Wir hatten schlechtes Wetter.",
+    "example_en": "We had bad weather.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0542",
+    "german": "der Baum",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Bäume",
+    "english": "tree",
+    "accepted_answers": [
+      "tree"
+    ],
+    "example_de": "Vorsicht, fahr nicht an den Baum!",
+    "example_en": "Careful, don’t drive into the tree!",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0543",
+    "german": "der Frühling",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Frühlinge",
+    "english": "spring",
+    "accepted_answers": [
+      "spring"
+    ],
+    "example_de": "Ich mag den Frühling.",
+    "example_en": "I like spring.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0544",
+    "german": "der Herbst",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Herbste",
+    "english": "autumn",
+    "accepted_answers": [
+      "autumn"
+    ],
+    "example_de": "Ich mag den Herbst.",
+    "example_en": "I like autumn.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0545",
+    "german": "der Norden",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "north",
+    "accepted_answers": [
+      "north"
+    ],
+    "example_de": "Wir fahren nach Norden.",
+    "example_en": "We are traveling north.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0546",
+    "german": "der Osten",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "east",
+    "accepted_answers": [
+      "east"
+    ],
+    "example_de": "Wir fahren nach Osten.",
+    "example_en": "We are traveling east.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0547",
+    "german": "der Regen",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "rain",
+    "accepted_answers": [
+      "rain"
+    ],
+    "example_de": "Bei diesem Regen gehe ich nicht raus.",
+    "example_en": "I’m not going out in this rain.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0548",
+    "german": "der Sommer",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Sommer",
+    "english": "summer",
+    "accepted_answers": [
+      "summer"
+    ],
+    "example_de": "Ich mag den Sommer.",
+    "example_en": "I like summer.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0549",
+    "german": "der Süden",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "south",
+    "accepted_answers": [
+      "south"
+    ],
+    "example_de": "Wir fahren nach Süden.",
+    "example_en": "We are traveling south.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0550",
+    "german": "der Westen",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "west",
+    "accepted_answers": [
+      "west"
+    ],
+    "example_de": "Wir fahren nach Westen.",
+    "example_en": "We are traveling west.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0551",
+    "german": "der Wind",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Winde",
+    "english": "wind",
+    "accepted_answers": [
+      "wind"
+    ],
+    "example_de": "Der Wind kommt aus Osten.",
+    "example_en": "The wind is coming from the east.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0552",
+    "german": "der Winter",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Winter",
+    "english": "winter",
+    "accepted_answers": [
+      "winter"
+    ],
+    "example_de": "Ich mag den Winter.",
+    "example_en": "I like winter.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0553",
+    "german": "die Blume",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Blumen",
+    "english": "flower",
+    "accepted_answers": [
+      "flower"
+    ],
+    "example_de": "Gefallen dir die Blumen?",
+    "example_en": "Do you like the flowers?",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0554",
+    "german": "die Sonne",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Sonnen",
+    "english": "sun",
+    "accepted_answers": [
+      "sun"
+    ],
+    "example_de": "Die Sonne scheint.",
+    "example_en": "The sun is shining.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0555",
+    "german": "die Welt",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Welten",
+    "english": "world",
+    "accepted_answers": [
+      "world"
+    ],
+    "example_de": "Es gibt viele Probleme auf der Welt.",
+    "example_en": "There are many problems in the world.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0556",
+    "german": "regnen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "rain",
+    "accepted_answers": [
+      "rain"
+    ],
+    "example_de": "Heute regnet es.",
+    "example_en": "Today it’s raining.",
+    "topic": "nature_weather",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  }
+]

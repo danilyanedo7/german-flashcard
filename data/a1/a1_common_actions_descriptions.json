@@ -1,0 +1,4968 @@
+[
+  {
+    "id": "a1_0001",
+    "german": "abfliegen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "depart",
+    "accepted_answers": [
+      "depart"
+    ],
+    "example_de": "Wann fliegst du ab?",
+    "example_en": "When do you depart?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0002",
+    "german": "abgeben",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "hand in",
+    "accepted_answers": [
+      "hand in"
+    ],
+    "example_de": "Ich muss meine Schlüssel abgeben.",
+    "example_en": "I have to hand in my keys.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0003",
+    "german": "abholen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "pick up",
+    "accepted_answers": [
+      "pick up"
+    ],
+    "example_de": "Wann kann ich den Schrank bei dir abholen?",
+    "example_en": "When can I pick up the cabinet from you?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0004",
+    "german": "alt",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "old",
+    "accepted_answers": [
+      "old"
+    ],
+    "example_de": "Wie alt sind Sie?",
+    "example_en": "How old are you?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0005",
+    "german": "an sein",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "be on",
+    "accepted_answers": [
+      "be on",
+      "be switched on"
+    ],
+    "example_de": "Heute Nacht war das Licht an.",
+    "example_en": "The light was on tonight.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0006",
+    "german": "anbieten",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "offer",
+    "accepted_answers": [
+      "offer"
+    ],
+    "example_de": "Was darf ich dir anbieten?",
+    "example_en": "What can I offer you?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0007",
+    "german": "anfangen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "begin",
+    "accepted_answers": [
+      "begin"
+    ],
+    "example_de": "Hier fängt die Bahnhofstraße an.",
+    "example_en": "Here, Bahnhofstraße starts.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0008",
+    "german": "anklicken",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "click",
+    "accepted_answers": [
+      "click"
+    ],
+    "example_de": "Da musst du dieses Wort anklicken.",
+    "example_en": "You need to click on this word.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0009",
+    "german": "ankommen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "arrive",
+    "accepted_answers": [
+      "arrive"
+    ],
+    "example_de": "Wann kommt dieser Zug in Hamburg an?",
+    "example_en": "When does this train arrive in Hamburg?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0010",
+    "german": "ankreuzen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "tick",
+    "accepted_answers": [
+      "tick"
+    ],
+    "example_de": "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.",
+    "example_en": "On the form, you need to check several places.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0011",
+    "german": "anmachen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "switch on",
+    "accepted_answers": [
+      "switch on"
+    ],
+    "example_de": "Mach bitte das Licht an!",
+    "example_en": "Please turn on the light.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0012",
+    "german": "anrufen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "call",
+    "accepted_answers": [
+      "call"
+    ],
+    "example_de": "Kann man Sie anrufen?",
+    "example_en": "Can one call you?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0013",
+    "german": "antworten",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "answer",
+    "accepted_answers": [
+      "answer"
+    ],
+    "example_de": "Er antwortet nicht.",
+    "example_en": "He isn’t answering.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0014",
+    "german": "arbeitslos",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "unemployed",
+    "accepted_answers": [
+      "unemployed"
+    ],
+    "example_de": "Es gibt bei uns viele Leute, die schon lange arbeitslos sind.",
+    "example_en": "We have a lot of people who have been unemployed for a long time.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0015",
+    "german": "auf sein",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "be open",
+    "accepted_answers": [
+      "be open",
+      "be unlocked"
+    ],
+    "example_de": "Du brauchst den Schlüssel nicht. Die Wohnung ist auf.",
+    "example_en": "You don’t need the key. The flat is open.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0016",
+    "german": "aufhören",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "stop",
+    "accepted_answers": [
+      "stop",
+      "end"
+    ],
+    "example_de": "Der Kurs hört um sechs auf.",
+    "example_en": "The course ends at six.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0017",
+    "german": "aufstehen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "get up",
+    "accepted_answers": [
+      "get up"
+    ],
+    "example_de": "Ich muss immer um vier Uhr aufstehen.",
+    "example_en": "I always need to get up at 4 am.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0018",
+    "german": "aus sein",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "be off",
+    "accepted_answers": [
+      "be off",
+      "be switched off"
+    ],
+    "example_de": "Das Licht ist aus.",
+    "example_en": "The light is off.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0019",
+    "german": "ausfüllen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "fill out",
+    "accepted_answers": [
+      "fill out"
+    ],
+    "example_de": "Füllen Sie bitte dieses Formular aus.",
+    "example_en": "Please fill out this form.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0020",
+    "german": "ausländisch",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "foreign",
+    "accepted_answers": [
+      "foreign"
+    ],
+    "example_de": "Leider habe ich nur ausländisches Geld.",
+    "example_en": "Unfortunately I only have foreign money.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0021",
+    "german": "ausmachen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "switch off",
+    "accepted_answers": [
+      "switch off"
+    ],
+    "example_de": "Mach bitte das Licht aus!",
+    "example_en": "Please switch off the light!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0022",
+    "german": "aussehen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "look",
+    "accepted_answers": [
+      "look"
+    ],
+    "example_de": "Das sieht schön aus.",
+    "example_en": "That looks beautiful.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0023",
+    "german": "ausziehen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "take off",
+    "accepted_answers": [
+      "take off"
+    ],
+    "example_de": "Zieh die Schuhe aus, bitte!",
+    "example_en": "Please take off your shoes!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0024",
+    "german": "automatisch",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "automatic",
+    "accepted_answers": [
+      "automatic"
+    ],
+    "example_de": "Du musst nichts machen. Das geht automatisch.",
+    "example_en": "You don’t need to do anything. It's automatic.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0025",
+    "german": "bar",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "in cash",
+    "accepted_answers": [
+      "in cash",
+      "cash"
+    ],
+    "example_de": "Muss ich bar zahlen oder geht‘s auch mit Karte?",
+    "example_en": "Do I have to pay in cash, or can I also pay by card?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0026",
+    "german": "bedeuten",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "mean",
+    "accepted_answers": [
+      "mean"
+    ],
+    "example_de": "Was bedeutet das Wort?",
+    "example_en": "What does that word mean?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0027",
+    "german": "beginnen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "begin",
+    "accepted_answers": [
+      "begin"
+    ],
+    "example_de": "Das Spiel beginnt um 15.30 Uhr.",
+    "example_en": "The game begins at 3:30 pm.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0028",
+    "german": "bei uns",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "here",
+    "accepted_answers": [
+      "here",
+      "where we are"
+    ],
+    "example_de": "Bei uns regnet es heute.",
+    "example_en": "It is raining here today.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0029",
+    "german": "bekannt",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "well known",
+    "accepted_answers": [
+      "well known"
+    ],
+    "example_de": "Picasso ist sehr bekannt.",
+    "example_en": "Picasso is very well known.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0030",
+    "german": "bekommen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "receive",
+    "accepted_answers": [
+      "receive",
+      "have",
+      "get"
+    ],
+    "example_de": "Haben Sie meinen Brief bekommen?",
+    "example_en": "Did you receive my letter?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0031",
+    "german": "benutzen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "use",
+    "accepted_answers": [
+      "use"
+    ],
+    "example_de": "Die Aufzüge bitte nicht benutzen!",
+    "example_en": "Please don’t use the lifts!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0032",
+    "german": "besetzt",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "busy",
+    "accepted_answers": [
+      "busy",
+      "taken"
+    ],
+    "example_de": "Die Nummer ist immer besetzt.",
+    "example_en": "The number is always busy.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0033",
+    "german": "besichtigen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "visit",
+    "accepted_answers": [
+      "visit"
+    ],
+    "example_de": "Ich möchte gern den Dom besichtigen.",
+    "example_en": "I would like to visit the cathedral.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0034",
+    "german": "besser",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "better",
+    "accepted_answers": [
+      "better"
+    ],
+    "example_de": "Es geht mir schon besser.",
+    "example_en": "I'm already feeling better.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0035",
+    "german": "bestellen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "order",
+    "accepted_answers": [
+      "order"
+    ],
+    "example_de": "Wir möchten bestellen, bitte.",
+    "example_en": "We would like to order, please.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0036",
+    "german": "besuchen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "visit",
+    "accepted_answers": [
+      "visit"
+    ],
+    "example_de": "Darf ich dich besuchen?",
+    "example_en": "May I visit you?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0037",
+    "german": "billig",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "cheap",
+    "accepted_answers": [
+      "cheap"
+    ],
+    "example_de": "Die Jacke kostet nur 10 Euro! Die ist aber billig!",
+    "example_en": "The jacket only costs 10 euros! That’s cheap!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0038",
+    "german": "bitten",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "ask",
+    "accepted_answers": [
+      "ask"
+    ],
+    "example_de": "Darf ich Sie um etwas bitten?",
+    "example_en": "May I ask something of you?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0039",
+    "german": "bitter",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "bitter",
+    "accepted_answers": [
+      "bitter"
+    ],
+    "example_de": "Der Kaffee schmeckt bitter.",
+    "example_en": "The coffee tastes bitter.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0040",
+    "german": "blau",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "blue",
+    "accepted_answers": [
+      "blue"
+    ],
+    "example_de": "Das Auto ist blau.",
+    "example_en": "The car is blue.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0041",
+    "german": "bleiben",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "stay",
+    "accepted_answers": [
+      "stay"
+    ],
+    "example_de": "Ich bleibe heute zu Hause.",
+    "example_en": "I'm staying home today.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0042",
+    "german": "brauchen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "need",
+    "accepted_answers": [
+      "need"
+    ],
+    "example_de": "Brauchst du die Zeitung noch?",
+    "example_en": "Do you still need the newspaper?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0043",
+    "german": "braun",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "brown",
+    "accepted_answers": [
+      "brown"
+    ],
+    "example_de": "Das Auto ist braun.",
+    "example_en": "The car is brown.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0044",
+    "german": "breit",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "wide",
+    "accepted_answers": [
+      "wide"
+    ],
+    "example_de": "Wie breit ist der Schrank?",
+    "example_en": "How wide is the cupboard?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0045",
+    "german": "bringen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "bring",
+    "accepted_answers": [
+      "bring",
+      "take"
+    ],
+    "example_de": "Bringen Sie mir bitte noch einen Kaffee!",
+    "example_en": "Please bring me another coffee!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0046",
+    "german": "buchstabieren",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "spell",
+    "accepted_answers": [
+      "spell"
+    ],
+    "example_de": "Bitte buchstabieren Sie Ihren Namen.",
+    "example_en": "Please spell your name.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0047",
+    "german": "böse",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "angry",
+    "accepted_answers": [
+      "angry"
+    ],
+    "example_de": "Sie ist böse auf mich.",
+    "example_en": "She is angry with me.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0048",
+    "german": "danken",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "thank",
+    "accepted_answers": [
+      "thank"
+    ],
+    "example_de": "Ich danke Ihnen für die Einladung.",
+    "example_en": "I thank you for the invitation.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0049",
+    "german": "das Beispiel",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Beispiele",
+    "english": "example",
+    "accepted_answers": [
+      "example"
+    ],
+    "example_de": "Kannst du mir ein Beispiel sagen?",
+    "example_en": "Can you give me an example?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0050",
+    "german": "das Doppelzimmer",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Doppelzimmer",
+    "english": "double room",
+    "accepted_answers": [
+      "double room"
+    ],
+    "example_de": "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?",
+    "example_en": "Would you like a double room or a single room?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0051",
+    "german": "das Dorf",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Dörfer",
+    "english": "village",
+    "accepted_answers": [
+      "village"
+    ],
+    "example_de": "Meine Familie lebt in einem Dorf.",
+    "example_en": "My family lives in a village.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0052",
+    "german": "das Einzelzimmer",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Einzelzimmer",
+    "english": "single room",
+    "accepted_answers": [
+      "single room"
+    ],
+    "example_de": "Haben Sie noch ein Einzelzimmer?",
+    "example_en": "Do you have another single room?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0053",
+    "german": "das Ergebnis",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Ergebnisse",
+    "english": "result",
+    "accepted_answers": [
+      "result"
+    ],
+    "example_de": "Das Ergebnis des Tests bekommen Sie in zwei Wochen.",
+    "example_en": "You will receive the test results in two weeks.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0054",
+    "german": "das Feuer",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Feuer",
+    "english": "fire",
+    "accepted_answers": [
+      "fire",
+      "a light"
+    ],
+    "example_de": "Das Feuer ist warm.",
+    "example_en": "The fire is warm.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0055",
+    "german": "das Geburtsjahr",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Geburtsjahre",
+    "english": "birth year",
+    "accepted_answers": [
+      "birth year"
+    ],
+    "example_de": "Das Geburtsjahr Ihres Sohnes, bitte?",
+    "example_en": "Your son's year of birth, please?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0056",
+    "german": "das Geschenk",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Geschenke",
+    "english": "present",
+    "accepted_answers": [
+      "present"
+    ],
+    "example_de": "Danke für das schöne Geschenk.",
+    "example_en": "Thank you for the beautiful present.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0057",
+    "german": "das Gespräch",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Gespräche",
+    "english": "conversation",
+    "accepted_answers": [
+      "conversation",
+      "talk",
+      "call"
+    ],
+    "example_de": "Das Gespräch mit Frau Kunz ist um 14 Uhr.",
+    "example_en": "The conversation with Ms Kunz is at 2 pm.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0058",
+    "german": "das Gewicht",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Gewichte",
+    "english": "weight",
+    "accepted_answers": [
+      "weight"
+    ],
+    "example_de": "Bei „Gewicht“ schreibst du: 62 Kilo.",
+    "example_en": "For “weight”, write 62 kg.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0059",
+    "german": "das Glück",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "luck",
+    "accepted_answers": [
+      "luck"
+    ],
+    "example_de": "Viel Glück!",
+    "example_en": "Good luck!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0060",
+    "german": "das Haar",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Haare",
+    "english": "hair",
+    "accepted_answers": [
+      "hair"
+    ],
+    "example_de": "Sie hat lange Haare.",
+    "example_en": "She has long hair.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0061",
+    "german": "das Handy",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Handys",
+    "english": "cell phone",
+    "accepted_answers": [
+      "cell phone",
+      "mobile phone"
+    ],
+    "example_de": "In der Schule bitte die Handys ausmachen!",
+    "example_en": "Please turn off your mobile phones in school!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0062",
+    "german": "das Hotel",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Hotels",
+    "english": "hotel",
+    "accepted_answers": [
+      "hotel"
+    ],
+    "example_de": "Im Urlaub sind wir in einem Hotel am Meer.",
+    "example_en": "On holiday we are in a hotel by the sea.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0063",
+    "german": "das Internet",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "internet",
+    "accepted_answers": [
+      "internet"
+    ],
+    "example_de": "Das findest du im Internet.",
+    "example_en": "You will find that on the internet.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0064",
+    "german": "das Konto",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Konten",
+    "english": "account",
+    "accepted_answers": [
+      "account"
+    ],
+    "example_de": "Das Geld überweisen wir am ersten März auf Ihr Konto.",
+    "example_en": "We will transfer the money to your account on the first of March.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0065",
+    "german": "das Leben",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Leben",
+    "english": "life",
+    "accepted_answers": [
+      "life"
+    ],
+    "example_de": "Das Leben in diesem Land ist teuer.",
+    "example_en": "Life in this country is expensive.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0066",
+    "german": "das Lokal",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Lokale",
+    "english": "restaurant",
+    "accepted_answers": [
+      "restaurant",
+      "pub",
+      "bar"
+    ],
+    "example_de": "In unserer Straße gibt es ein neues Lokal.",
+    "example_en": "There is a new pub on our street.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0067",
+    "german": "das Mädchen",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Mädchen",
+    "english": "girl",
+    "accepted_answers": [
+      "girl"
+    ],
+    "example_de": "Das Mädchen spielt draußen.",
+    "example_en": "The girl is playing outside.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0068",
+    "german": "das Problem",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Probleme",
+    "english": "problem",
+    "accepted_answers": [
+      "problem"
+    ],
+    "example_de": "Mein Problem ist die Sprache.",
+    "example_en": "My problem is the language.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0069",
+    "german": "das Schild",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Schilder",
+    "english": "sign",
+    "accepted_answers": [
+      "sign"
+    ],
+    "example_de": "Haben Sie nicht das Schild gesehen?",
+    "example_en": "Did you not see the sign?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0070",
+    "german": "das Thema",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Themen",
+    "english": "topic",
+    "accepted_answers": [
+      "topic"
+    ],
+    "example_de": "Wir sprechen heute über das Thema „Essen und Trinken“.",
+    "example_en": "Today we are talking about the topic “Food and Drink”.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0071",
+    "german": "das Wort",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Wörter",
+    "english": "word",
+    "accepted_answers": [
+      "word"
+    ],
+    "example_de": "Ich kenne das Wort nicht.",
+    "example_en": "I don’t know that word.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0072",
+    "german": "das Öl",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Öle",
+    "english": "oil",
+    "accepted_answers": [
+      "oil"
+    ],
+    "example_de": "Den Salat machen wir ohne Öl.",
+    "example_en": "We make the salad without oil.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0073",
+    "german": "dauern",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "last",
+    "accepted_answers": [
+      "last",
+      "take"
+    ],
+    "example_de": "Wie lange dauert der Film?",
+    "example_en": "How long is the film?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0074",
+    "german": "der Anruf",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Anrufe",
+    "english": "call",
+    "accepted_answers": [
+      "call"
+    ],
+    "example_de": "Sie bekommt viele Anrufe auf ihrem Handy.",
+    "example_en": "She receives many calls on her cell phone.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0075",
+    "german": "der Anrufbeantworter",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Anrufbeantworter",
+    "english": "answering machine",
+    "accepted_answers": [
+      "answering machine"
+    ],
+    "example_de": "Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter.",
+    "example_en": "We are not available at the moment. Please leave a message on the answering machine.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0076",
+    "german": "der Aufzug",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Äufzuge",
+    "english": "elevator",
+    "accepted_answers": [
+      "elevator",
+      "lift"
+    ],
+    "example_de": "In diesem Haus gibt es keinen Aufzug.",
+    "example_en": "There is no lift in this building.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0077",
+    "german": "der Ausgang",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Ausgänge",
+    "english": "exit",
+    "accepted_answers": [
+      "exit"
+    ],
+    "example_de": "Wo ist der Ausgang?",
+    "example_en": "Where is the exit?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0078",
+    "german": "der Ausländer",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Ausländer",
+    "english": "foreigner",
+    "accepted_answers": [
+      "foreigner"
+    ],
+    "example_de": "Sind Sie Ausländerin?",
+    "example_en": "Are you a foreigner?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0079",
+    "german": "der Ausweis",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Ausweise",
+    "english": "identity card",
+    "accepted_answers": [
+      "identity card"
+    ],
+    "example_de": "Hier ist mein Ausweis.",
+    "example_en": "Here is my identity card.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0080",
+    "german": "der Bekannte / die Bekannte",
+    "word_type": "noun",
+    "gender": "masculine/feminine",
+    "plural": "die Bekannten",
+    "english": "acquaintance",
+    "accepted_answers": [
+      "acquaintance"
+    ],
+    "example_de": "Ein Bekannter von mir heißt Klaus.",
+    "example_en": "An acquaintance of mine is called Klaus.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0081",
+    "german": "der Blick",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Blicke",
+    "english": "view",
+    "accepted_answers": [
+      "view"
+    ],
+    "example_de": "Von diesem Hotel hat man einen guten Blick auf den Rhein.",
+    "example_en": "From this hotel you have a good view of the Rhine.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0082",
+    "german": "der Dank",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "thanks",
+    "accepted_answers": [
+      "thanks"
+    ],
+    "example_de": "Vielen Dank!",
+    "example_en": "Many thanks!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0083",
+    "german": "der Doktor",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Doktoren",
+    "english": "doctor",
+    "accepted_answers": [
+      "doctor"
+    ],
+    "example_de": "Meine Tochter ist krank. Wir gehen zum Doktor.",
+    "example_en": "My daughter is sick. We are going to the doctor.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0084",
+    "german": "der Eintritt",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Eintritte",
+    "english": "admission",
+    "accepted_answers": [
+      "admission",
+      "entry"
+    ],
+    "example_de": "Der Preis für den Eintritt ist 5 Euro.",
+    "example_en": "The price for entry is 5 euros.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0085",
+    "german": "der Feierabend",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Feierabende",
+    "english": "after work",
+    "accepted_answers": [
+      "after work",
+      "end of the working day"
+    ],
+    "example_de": "Nach Feierabend gehe ich nach Hause.",
+    "example_en": "I go home after work.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0086",
+    "german": "der Feiertag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Feiertage",
+    "english": "public holiday",
+    "accepted_answers": [
+      "public holiday",
+      "bank holiday"
+    ],
+    "example_de": "Am Montag ist Feiertag.",
+    "example_en": "Monday is a bank holiday.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0087",
+    "german": "der Fisch",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Fische",
+    "english": "fish",
+    "accepted_answers": [
+      "fish"
+    ],
+    "example_de": "Ich esse gern Fisch. Fleisch mag ich nicht.",
+    "example_en": "I like to eat fish. I don’t like meat.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0088",
+    "german": "der Gast",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Gäste",
+    "english": "guest",
+    "accepted_answers": [
+      "guest"
+    ],
+    "example_de": "Am Wochenende haben wir mehrere Gäste.",
+    "example_en": "At the weekend we have several guests.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0089",
+    "german": "der Geburtsort",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Geburtsorte",
+    "english": "birthplace",
+    "accepted_answers": [
+      "birthplace"
+    ],
+    "example_de": "Bitte schreiben Sie Ihren Geburtsort auf das Formular.",
+    "example_en": "Please write your birthplace on the form.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0090",
+    "german": "der Glückwunsch",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Glückwünsche",
+    "english": "congratulations",
+    "accepted_answers": [
+      "congratulations"
+    ],
+    "example_de": "Herzlichen Glückwunsch zum Geburtstag.",
+    "example_en": "Best wishes on your birthday!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0091",
+    "german": "der Gruß",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Grüße",
+    "english": "regards",
+    "accepted_answers": [
+      "regards"
+    ],
+    "example_de": "Viele Grüße an Ihre Frau.",
+    "example_en": "Give my regards to your wife.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0092",
+    "german": "der Hausmann",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Hausmänner",
+    "english": "househusband",
+    "accepted_answers": [
+      "househusband"
+    ],
+    "example_de": "Der Hausmann wäscht, kocht und kauft ein.",
+    "example_en": "The househusband washes, cooks, and goes shopping.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0093",
+    "german": "der Hund",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Hunde",
+    "english": "dog",
+    "accepted_answers": [
+      "dog"
+    ],
+    "example_de": "Der Hund ist noch jung.",
+    "example_en": "The dog is still young.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0094",
+    "german": "der Ort",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Orte",
+    "english": "location",
+    "accepted_answers": [
+      "location",
+      "place"
+    ],
+    "example_de": "Der Ort liegt am Meer.",
+    "example_en": "That place is by the sea.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0095",
+    "german": "der Plan",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Pläne",
+    "english": "map",
+    "accepted_answers": [
+      "map",
+      "plan"
+    ],
+    "example_de": "Ich kaufe mir einen Stadtplan.",
+    "example_en": "I will buy myself a map of the town.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0096",
+    "german": "der Platz",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Plätze",
+    "english": "place",
+    "accepted_answers": [
+      "place",
+      "seat",
+      "square"
+    ],
+    "example_de": "Tut mir leid, der Platz ist besetzt.",
+    "example_en": "I’m sorry, this seat is taken.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0097",
+    "german": "der Satz",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Sätze",
+    "english": "sentence",
+    "accepted_answers": [
+      "sentence"
+    ],
+    "example_de": "Dieser Satz ist sehr einfach.",
+    "example_en": "This sentence is very simple.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0098",
+    "german": "der Schalter",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Schalter",
+    "english": "counter",
+    "accepted_answers": [
+      "counter"
+    ],
+    "example_de": "Gehen Sie bitte zum Schalter drei!",
+    "example_en": "Please go to counter 3!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0099",
+    "german": "der Schluss",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Schlüsse",
+    "english": "end",
+    "accepted_answers": [
+      "end",
+      "finish"
+    ],
+    "example_de": "Jetzt ist Schluss.",
+    "example_en": "It is over now.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0100",
+    "german": "der Schuh",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Schuhe",
+    "english": "shoe",
+    "accepted_answers": [
+      "shoe"
+    ],
+    "example_de": "Zieh die Schuhe aus!",
+    "example_en": "Take your shoes off!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0101",
+    "german": "der See",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Seen",
+    "english": "lake",
+    "accepted_answers": [
+      "lake"
+    ],
+    "example_de": "Komm, wir fahren zum Starnberger See.",
+    "example_en": "Come, we’re going to Starnberg lake.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0102",
+    "german": "der Stock",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Stockwerke",
+    "english": "floor",
+    "accepted_answers": [
+      "floor"
+    ],
+    "example_de": "Unsere Wohnung liegt im ersten Stock.",
+    "example_en": "Our flat is on the first floor.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0103",
+    "german": "der Teil",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Teile",
+    "english": "part",
+    "accepted_answers": [
+      "part"
+    ],
+    "example_de": "Lies bitte auch den zweiten Teil.",
+    "example_en": "Please also read the second part.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0104",
+    "german": "der Termin",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Termine",
+    "english": "appointment",
+    "accepted_answers": [
+      "appointment"
+    ],
+    "example_de": "Am besten machen wir sofort einen Termin.",
+    "example_en": "It's best to make an appointment immediately.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0105",
+    "german": "der Tisch",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Tische",
+    "english": "table",
+    "accepted_answers": [
+      "table"
+    ],
+    "example_de": "Die Fotos liegen auf dem Tisch.",
+    "example_en": "The photos are on the table.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0106",
+    "german": "deutsch",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "German",
+    "accepted_answers": [
+      "German"
+    ],
+    "example_de": "Das Auto ist deutsch.",
+    "example_en": "The car is German.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0107",
+    "german": "die Anmeldung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Anmeldungen",
+    "english": "registration",
+    "accepted_answers": [
+      "registration"
+    ],
+    "example_de": "Eine Anmeldung für diesen Kurs ist nicht mehr möglich.",
+    "example_en": "Registration for this course is no longer possible.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0108",
+    "german": "die Anrede",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Anreden",
+    "english": "salutation",
+    "accepted_answers": [
+      "salutation"
+    ],
+    "example_de": "Schreiben Sie auch eine Anrede und einen Gruß.",
+    "example_en": "Also, write a salutation and a closing.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0109",
+    "german": "die Ansage",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Ansagen",
+    "english": "announcement",
+    "accepted_answers": [
+      "announcement"
+    ],
+    "example_de": "Hören Sie auf die Ansagen.",
+    "example_en": "Listen to the announcements.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0110",
+    "german": "die Antwort",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Antworten",
+    "english": "answer",
+    "accepted_answers": [
+      "answer"
+    ],
+    "example_de": "Er gibt leider keine Antwort.",
+    "example_en": "Unfortunately he isn't giving an answer.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0111",
+    "german": "die Auskunft",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Äuskunfte",
+    "english": "information",
+    "accepted_answers": [
+      "information",
+      "details"
+    ],
+    "example_de": "Können Sie mir eine Auskunft geben?",
+    "example_en": "Can you give me some information?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0112",
+    "german": "die Aussage",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Aussagen",
+    "english": "statement",
+    "accepted_answers": [
+      "statement"
+    ],
+    "example_de": "Ist die Aussage richtig oder falsch?",
+    "example_en": "Is the statement true or false?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0113",
+    "german": "die Bitte",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Bitten",
+    "english": "request",
+    "accepted_answers": [
+      "request"
+    ],
+    "example_de": "Ich habe noch eine Bitte.",
+    "example_en": "I have one more request.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0114",
+    "german": "die Bäckerei",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Bäckereien",
+    "english": "bakery",
+    "accepted_answers": [
+      "bakery"
+    ],
+    "example_de": "Ich geh mal schnell zur Bäckerei.",
+    "example_en": "I’m just popping to the bakery.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0115",
+    "german": "die Dame",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Damen",
+    "english": "lady",
+    "accepted_answers": [
+      "lady"
+    ],
+    "example_de": "Damen (an der Toilette).",
+    "example_en": "Ladies (toilet sign).",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0116",
+    "german": "die Durchsage",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Durchsagen",
+    "english": "announcement",
+    "accepted_answers": [
+      "announcement"
+    ],
+    "example_de": "Ich habe die Durchsage nicht verstanden.",
+    "example_en": "I didn’t understand the announcement.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0117",
+    "german": "die Ecke",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Ecken",
+    "english": "corner",
+    "accepted_answers": [
+      "corner"
+    ],
+    "example_de": "An der nächsten Ecke links.",
+    "example_en": "Left at the next corner.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0118",
+    "german": "die Einladung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Einladungen",
+    "english": "invitation",
+    "accepted_answers": [
+      "invitation"
+    ],
+    "example_de": "Danke für die Einladung!",
+    "example_en": "Thank you for the invitation!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0119",
+    "german": "die Entschuldigung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Entschuldigungen",
+    "english": "excuse",
+    "accepted_answers": [
+      "excuse",
+      "apology"
+    ],
+    "example_de": "Entschuldigung, wo ist die Post?",
+    "example_en": "Excuse me, where is the post office?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0120",
+    "german": "die Farbe",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Farben",
+    "english": "colour",
+    "accepted_answers": [
+      "colour"
+    ],
+    "example_de": "Die Farbe gefällt mir gut.",
+    "example_en": "I like the colour.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0121",
+    "german": "die Flasche",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Flaschen",
+    "english": "bottle",
+    "accepted_answers": [
+      "bottle"
+    ],
+    "example_de": "Eine Flasche Bier, bitte.",
+    "example_en": "A bottle of beer, please.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0122",
+    "german": "die Frage",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Fragen",
+    "english": "question",
+    "accepted_answers": [
+      "question"
+    ],
+    "example_de": "Ich habe eine Frage.",
+    "example_en": "I have a question.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0123",
+    "german": "die Führung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Führungen",
+    "english": "tour",
+    "accepted_answers": [
+      "tour"
+    ],
+    "example_de": "Die Führung durch das Haus beginnt in 3 Minuten.",
+    "example_en": "The tour of the house begins in 3 minutes.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0124",
+    "german": "die Gruppe",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Gruppen",
+    "english": "group",
+    "accepted_answers": [
+      "group"
+    ],
+    "example_de": "Die erste Gruppe beginnt um 16 Uhr.",
+    "example_en": "The first group begins at 4 pm.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0125",
+    "german": "die Größe",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Größen",
+    "english": "size",
+    "accepted_answers": [
+      "size"
+    ],
+    "example_de": "Haben Sie das auch in Größe 40?",
+    "example_en": "Do you also have that in size 40?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0126",
+    "german": "die Halbpension",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "half-board",
+    "accepted_answers": [
+      "half-board"
+    ],
+    "example_de": "Möchten Sie Vollpension oder Halbpension?",
+    "example_en": "Would you like full or half-board?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0127",
+    "german": "die Halle",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Hallen",
+    "english": "hall",
+    "accepted_answers": [
+      "hall"
+    ],
+    "example_de": "Wir treffen uns in Halle B.",
+    "example_en": "We will meet in hall B.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0128",
+    "german": "die Hausfrau",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Hausfrauen",
+    "english": "housewife",
+    "accepted_answers": [
+      "housewife"
+    ],
+    "example_de": "Die Hausfrau wäscht, kocht und kauft ein.",
+    "example_en": "The housewife washes, cooks, and goes shopping.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0129",
+    "german": "die Heimat",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "home",
+    "accepted_answers": [
+      "home"
+    ],
+    "example_de": "Ich komme aus der Schweiz. Das ist meine Heimat.",
+    "example_en": "I come from Switzerland. It’s my home.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0130",
+    "german": "die Information",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Informationen",
+    "english": "information",
+    "accepted_answers": [
+      "information"
+    ],
+    "example_de": "Diese Information ist wichtig.",
+    "example_en": "This information is important.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0131",
+    "german": "die Jacke",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Jacken",
+    "english": "jacket",
+    "accepted_answers": [
+      "jacket"
+    ],
+    "example_de": "Zieh dir eine Jacke an. Es ist kalt.",
+    "example_en": "Put your jacket on. It’s cold.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0132",
+    "german": "die Kleidung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "clothes",
+    "accepted_answers": [
+      "clothes"
+    ],
+    "example_de": "Die Kleidung ist neu.",
+    "example_en": "The clothes are new.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0133",
+    "german": "die Kreditkarte",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Kreditkarten",
+    "english": "credit card",
+    "accepted_answers": [
+      "credit card",
+      "card"
+    ],
+    "example_de": "Kann ich auch mit Karte (be-) zahlen?",
+    "example_en": "Can I also pay by card?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0134",
+    "german": "die Leute",
+    "word_type": "noun",
+    "gender": "plural",
+    "plural": "die Leute",
+    "english": "people",
+    "accepted_answers": [
+      "people"
+    ],
+    "example_de": "In der Disko sind viele Leute.",
+    "example_en": "There are a lot of people at the disco.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0135",
+    "german": "die Maschine",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Maschinen",
+    "english": "machine",
+    "accepted_answers": [
+      "machine"
+    ],
+    "example_de": "Die Waschmaschine ist günstig.",
+    "example_en": "The washing machine is cheap.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0136",
+    "german": "die Mitte",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Mitten",
+    "english": "middle",
+    "accepted_answers": [
+      "middle"
+    ],
+    "example_de": "Der Lehrer steht in der Mitte des Klassenzimmers.",
+    "example_en": "The teacher stands in the middle of the classroom.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0137",
+    "german": "die Ordnung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Ordnungen",
+    "english": "order",
+    "accepted_answers": [
+      "order",
+      "tidiness"
+    ],
+    "example_de": "Das ist in Ordnung.",
+    "example_en": "That is okay.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0138",
+    "german": "die Papiere",
+    "word_type": "noun",
+    "gender": "plural",
+    "plural": "die Papiere",
+    "english": "papers",
+    "accepted_answers": [
+      "papers"
+    ],
+    "example_de": "Haben Sie Ihre Papiere dabei?",
+    "example_en": "Do you have your papers with you?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0139",
+    "german": "die Partnerin",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Partnerinnen",
+    "english": "partner",
+    "accepted_answers": [
+      "partner"
+    ],
+    "example_de": "Sie ist meine Partnerin.",
+    "example_en": "She is my partner.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0140",
+    "german": "die Pause",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Pausen",
+    "english": "break",
+    "accepted_answers": [
+      "break"
+    ],
+    "example_de": "Von 12:00 bis 12:30 Uhr haben wir Mittagspause.",
+    "example_en": "From 12 until 12:30 pm we have a lunch break.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0141",
+    "german": "die Pommes frites",
+    "word_type": "noun",
+    "gender": "plural",
+    "plural": "die Pommes frites",
+    "english": "french fries",
+    "accepted_answers": [
+      "french fries",
+      "fries",
+      "chips"
+    ],
+    "example_de": "Die Kinder essen Hähnchen mit Pommes frites.",
+    "example_en": "The children are eating chicken and chips.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0142",
+    "german": "die Rezeption",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Rezeptionen",
+    "english": "reception",
+    "accepted_answers": [
+      "reception"
+    ],
+    "example_de": "Fragen Sie bitte im Hotel an der Rezeption.",
+    "example_en": "Please ask at the hotel reception.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0143",
+    "german": "die Sprache",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Sprachen",
+    "english": "language",
+    "accepted_answers": [
+      "language"
+    ],
+    "example_de": "Welche Sprachen sprichst du?",
+    "example_en": "Which languages do you speak?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0144",
+    "german": "die Stadt",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Städte",
+    "english": "town",
+    "accepted_answers": [
+      "town",
+      "city"
+    ],
+    "example_de": "Heidelberg ist eine alte Stadt.",
+    "example_en": "Heidelberg is an old town.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0145",
+    "german": "die Stelle",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Stellen",
+    "english": "job",
+    "accepted_answers": [
+      "job",
+      "position"
+    ],
+    "example_de": "Ich habe eine neue Stelle.",
+    "example_en": "I have a new job.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0146",
+    "german": "die Straße",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Straßen",
+    "english": "street",
+    "accepted_answers": [
+      "street"
+    ],
+    "example_de": "In welcher Straße wohnen Sie?",
+    "example_en": "Which street do you live on?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0147",
+    "german": "die Tasche",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Taschen",
+    "english": "bag",
+    "accepted_answers": [
+      "bag"
+    ],
+    "example_de": "Ich habe die Schlüssel in der Tasche.",
+    "example_en": "I have the key in the bag.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0148",
+    "german": "die Vorsicht",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "caution",
+    "accepted_answers": [
+      "caution",
+      "care"
+    ],
+    "example_de": "Vorsicht! Da kommt ein Auto.",
+    "example_en": "Careful! There’s a car coming.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0149",
+    "german": "die Zeitung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Zeitungen",
+    "english": "newspaper",
+    "accepted_answers": [
+      "newspaper"
+    ],
+    "example_de": "Ich lese gern Zeitung.",
+    "example_en": "I like to read the newspaper.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0150",
+    "german": "die Zigarette",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Zigaretten",
+    "english": "cigarette",
+    "accepted_answers": [
+      "cigarette"
+    ],
+    "example_de": "Wie teuer sind die Zigaretten?",
+    "example_en": "How expensive are the cigarettes?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0151",
+    "german": "drucken",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "print",
+    "accepted_answers": [
+      "print"
+    ],
+    "example_de": "Bitte drucke das Formular für mich.",
+    "example_en": "Please print the form for me.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0152",
+    "german": "drücken",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "press",
+    "accepted_answers": [
+      "press"
+    ],
+    "example_de": "Drück hier, dann geht der Computer an.",
+    "example_en": "Press here, then the computer turns on.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0153",
+    "german": "dürfen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "be allowed",
+    "accepted_answers": [
+      "be allowed"
+    ],
+    "example_de": "Sie dürfen hier nicht rauchen.",
+    "example_en": "You are not allowed to smoke here.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0154",
+    "german": "eilig",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "in a hurry",
+    "accepted_answers": [
+      "in a hurry"
+    ],
+    "example_de": "Hast du es eilig?",
+    "example_en": "Are you in a hurry?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0155",
+    "german": "einfach",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "simple",
+    "accepted_answers": [
+      "simple",
+      "a single"
+    ],
+    "example_de": "Die Prüfung ist ganz einfach.",
+    "example_en": "The test is very simple.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0156",
+    "german": "einladen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "invite",
+    "accepted_answers": [
+      "invite",
+      "treat"
+    ],
+    "example_de": "Darf ich Sie zu einem Kaffee einladen?",
+    "example_en": "May I treat you to a coffee?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0157",
+    "german": "empfehlen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "recommend",
+    "accepted_answers": [
+      "recommend"
+    ],
+    "example_de": "Welchen Wein können Sie mir empfehlen?",
+    "example_en": "Which wine can you recommend to me?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0158",
+    "german": "enden",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "end",
+    "accepted_answers": [
+      "end"
+    ],
+    "example_de": "Die Straße endet hier.",
+    "example_en": "The street ends here.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0159",
+    "german": "entschuldigen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "excuse",
+    "accepted_answers": [
+      "excuse"
+    ],
+    "example_de": "Entschuldigen Sie bitte!",
+    "example_en": "Excuse me, please!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0160",
+    "german": "erklären",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "explain",
+    "accepted_answers": [
+      "explain"
+    ],
+    "example_de": "Kannst du mir das erklären?",
+    "example_en": "Can you explain that to me?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0161",
+    "german": "erlauben",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "allow",
+    "accepted_answers": [
+      "allow"
+    ],
+    "example_de": "Rauchen ist hier nicht erlaubt.",
+    "example_en": "Smoking is not allowed here.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0162",
+    "german": "erzählen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "tell",
+    "accepted_answers": [
+      "tell"
+    ],
+    "example_de": "Wir müssen euch etwas erzählen!",
+    "example_en": "We need to tell you something!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0163",
+    "german": "es gibt",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "there is",
+    "accepted_answers": [
+      "there is",
+      "there are"
+    ],
+    "example_de": "Es gibt keine Karten mehr.",
+    "example_en": "There are no more tickets.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0164",
+    "german": "europäisch",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "European",
+    "accepted_answers": [
+      "European"
+    ],
+    "example_de": "Das Auto ist europäisch.",
+    "example_en": "The car is European.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0165",
+    "german": "falsch",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "wrong",
+    "accepted_answers": [
+      "wrong",
+      "incorrect"
+    ],
+    "example_de": "Das ist falsch.",
+    "example_en": "That is wrong.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0166",
+    "german": "fehlen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "be absent",
+    "accepted_answers": [
+      "be absent",
+      "be missing"
+    ],
+    "example_de": "Herr Müller ist nicht da, er fehlt schon seit drei Tagen.",
+    "example_en": "Mr Müller is not here, he’s been absent for three days.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0167",
+    "german": "fertig",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "finished",
+    "accepted_answers": [
+      "finished",
+      "ready",
+      "done"
+    ],
+    "example_de": "Bist du fertig?",
+    "example_en": "Are you done?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0168",
+    "german": "finden",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "find",
+    "accepted_answers": [
+      "find"
+    ],
+    "example_de": "Wir müssen den Schlüssel finden.",
+    "example_en": "We must find the key.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0169",
+    "german": "fragen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "ask",
+    "accepted_answers": [
+      "ask"
+    ],
+    "example_de": "Er möchte Sie etwas fragen. Wann kommen Sie?",
+    "example_en": "He wants to ask you something. When are you coming?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0170",
+    "german": "frei",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "free",
+    "accepted_answers": [
+      "free"
+    ],
+    "example_de": "Ist der Platz noch frei?",
+    "example_en": "Is this seat still free?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0171",
+    "german": "fremd",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "unfamiliar",
+    "accepted_answers": [
+      "unfamiliar",
+      "foreign",
+      "strange"
+    ],
+    "example_de": "Die Stadt ist mir fremd.",
+    "example_en": "The city is unfamiliar to me.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0172",
+    "german": "geben",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "give",
+    "accepted_answers": [
+      "give"
+    ],
+    "example_de": "Kannst du mir bitte deinen Kugelschreiber geben?",
+    "example_en": "Can you give me your pen, please?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0173",
+    "german": "geboren",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "born",
+    "accepted_answers": [
+      "born"
+    ],
+    "example_de": "Ich bin in Zagreb geboren.",
+    "example_en": "I was born in Zagreb.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0174",
+    "german": "gefallen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "like",
+    "accepted_answers": [
+      "like"
+    ],
+    "example_de": "Das gefällt mir.",
+    "example_en": "I like that.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0175",
+    "german": "gehen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "go",
+    "accepted_answers": [
+      "go",
+      "walk",
+      "work",
+      "function"
+    ],
+    "example_de": "Wir gehen jetzt nach Hause.",
+    "example_en": "We are going home now.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0176",
+    "german": "gehören",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "belong",
+    "accepted_answers": [
+      "belong"
+    ],
+    "example_de": "Wem gehört das?",
+    "example_en": "To whom does that belong?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0177",
+    "german": "gelb",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "yellow",
+    "accepted_answers": [
+      "yellow"
+    ],
+    "example_de": "Das Auto ist gelb.",
+    "example_en": "The car is yellow.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0178",
+    "german": "geschlossen",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "closed",
+    "accepted_answers": [
+      "closed"
+    ],
+    "example_de": "Die Bank hat am Samstag geschlossen.",
+    "example_en": "The bank is closed on Saturday.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0179",
+    "german": "gestorben",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "died",
+    "accepted_answers": [
+      "died"
+    ],
+    "example_de": "Meine Frau ist gestern gestorben.",
+    "example_en": "My wife died yesterday.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0180",
+    "german": "gewinnen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "win",
+    "accepted_answers": [
+      "win"
+    ],
+    "example_de": "Wer gewinnt das Spiel?",
+    "example_en": "Who is winning the game?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0181",
+    "german": "geöffnet",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "open",
+    "accepted_answers": [
+      "open"
+    ],
+    "example_de": "Der Laden ist samstags bis 16:00 Uhr geöffnet.",
+    "example_en": "The shop is open until 4 pm on Saturdays.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0182",
+    "german": "glauben",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "believe",
+    "accepted_answers": [
+      "believe",
+      "think"
+    ],
+    "example_de": "Sie können mir glauben, es ist so.",
+    "example_en": "You can believe me, it’s true.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0183",
+    "german": "gleich",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "same",
+    "accepted_answers": [
+      "same",
+      "now"
+    ],
+    "example_de": "Das ist mir gleich.",
+    "example_en": "It’s all the same to me.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0184",
+    "german": "glücklich",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "happy",
+    "accepted_answers": [
+      "happy",
+      "fortunate"
+    ],
+    "example_de": "Meine Kinder sind glücklich verheiratet.",
+    "example_en": "My children are happily married.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0185",
+    "german": "gratulieren",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "congratulate",
+    "accepted_answers": [
+      "congratulate"
+    ],
+    "example_de": "Ich gratuliere dir!",
+    "example_en": "I congratulate you!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0186",
+    "german": "grau",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "gray",
+    "accepted_answers": [
+      "gray"
+    ],
+    "example_de": "Das Auto ist grau.",
+    "example_en": "The car is gray.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0187",
+    "german": "groß",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "big",
+    "accepted_answers": [
+      "big",
+      "large",
+      "tall"
+    ],
+    "example_de": "Das Haus ist groß.",
+    "example_en": "The house is big.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0188",
+    "german": "grün",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "green",
+    "accepted_answers": [
+      "green"
+    ],
+    "example_de": "Das Auto ist grün.",
+    "example_en": "The car is green.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0189",
+    "german": "gut",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "good",
+    "accepted_answers": [
+      "good",
+      "well"
+    ],
+    "example_de": "Das finde ich gut.",
+    "example_en": "I think that’s good.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0190",
+    "german": "gültig",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "valid",
+    "accepted_answers": [
+      "valid"
+    ],
+    "example_de": "Der Pass ist nicht mehr gültig.",
+    "example_en": "The passport is no longer valid.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0191",
+    "german": "günstig",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "inexpensive",
+    "accepted_answers": [
+      "inexpensive",
+      "cheap",
+      "favorable"
+    ],
+    "example_de": "Dort gibt es günstige Angebote.",
+    "example_en": "There are cheap offers there.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0192",
+    "german": "haben",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "have",
+    "accepted_answers": [
+      "have"
+    ],
+    "example_de": "Ich habe ein neues Auto.",
+    "example_en": "I have a new car.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0193",
+    "german": "halten",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "stop",
+    "accepted_answers": [
+      "stop",
+      "hold"
+    ],
+    "example_de": "Der Bus hält hier.",
+    "example_en": "The bus stops here.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0194",
+    "german": "heißen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "be called",
+    "accepted_answers": [
+      "be called"
+    ],
+    "example_de": "Ich heiße Charlotte Meier.",
+    "example_en": "I’m called Charlotte Meier.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0195",
+    "german": "helfen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "help",
+    "accepted_answers": [
+      "help"
+    ],
+    "example_de": "Können Sie mir helfen, bitte?",
+    "example_en": "Can you help me, please?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0196",
+    "german": "hell",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "bright",
+    "accepted_answers": [
+      "bright",
+      "light"
+    ],
+    "example_de": "Im Sommer ist es bis 21 Uhr hell.",
+    "example_en": "In summer it is light until 9 pm.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0197",
+    "german": "herzlich",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "warm",
+    "accepted_answers": [
+      "warm",
+      "warmly",
+      "cordial"
+    ],
+    "example_de": "Herzlichen Glückwunsch!",
+    "example_en": "Congratulations!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0198",
+    "german": "hoch",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "high",
+    "accepted_answers": [
+      "high"
+    ],
+    "example_de": "Der Mount Everest ist 8.880 Meter hoch.",
+    "example_en": "Mount Everest is 8,880 metres high.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0199",
+    "german": "holen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "fetch",
+    "accepted_answers": [
+      "fetch"
+    ],
+    "example_de": "Ich hole zwei Flaschen Wasser aus der Küche.",
+    "example_en": "I’m fetching two bottles of water from the kitchen.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0200",
+    "german": "hören",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "listen",
+    "accepted_answers": [
+      "listen",
+      "hear"
+    ],
+    "example_de": "Hör mal! Was ist das?",
+    "example_en": "Listen! What is that?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0201",
+    "german": "international",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "international",
+    "accepted_answers": [
+      "international"
+    ],
+    "example_de": "Der Kurs ist international.",
+    "example_en": "The course is international.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0202",
+    "german": "jung",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "young",
+    "accepted_answers": [
+      "young"
+    ],
+    "example_de": "Meine Schwester ist jung.",
+    "example_en": "My sister is young.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0203",
+    "german": "kaputt",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "broken",
+    "accepted_answers": [
+      "broken",
+      "out of order"
+    ],
+    "example_de": "Das Glas war teuer. Es geht sehr leicht kaputt.",
+    "example_en": "The glass was expensive. It will break very easily.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0204",
+    "german": "kennen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "know",
+    "accepted_answers": [
+      "know"
+    ],
+    "example_de": "Ich kenne diese Frau.",
+    "example_en": "I know this woman.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0205",
+    "german": "kennenlernen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "get to know",
+    "accepted_answers": [
+      "get to know"
+    ],
+    "example_de": "Wir sind neu hier. Wir möchten Sie kennenlernen.",
+    "example_en": "We are new here. We would like to get to know you.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0206",
+    "german": "klar",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "clear",
+    "accepted_answers": [
+      "clear",
+      "of course"
+    ],
+    "example_de": "Das ist klar.",
+    "example_en": "That is clear.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0207",
+    "german": "klein",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "small",
+    "accepted_answers": [
+      "small"
+    ],
+    "example_de": "Eltville ist eine kleine Stadt am Rhein.",
+    "example_en": "Eltwille is a small town on the Rhine.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0208",
+    "german": "kommen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "come",
+    "accepted_answers": [
+      "come"
+    ],
+    "example_de": "Ich komme aus Wien.",
+    "example_en": "I come from Vienna.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0209",
+    "german": "kriegen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "get",
+    "accepted_answers": [
+      "get"
+    ],
+    "example_de": "Ich kriege 15 Euro in der Stunde für meine Arbeit.",
+    "example_en": "I get 15 euros an hour for my work.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0210",
+    "german": "kulturell",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "cultural",
+    "accepted_answers": [
+      "cultural"
+    ],
+    "example_de": "Die Geschichte ist kulturell wichtig.",
+    "example_en": "History is culturally important.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0211",
+    "german": "kurz",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "short",
+    "accepted_answers": [
+      "short"
+    ],
+    "example_de": "Ricardo hat kurzes Haar.",
+    "example_en": "Ricardo has short hair.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0212",
+    "german": "können",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "can",
+    "accepted_answers": [
+      "can",
+      "be able to"
+    ],
+    "example_de": "Ich kann schwimmen.",
+    "example_en": "I can swim.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0213",
+    "german": "lang",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "long",
+    "accepted_answers": [
+      "long"
+    ],
+    "example_de": "Die Jeans ist zu lang.",
+    "example_en": "The jeans are too long.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0214",
+    "german": "langsam",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "slow",
+    "accepted_answers": [
+      "slow"
+    ],
+    "example_de": "Könnten Sie bitte etwas langsamer sprechen?",
+    "example_en": "Can you please speak a little slower?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0215",
+    "german": "laufen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "walk",
+    "accepted_answers": [
+      "walk",
+      "run"
+    ],
+    "example_de": "Ich möchte nicht Auto fahren, ich möchte laufen.",
+    "example_en": "I don’t want to go by car, I want to walk.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0216",
+    "german": "laut",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "loud",
+    "accepted_answers": [
+      "loud"
+    ],
+    "example_de": "Nicht so laut! Das Baby schläft.",
+    "example_en": "Not so loud! The baby is sleeping.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0217",
+    "german": "leben",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "live",
+    "accepted_answers": [
+      "live"
+    ],
+    "example_de": "Sie lebt bei ihrer Schwester.",
+    "example_en": "She lives at her sister‘s.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0218",
+    "german": "ledig",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "single",
+    "accepted_answers": [
+      "single"
+    ],
+    "example_de": "Ich bin ledig.",
+    "example_en": "I am single.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0219",
+    "german": "legen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "put",
+    "accepted_answers": [
+      "put"
+    ],
+    "example_de": "Legen Sie das Buch auf den Tisch.",
+    "example_en": "Put the book on the table.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0220",
+    "german": "leicht",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "light",
+    "accepted_answers": [
+      "light",
+      "easy"
+    ],
+    "example_de": "Der Koffer ist leicht.",
+    "example_en": "The suitcase is light.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0221",
+    "german": "leise",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "quiet",
+    "accepted_answers": [
+      "quiet"
+    ],
+    "example_de": "Seid leise. Die anderen schlafen schon.",
+    "example_en": "Be quiet. The others are already asleep.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0222",
+    "german": "letzt",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "last",
+    "accepted_answers": [
+      "last"
+    ],
+    "example_de": "Morgen ist der letzte Kurstag.",
+    "example_en": "Tomorrow is the last day of the course.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0223",
+    "german": "lieb",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "dear",
+    "accepted_answers": [
+      "dear"
+    ],
+    "example_de": "Liebe Susanne, lieber Hans,.",
+    "example_en": "Dear Susanne, dear Hans,.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0224",
+    "german": "lieben",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "love",
+    "accepted_answers": [
+      "love"
+    ],
+    "example_de": "Ich liebe dich!",
+    "example_en": "I love you!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0225",
+    "german": "liegen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "lie",
+    "accepted_answers": [
+      "lie",
+      "be located"
+    ],
+    "example_de": "Um neun Uhr liegt Judith noch im Bett.",
+    "example_en": "At 9 am Judith is still (lying) in bed.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0226",
+    "german": "lustig",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "funny",
+    "accepted_answers": [
+      "funny"
+    ],
+    "example_de": "Frau Mertens ist lustig. Sie lacht immer.",
+    "example_en": "Ms Mertens is funny. She is always laughing.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0227",
+    "german": "machen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "do",
+    "accepted_answers": [
+      "do",
+      "make"
+    ],
+    "example_de": "Was machst du heute Abend?",
+    "example_en": "What are you doing this evening?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0228",
+    "german": "mitbringen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "bring along",
+    "accepted_answers": [
+      "bring along",
+      "bring"
+    ],
+    "example_de": "Bring bitte Wasser mit.",
+    "example_en": "Please bring some water along.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0229",
+    "german": "mitkommen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "come with",
+    "accepted_answers": [
+      "come with"
+    ],
+    "example_de": "Ich gehe ins Kino. Kommst du mit?",
+    "example_en": "I’m going to the cinema. Are you coming with me?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0230",
+    "german": "mitmachen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "join in",
+    "accepted_answers": [
+      "join in"
+    ],
+    "example_de": "Warum macht ihr nicht mit?",
+    "example_en": "Why don‘t you join in?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0231",
+    "german": "mitnehmen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "take with",
+    "accepted_answers": [
+      "take with"
+    ],
+    "example_de": "Nehmen wir meine Schwester ins Kino mit?",
+    "example_en": "Are we taking my sister with us to the cinema?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0232",
+    "german": "männlich",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "male",
+    "accepted_answers": [
+      "male"
+    ],
+    "example_de": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+    "example_en": "Please tick “female” or “male”.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0233",
+    "german": "möchten",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "would like to",
+    "accepted_answers": [
+      "would like to"
+    ],
+    "example_de": "Was möchten Sie trinken?",
+    "example_en": "What would you like to drink?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0234",
+    "german": "mögen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "like",
+    "accepted_answers": [
+      "like"
+    ],
+    "example_de": "Magst du Kaffee oder Tee?",
+    "example_en": "Do you like coffee or tea?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0235",
+    "german": "möglich",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "possible",
+    "accepted_answers": [
+      "possible"
+    ],
+    "example_de": "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.",
+    "example_en": "With this ticket, it is possible to travel after 9 am.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0236",
+    "german": "müde",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "tired",
+    "accepted_answers": [
+      "tired"
+    ],
+    "example_de": "Ich bin müde. Ich gehe schlafen.",
+    "example_en": "I’m tired. I’m going to sleep.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0237",
+    "german": "müssen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "have to",
+    "accepted_answers": [
+      "have to"
+    ],
+    "example_de": "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.",
+    "example_en": "I have to work from 8 am to 6 pm every day.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0238",
+    "german": "nehmen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "have",
+    "accepted_answers": [
+      "have",
+      "take"
+    ],
+    "example_de": "Heute gibt es Hähnchen. Das nehme ich.",
+    "example_en": "There is chicken today. I’ll have that.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0239",
+    "german": "neu",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "new",
+    "accepted_answers": [
+      "new"
+    ],
+    "example_de": "Ich bin der neue Kollege.",
+    "example_en": "I am the new colleague.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0240",
+    "german": "noch einmal",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "again",
+    "accepted_answers": [
+      "again"
+    ],
+    "example_de": "Diese Prüfung mache ich nicht noch einmal.",
+    "example_en": "I will not take this exam again.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0241",
+    "german": "normal",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "normal",
+    "accepted_answers": [
+      "normal"
+    ],
+    "example_de": "75 kg. Sein Gewicht ist normal.",
+    "example_en": "75 kg. His weight is normal.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0242",
+    "german": "nächst",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "next",
+    "accepted_answers": [
+      "next"
+    ],
+    "example_de": "Sehen wir uns nächste Woche?",
+    "example_en": "Are we seeing each other next week?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0243",
+    "german": "pünktlich",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "on time",
+    "accepted_answers": [
+      "on time",
+      "punctual"
+    ],
+    "example_de": "Der Bus fährt pünktlich um acht Uhr.",
+    "example_en": "The bus leaves at 8 am sharp.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0244",
+    "german": "Rad fahren",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "cycle",
+    "accepted_answers": [
+      "cycle"
+    ],
+    "example_de": "Das Kind kann schon Rad fahren.",
+    "example_en": "The child can already ride a bike.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0245",
+    "german": "rauchen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "smoke",
+    "accepted_answers": [
+      "smoke"
+    ],
+    "example_de": "Ich rauche nicht.",
+    "example_en": "I don’t smoke.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0246",
+    "german": "reparieren",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "repair",
+    "accepted_answers": [
+      "repair"
+    ],
+    "example_de": "Er hat das Fahrrad repariert.",
+    "example_en": "He repaired the bicycle.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0247",
+    "german": "richtig",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "correct",
+    "accepted_answers": [
+      "correct",
+      "right"
+    ],
+    "example_de": "Habe ich das richtig verstanden?",
+    "example_en": "Have I understood that correctly?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0248",
+    "german": "riechen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "smell",
+    "accepted_answers": [
+      "smell"
+    ],
+    "example_de": "Dieser Wein riecht gut.",
+    "example_en": "This wine smells good.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0249",
+    "german": "rot",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "red",
+    "accepted_answers": [
+      "red"
+    ],
+    "example_de": "Das Auto ist rot.",
+    "example_en": "The car is red.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0250",
+    "german": "ruhig",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "quiet",
+    "accepted_answers": [
+      "quiet"
+    ],
+    "example_de": "Ich möchte ein ruhiges Zimmer.",
+    "example_en": "I would like a quiet room.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0251",
+    "german": "sagen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "say",
+    "accepted_answers": [
+      "say",
+      "tell"
+    ],
+    "example_de": "Sag mal, wie geht es dir denn?",
+    "example_en": "Tell me, how’s it going?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0252",
+    "german": "scheinen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "shine",
+    "accepted_answers": [
+      "shine"
+    ],
+    "example_de": "Die Sonne scheint.",
+    "example_en": "The sun is shining.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0253",
+    "german": "schicken",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "send",
+    "accepted_answers": [
+      "send"
+    ],
+    "example_de": "Bitte schicken Sie mir eine E-Mail.",
+    "example_en": "Please send me an email.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0254",
+    "german": "schlafen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "sleep",
+    "accepted_answers": [
+      "sleep"
+    ],
+    "example_de": "Ich schlafe meistens acht Stunden.",
+    "example_en": "I usually sleep for eight hours.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0255",
+    "german": "schlecht",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "bad",
+    "accepted_answers": [
+      "bad",
+      "sick",
+      "unwell"
+    ],
+    "example_de": "Das Wetter ist heute schlecht.",
+    "example_en": "The weather is bad today.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0256",
+    "german": "schließen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "close",
+    "accepted_answers": [
+      "close"
+    ],
+    "example_de": "Bitte, schließen Sie die Tür.",
+    "example_en": "Please close the door.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0257",
+    "german": "schnell",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "quick",
+    "accepted_answers": [
+      "quick",
+      "fast"
+    ],
+    "example_de": "Er fährt schnell.",
+    "example_en": "He drives fast.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0258",
+    "german": "schwarz",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "black",
+    "accepted_answers": [
+      "black"
+    ],
+    "example_de": "Das Auto ist schwarz.",
+    "example_en": "The car is black.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0259",
+    "german": "schwer",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "heavy",
+    "accepted_answers": [
+      "heavy",
+      "difficult"
+    ],
+    "example_de": "Ist Ihr Gepäck sehr schwer?",
+    "example_en": "Is your luggage very heavy?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0260",
+    "german": "schön",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "beautiful",
+    "accepted_answers": [
+      "beautiful",
+      "lovely",
+      "nice"
+    ],
+    "example_de": "Schönen Urlaub!",
+    "example_en": "Have a lovely holiday!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0261",
+    "german": "sehen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "see",
+    "accepted_answers": [
+      "see"
+    ],
+    "example_de": "Ich kann dich nicht sehen.",
+    "example_en": "I can’t see you.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0262",
+    "german": "sein",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "be",
+    "accepted_answers": [
+      "be"
+    ],
+    "example_de": "Ich bin heute zu Hause.",
+    "example_en": "I am at home today.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0263",
+    "german": "selbstständig",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "self-employed",
+    "accepted_answers": [
+      "self-employed",
+      "independent"
+    ],
+    "example_de": "Er ist selbstständig.",
+    "example_en": "He is independent.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0264",
+    "german": "sich anmelden",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "register",
+    "accepted_answers": [
+      "register"
+    ],
+    "example_de": "Wo kann ich mich anmelden?",
+    "example_en": "Where can I register?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0265",
+    "german": "sich anziehen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "get dressed",
+    "accepted_answers": [
+      "get dressed"
+    ],
+    "example_de": "Ich muss mich noch anziehen.",
+    "example_en": "I still need to get dressed.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0266",
+    "german": "sich ausziehen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "get undressed",
+    "accepted_answers": [
+      "get undressed"
+    ],
+    "example_de": "Ich ziehe mich aus.",
+    "example_en": "I get undressed.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0267",
+    "german": "sich freuen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "look forward to",
+    "accepted_answers": [
+      "look forward to",
+      "be happy"
+    ],
+    "example_de": "Ich freue mich auf das Wochenende.",
+    "example_en": "I am looking forward to the weekend.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0268",
+    "german": "sich kümmern",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "look after",
+    "accepted_answers": [
+      "look after"
+    ],
+    "example_de": "Jede Mutter kümmert sich um ihre kleinen Kinder.",
+    "example_en": "Every mother looks after her little children.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0269",
+    "german": "sich treffen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "meet",
+    "accepted_answers": [
+      "meet"
+    ],
+    "example_de": "Ich treffe in der Stadt einen Kollegen.",
+    "example_en": "I am meeting a colleague in town.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0270",
+    "german": "sich vorstellen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "introduce oneself",
+    "accepted_answers": [
+      "introduce oneself",
+      "introduce yourself"
+    ],
+    "example_de": "Ich möchte mich vorstellen.",
+    "example_en": "I would like to introduce myself.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0271",
+    "german": "sitzen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "sit",
+    "accepted_answers": [
+      "sit"
+    ],
+    "example_de": "Wo sitzen Sie?",
+    "example_en": "Where are you sitting?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0272",
+    "german": "sollen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "should",
+    "accepted_answers": [
+      "should"
+    ],
+    "example_de": "Soll ich kommen?",
+    "example_en": "Should I come?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0273",
+    "german": "sprechen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "speak",
+    "accepted_answers": [
+      "speak"
+    ],
+    "example_de": "Kann ich (mit) Herrn Klein sprechen?",
+    "example_en": "Can I speak with Mr Klein?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0274",
+    "german": "stehen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "stand",
+    "accepted_answers": [
+      "stand",
+      "be located",
+      "be written"
+    ],
+    "example_de": "Die Flasche steht auf dem Tisch.",
+    "example_en": "The bottle is standing on the table.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0275",
+    "german": "stellen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "put",
+    "accepted_answers": [
+      "put"
+    ],
+    "example_de": "Stell die Tasche rechts in die Ecke!",
+    "example_en": "Put your bag on the right in the corner.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0276",
+    "german": "suchen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "look for",
+    "accepted_answers": [
+      "look for",
+      "search for"
+    ],
+    "example_de": "Ich suche meinen Schlüssel.",
+    "example_en": "I am looking for my key.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0277",
+    "german": "telefonieren",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "telephone",
+    "accepted_answers": [
+      "telephone"
+    ],
+    "example_de": "Darf ich mal telefonieren?",
+    "example_en": "May I make a phone call?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0278",
+    "german": "teuer",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "expensive",
+    "accepted_answers": [
+      "expensive"
+    ],
+    "example_de": "Das ist mir zu teuer.",
+    "example_en": "That is too expensive for me.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0279",
+    "german": "tot",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "dead",
+    "accepted_answers": [
+      "dead"
+    ],
+    "example_de": "Sein Vater ist schon lange tot.",
+    "example_en": "His father has been dead for a long time.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0280",
+    "german": "tun",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "do",
+    "accepted_answers": [
+      "do"
+    ],
+    "example_de": "Ich habe noch etwas zu tun.",
+    "example_en": "I still have something to do.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0281",
+    "german": "unterschreiben",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "sign",
+    "accepted_answers": [
+      "sign"
+    ],
+    "example_de": "Wo muss ich unterschreiben?",
+    "example_en": "Where do I need to sign?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0282",
+    "german": "verboten",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "forbidden",
+    "accepted_answers": [
+      "forbidden"
+    ],
+    "example_de": "Hier ist Rauchen verboten.",
+    "example_en": "Smoking is forbidden here.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0283",
+    "german": "verdienen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "earn",
+    "accepted_answers": [
+      "earn"
+    ],
+    "example_de": "Ich verdiene 1.500 Euro im Monat.",
+    "example_en": "I earn 1,500 euros per month.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0284",
+    "german": "verheiratet",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "married",
+    "accepted_answers": [
+      "married"
+    ],
+    "example_de": "Ich bin verheiratet und habe drei Kinder.",
+    "example_en": "I am married and have three children.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0285",
+    "german": "verstehen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "understand",
+    "accepted_answers": [
+      "understand"
+    ],
+    "example_de": "Können Sie mich verstehen?",
+    "example_en": "Can you understand me?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0286",
+    "german": "wandern",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "hike",
+    "accepted_answers": [
+      "hike"
+    ],
+    "example_de": "Wir wandern um den Chiemsee.",
+    "example_en": "We are hiking around the Chiem lake.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0287",
+    "german": "warten",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "wait",
+    "accepted_answers": [
+      "wait"
+    ],
+    "example_de": "Können Sie ein paar Minuten warten?",
+    "example_en": "Can you wait a few minutes?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0288",
+    "german": "weg sein",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "be gone",
+    "accepted_answers": [
+      "be gone"
+    ],
+    "example_de": "Herr Meier ist schon weg.",
+    "example_en": "Mr Meier is already gone.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0289",
+    "german": "weiblich",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "female",
+    "accepted_answers": [
+      "female"
+    ],
+    "example_de": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+    "example_en": "Please tick “female” or “male”.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0290",
+    "german": "weiß",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "white",
+    "accepted_answers": [
+      "white"
+    ],
+    "example_de": "Das Auto ist weiß.",
+    "example_en": "The car is white.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0291",
+    "german": "weit",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "far",
+    "accepted_answers": [
+      "far"
+    ],
+    "example_de": "Zum Bahnhof ist es nicht weit.",
+    "example_en": "It is not far to the station.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0292",
+    "german": "werden",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "become",
+    "accepted_answers": [
+      "become"
+    ],
+    "example_de": "Mein Sohn will Arzt werden.",
+    "example_en": "My son wants to become a doctor.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0293",
+    "german": "wichtig",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "important",
+    "accepted_answers": [
+      "important"
+    ],
+    "example_de": "Dieses Formular ist sehr wichtig.",
+    "example_en": "This form is very important.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0294",
+    "german": "wie viel",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "how much",
+    "accepted_answers": [
+      "how much"
+    ],
+    "example_de": "Wie viel Milch nehmen Sie?",
+    "example_en": "How much milk do you take?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0295",
+    "german": "wiederholen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "repeat",
+    "accepted_answers": [
+      "repeat"
+    ],
+    "example_de": "Können Sie das bitte wiederholen?",
+    "example_en": "Can you repeat that, please?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0296",
+    "german": "willkommen",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "welcome",
+    "accepted_answers": [
+      "welcome"
+    ],
+    "example_de": "Herzlich willkommen!",
+    "example_en": "Welcome!",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0297",
+    "german": "wissen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "know",
+    "accepted_answers": [
+      "know"
+    ],
+    "example_de": "Weißt du, wie er heißt?",
+    "example_en": "Do you know what he is called?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0298",
+    "german": "wollen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "want",
+    "accepted_answers": [
+      "want"
+    ],
+    "example_de": "Wollen Sie einen Kaffee trinken?",
+    "example_en": "Do you want to get a coffee?",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0299",
+    "german": "wunderbar",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "wonderful",
+    "accepted_answers": [
+      "wonderful"
+    ],
+    "example_de": "Das Essen schmeckt wunderbar.",
+    "example_en": "The food tastes wonderful.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0300",
+    "german": "zu sein",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "be closed",
+    "accepted_answers": [
+      "be closed"
+    ],
+    "example_de": "Die Tür ist zu.",
+    "example_en": "The door is closed.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0301",
+    "german": "zufrieden",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "satisfied",
+    "accepted_answers": [
+      "satisfied",
+      "content",
+      "happy with"
+    ],
+    "example_de": "Ich bin mit dem Zimmer zufrieden.",
+    "example_en": "I am satisfied with the room.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0302",
+    "german": "zum Beispiel/z. B.",
+    "word_type": "phrase",
+    "gender": null,
+    "plural": null,
+    "english": "for example",
+    "accepted_answers": [
+      "for example"
+    ],
+    "example_de": "Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier.",
+    "example_en": "Many of my relatives, for example, both of my brothers, also work here.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0303",
+    "german": "öffnen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "open",
+    "accepted_answers": [
+      "open"
+    ],
+    "example_de": "Ich öffne die Tür.",
+    "example_en": "I open the door.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0304",
+    "german": "übernachten",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "stay overnight",
+    "accepted_answers": [
+      "stay overnight"
+    ],
+    "example_de": "Du kannst bei mir übernachten.",
+    "example_en": "You can stay at mine overnight.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0305",
+    "german": "überweisen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "transfer",
+    "accepted_answers": [
+      "transfer"
+    ],
+    "example_de": "Sie können das Geld auch überweisen.",
+    "example_en": "You can also transfer the money.",
+    "topic": "common_actions_descriptions",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  }
+]

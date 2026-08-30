@@ -1,0 +1,1396 @@
+[
+  {
+    "id": "a1_0632",
+    "german": "acht",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "eight",
+    "accepted_answers": [
+      "eight"
+    ],
+    "example_de": "Die Zahl ist acht.",
+    "example_en": "The number is eight.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0633",
+    "german": "achtzehn",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "eighteen",
+    "accepted_answers": [
+      "eighteen"
+    ],
+    "example_de": "Die Zahl ist achtzehn.",
+    "example_en": "The number is eighteen.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0634",
+    "german": "achtzig",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "eighty",
+    "accepted_answers": [
+      "eighty"
+    ],
+    "example_de": "Die Zahl ist achtzig.",
+    "example_en": "The number is eighty.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0635",
+    "german": "bald",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "soon",
+    "accepted_answers": [
+      "soon"
+    ],
+    "example_de": "Ich komme bald.",
+    "example_en": "I’m coming soon.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0636",
+    "german": "das Datum",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Daten",
+    "english": "date",
+    "accepted_answers": [
+      "date"
+    ],
+    "example_de": "Bitte schreiben Sie noch das Datum auf das Formular.",
+    "example_en": "Please write the date on the form.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0637",
+    "german": "das Ende",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Enden",
+    "english": "end",
+    "accepted_answers": [
+      "end"
+    ],
+    "example_de": "Sie wohnt am Ende der Straße.",
+    "example_en": "She lives at the end of the street.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0638",
+    "german": "das Gramm",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Gramm",
+    "english": "gram",
+    "accepted_answers": [
+      "gram"
+    ],
+    "example_de": "Das ist ein Gramm.",
+    "example_en": "That is one gram.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0639",
+    "german": "das Jahr",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Jahre",
+    "english": "year",
+    "accepted_answers": [
+      "year"
+    ],
+    "example_de": "Das Jahr ist wichtig.",
+    "example_en": "The year is important.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0640",
+    "german": "das Kilogramm",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Kilogramm",
+    "english": "kilogram",
+    "accepted_answers": [
+      "kilogram"
+    ],
+    "example_de": "Das ist ein Kilogramm.",
+    "example_en": "That is one kilogram.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0641",
+    "german": "das Pfund",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Pfund",
+    "english": "pound",
+    "accepted_answers": [
+      "pound"
+    ],
+    "example_de": "Das ist ein Pfund.",
+    "example_en": "That is one pound.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0642",
+    "german": "das Prozent",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Prozent",
+    "english": "percent",
+    "accepted_answers": [
+      "percent"
+    ],
+    "example_de": "Das ist ein Prozent.",
+    "example_en": "That is one percent.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0643",
+    "german": "das Wochenende",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Wochenenden",
+    "english": "weekend",
+    "accepted_answers": [
+      "weekend"
+    ],
+    "example_de": "Das Wochenende ist wichtig.",
+    "example_en": "The weekend is important.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0644",
+    "german": "der Abend",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Abende",
+    "english": "evening",
+    "accepted_answers": [
+      "evening"
+    ],
+    "example_de": "Der Abend ist wichtig.",
+    "example_en": "The evening is important.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0645",
+    "german": "der Anfang",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Anfänge",
+    "english": "beginning",
+    "accepted_answers": [
+      "beginning"
+    ],
+    "example_de": "Sie wohnt am Anfang der Straße.",
+    "example_en": "She lives at the beginning of the street.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0646",
+    "german": "der April",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Aprile",
+    "english": "April",
+    "accepted_answers": [
+      "April"
+    ],
+    "example_de": "Wir reisen im April.",
+    "example_en": "We travel in April.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0647",
+    "german": "der August",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Auguste",
+    "english": "August",
+    "accepted_answers": [
+      "August"
+    ],
+    "example_de": "Wir reisen im August.",
+    "example_en": "We travel in August.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0648",
+    "german": "der Cent",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Cent",
+    "english": "cent",
+    "accepted_answers": [
+      "cent"
+    ],
+    "example_de": "Das ist ein Cent.",
+    "example_en": "That is one cent.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0649",
+    "german": "der Dezember",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Dezember",
+    "english": "December",
+    "accepted_answers": [
+      "December"
+    ],
+    "example_de": "Wir reisen im Dezember.",
+    "example_en": "We travel in December.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0650",
+    "german": "der Dienstag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Dienstage",
+    "english": "Tuesday",
+    "accepted_answers": [
+      "Tuesday"
+    ],
+    "example_de": "Heute ist Dienstag.",
+    "example_en": "Today is Tuesday.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0651",
+    "german": "der Donnerstag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Donnerstage",
+    "english": "Thursday",
+    "accepted_answers": [
+      "Thursday"
+    ],
+    "example_de": "Heute ist Donnerstag.",
+    "example_en": "Today is Thursday.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0652",
+    "german": "der Euro",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Euro",
+    "english": "euro",
+    "accepted_answers": [
+      "euro"
+    ],
+    "example_de": "Das ist ein Euro.",
+    "example_en": "That is one euro.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0653",
+    "german": "der Februar",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Februare",
+    "english": "February",
+    "accepted_answers": [
+      "February"
+    ],
+    "example_de": "Wir reisen im Februar.",
+    "example_en": "We travel in February.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0654",
+    "german": "der Freitag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Freitage",
+    "english": "Friday",
+    "accepted_answers": [
+      "Friday"
+    ],
+    "example_de": "Heute ist Freitag.",
+    "example_en": "Today is Friday.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0655",
+    "german": "der Grad",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Grad",
+    "english": "degree",
+    "accepted_answers": [
+      "degree"
+    ],
+    "example_de": "Das ist ein Grad.",
+    "example_en": "That is one degree.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0656",
+    "german": "der Januar",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Januare",
+    "english": "January",
+    "accepted_answers": [
+      "January"
+    ],
+    "example_de": "Wir reisen im Januar.",
+    "example_en": "We travel in January.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0657",
+    "german": "der Juli",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Julis",
+    "english": "July",
+    "accepted_answers": [
+      "July"
+    ],
+    "example_de": "Wir reisen im Juli.",
+    "example_en": "We travel in July.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0658",
+    "german": "der Juni",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Junis",
+    "english": "June",
+    "accepted_answers": [
+      "June"
+    ],
+    "example_de": "Wir reisen im Juni.",
+    "example_en": "We travel in June.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0659",
+    "german": "der Kilometer",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Kilometer",
+    "english": "kilometer",
+    "accepted_answers": [
+      "kilometer"
+    ],
+    "example_de": "Das ist ein Kilometer.",
+    "example_en": "That is one kilometer.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0660",
+    "german": "der Liter",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Liter",
+    "english": "liter",
+    "accepted_answers": [
+      "liter"
+    ],
+    "example_de": "Das ist ein Liter.",
+    "example_en": "That is one liter.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0661",
+    "german": "der Mai",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Maie",
+    "english": "May",
+    "accepted_answers": [
+      "May"
+    ],
+    "example_de": "Wir reisen im Mai.",
+    "example_en": "We travel in May.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0662",
+    "german": "der Meter",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Meter",
+    "english": "meter",
+    "accepted_answers": [
+      "meter"
+    ],
+    "example_de": "Das ist ein Meter.",
+    "example_en": "That is one meter.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0663",
+    "german": "der Mittag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Mittage",
+    "english": "noon",
+    "accepted_answers": [
+      "noon"
+    ],
+    "example_de": "Der Mittag ist wichtig.",
+    "example_en": "The noon is important.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0664",
+    "german": "der Mittwoch",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Mittwoche",
+    "english": "Wednesday",
+    "accepted_answers": [
+      "Wednesday"
+    ],
+    "example_de": "Heute ist Mittwoch.",
+    "example_en": "Today is Wednesday.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0665",
+    "german": "der Moment",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Momente",
+    "english": "moment",
+    "accepted_answers": [
+      "moment"
+    ],
+    "example_de": "Moment mal bitte!",
+    "example_en": "Just a moment, please!",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0666",
+    "german": "der Montag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Montage",
+    "english": "Monday",
+    "accepted_answers": [
+      "Monday"
+    ],
+    "example_de": "Heute ist Montag.",
+    "example_en": "Today is Monday.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0667",
+    "german": "der Morgen",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Morgen",
+    "english": "morning",
+    "accepted_answers": [
+      "morning"
+    ],
+    "example_de": "Der Morgen ist wichtig.",
+    "example_en": "The morning is important.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0668",
+    "german": "der März",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Märze",
+    "english": "March",
+    "accepted_answers": [
+      "March"
+    ],
+    "example_de": "Wir reisen im März.",
+    "example_en": "We travel in March.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0669",
+    "german": "der Nachmittag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Nachmittage",
+    "english": "afternoon",
+    "accepted_answers": [
+      "afternoon"
+    ],
+    "example_de": "Der Nachmittag ist wichtig.",
+    "example_en": "The afternoon is important.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0670",
+    "german": "der November",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die November",
+    "english": "November",
+    "accepted_answers": [
+      "November"
+    ],
+    "example_de": "Wir reisen im November.",
+    "example_en": "We travel in November.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0671",
+    "german": "der Oktober",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Oktober",
+    "english": "October",
+    "accepted_answers": [
+      "October"
+    ],
+    "example_de": "Wir reisen im Oktober.",
+    "example_en": "We travel in October.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0672",
+    "german": "der Quadratmeter",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Quadratmeter",
+    "english": "square meter",
+    "accepted_answers": [
+      "square meter"
+    ],
+    "example_de": "Das ist ein Quadratmeter.",
+    "example_en": "That is one square meter.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0673",
+    "german": "der Samstag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Samstage",
+    "english": "Saturday",
+    "accepted_answers": [
+      "Saturday"
+    ],
+    "example_de": "Heute ist Samstag.",
+    "example_en": "Today is Saturday.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0674",
+    "german": "der September",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die September",
+    "english": "September",
+    "accepted_answers": [
+      "September"
+    ],
+    "example_de": "Wir reisen im September.",
+    "example_en": "We travel in September.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0675",
+    "german": "der Sonntag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Sonntage",
+    "english": "Sunday",
+    "accepted_answers": [
+      "Sunday"
+    ],
+    "example_de": "Heute ist Sonntag.",
+    "example_en": "Today is Sunday.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0676",
+    "german": "der Tag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Tage",
+    "english": "day",
+    "accepted_answers": [
+      "day"
+    ],
+    "example_de": "Der Tag ist wichtig.",
+    "example_en": "The day is important.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0677",
+    "german": "der Vormittag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Vormittage",
+    "english": "late morning",
+    "accepted_answers": [
+      "late morning"
+    ],
+    "example_de": "Der Vormittag ist wichtig.",
+    "example_en": "The late morning is important.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0678",
+    "german": "der Wochentag",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Wochentage",
+    "english": "weekday",
+    "accepted_answers": [
+      "weekday"
+    ],
+    "example_de": "Der Wochentag ist wichtig.",
+    "example_en": "The weekday is important.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0679",
+    "german": "der Zentimeter",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Zentimeter",
+    "english": "centimeter",
+    "accepted_answers": [
+      "centimeter"
+    ],
+    "example_de": "Das ist ein Zentimeter.",
+    "example_en": "That is one centimeter.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0680",
+    "german": "die Minute",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Minuten",
+    "english": "minute",
+    "accepted_answers": [
+      "minute"
+    ],
+    "example_de": "Die Minute ist wichtig.",
+    "example_en": "The minute is important.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0681",
+    "german": "die Nacht",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Nächte",
+    "english": "night",
+    "accepted_answers": [
+      "night"
+    ],
+    "example_de": "Die Nacht ist wichtig.",
+    "example_en": "The night is important.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0682",
+    "german": "die Sekunde",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Sekunden",
+    "english": "second",
+    "accepted_answers": [
+      "second"
+    ],
+    "example_de": "Die Sekunde ist wichtig.",
+    "example_en": "The second is important.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0683",
+    "german": "die Stunde",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Stunden",
+    "english": "hour",
+    "accepted_answers": [
+      "hour"
+    ],
+    "example_de": "Ich bin in einer Stunde zurück.",
+    "example_en": "I will be back in an hour.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0684",
+    "german": "die Uhr",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Uhren",
+    "english": "clock",
+    "accepted_answers": [
+      "clock",
+      "watch",
+      "o'clock"
+    ],
+    "example_de": "Die Uhr ist neu.",
+    "example_en": "The clock is new.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0685",
+    "german": "die Woche",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Wochen",
+    "english": "week",
+    "accepted_answers": [
+      "week"
+    ],
+    "example_de": "Die Woche ist wichtig.",
+    "example_en": "The week is important.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0686",
+    "german": "die Zeit",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Zeiten",
+    "english": "time",
+    "accepted_answers": [
+      "time"
+    ],
+    "example_de": "Ich habe heute keine Zeit.",
+    "example_en": "I have no time today.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0687",
+    "german": "drei",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "three",
+    "accepted_answers": [
+      "three"
+    ],
+    "example_de": "Die Zahl ist drei.",
+    "example_en": "The number is three.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0688",
+    "german": "dreißig",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "thirty",
+    "accepted_answers": [
+      "thirty"
+    ],
+    "example_de": "Die Zahl ist dreißig.",
+    "example_en": "The number is thirty.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0689",
+    "german": "dreizehn",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "thirteen",
+    "accepted_answers": [
+      "thirteen"
+    ],
+    "example_de": "Die Zahl ist dreizehn.",
+    "example_en": "The number is thirteen.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0690",
+    "german": "eins",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "one",
+    "accepted_answers": [
+      "one"
+    ],
+    "example_de": "Die Zahl ist eins.",
+    "example_en": "The number is one.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0691",
+    "german": "elf",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "eleven",
+    "accepted_answers": [
+      "eleven"
+    ],
+    "example_de": "Die Zahl ist elf.",
+    "example_en": "The number is eleven.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0692",
+    "german": "fünf",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "five",
+    "accepted_answers": [
+      "five"
+    ],
+    "example_de": "Die Zahl ist fünf.",
+    "example_en": "The number is five.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0693",
+    "german": "fünfzehn",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "fifteen",
+    "accepted_answers": [
+      "fifteen"
+    ],
+    "example_de": "Die Zahl ist fünfzehn.",
+    "example_en": "The number is fifteen.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0694",
+    "german": "fünfzig",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "fifty",
+    "accepted_answers": [
+      "fifty"
+    ],
+    "example_de": "Die Zahl ist fünfzig.",
+    "example_en": "The number is fifty.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0695",
+    "german": "gestern",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "yesterday",
+    "accepted_answers": [
+      "yesterday"
+    ],
+    "example_de": "Gestern war ich krank.",
+    "example_en": "Yesterday I was ill.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0696",
+    "german": "heute",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "today",
+    "accepted_answers": [
+      "today"
+    ],
+    "example_de": "Heute ist ein schöner Tag.",
+    "example_en": "Today is a beautiful day.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0697",
+    "german": "hundert",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "hundred",
+    "accepted_answers": [
+      "hundred"
+    ],
+    "example_de": "Die Zahl ist hundert.",
+    "example_en": "The number is hundred.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0698",
+    "german": "jetzt",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "now",
+    "accepted_answers": [
+      "now"
+    ],
+    "example_de": "Jetzt machen wir eine Pause.",
+    "example_en": "Now we will take a break.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0699",
+    "german": "morgen",
+    "word_type": "adverb",
+    "gender": null,
+    "plural": null,
+    "english": "tomorrow",
+    "accepted_answers": [
+      "tomorrow"
+    ],
+    "example_de": "Morgen beginnt die Schule um 10 Uhr.",
+    "example_en": "Tomorrow school begins at 10 am.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0700",
+    "german": "neun",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "nine",
+    "accepted_answers": [
+      "nine"
+    ],
+    "example_de": "Die Zahl ist neun.",
+    "example_en": "The number is nine.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0701",
+    "german": "neunzehn",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "nineteen",
+    "accepted_answers": [
+      "nineteen"
+    ],
+    "example_de": "Die Zahl ist neunzehn.",
+    "example_en": "The number is nineteen.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0702",
+    "german": "neunzig",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "ninety",
+    "accepted_answers": [
+      "ninety"
+    ],
+    "example_de": "Die Zahl ist neunzig.",
+    "example_en": "The number is ninety.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0703",
+    "german": "null",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "zero",
+    "accepted_answers": [
+      "zero"
+    ],
+    "example_de": "Die Zahl ist null.",
+    "example_en": "The number is zero.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0704",
+    "german": "sechs",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "six",
+    "accepted_answers": [
+      "six"
+    ],
+    "example_de": "Die Zahl ist sechs.",
+    "example_en": "The number is six.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0705",
+    "german": "sechzehn",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "sixteen",
+    "accepted_answers": [
+      "sixteen"
+    ],
+    "example_de": "Die Zahl ist sechzehn.",
+    "example_en": "The number is sixteen.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0706",
+    "german": "sechzig",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "sixty",
+    "accepted_answers": [
+      "sixty"
+    ],
+    "example_de": "Die Zahl ist sechzig.",
+    "example_en": "The number is sixty.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0707",
+    "german": "sieben",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "seven",
+    "accepted_answers": [
+      "seven"
+    ],
+    "example_de": "Die Zahl ist sieben.",
+    "example_en": "The number is seven.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0708",
+    "german": "siebzehn",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "seventeen",
+    "accepted_answers": [
+      "seventeen"
+    ],
+    "example_de": "Die Zahl ist siebzehn.",
+    "example_en": "The number is seventeen.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0709",
+    "german": "siebzig",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "seventy",
+    "accepted_answers": [
+      "seventy"
+    ],
+    "example_de": "Die Zahl ist siebzig.",
+    "example_en": "The number is seventy.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0710",
+    "german": "spät",
+    "word_type": "adjective",
+    "gender": null,
+    "plural": null,
+    "english": "late",
+    "accepted_answers": [
+      "late"
+    ],
+    "example_de": "Es ist schon spät, ich muss gehen.",
+    "example_en": "It is already late, I need to go.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0711",
+    "german": "tausend",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "thousand",
+    "accepted_answers": [
+      "thousand"
+    ],
+    "example_de": "Die Zahl ist tausend.",
+    "example_en": "The number is thousand.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0712",
+    "german": "vier",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "four",
+    "accepted_answers": [
+      "four"
+    ],
+    "example_de": "Die Zahl ist vier.",
+    "example_en": "The number is four.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0713",
+    "german": "vierzehn",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "fourteen",
+    "accepted_answers": [
+      "fourteen"
+    ],
+    "example_de": "Die Zahl ist vierzehn.",
+    "example_en": "The number is fourteen.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0714",
+    "german": "vierzig",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "forty",
+    "accepted_answers": [
+      "forty"
+    ],
+    "example_de": "Die Zahl ist vierzig.",
+    "example_en": "The number is forty.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0715",
+    "german": "zehn",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "ten",
+    "accepted_answers": [
+      "ten"
+    ],
+    "example_de": "Die Zahl ist zehn.",
+    "example_en": "The number is ten.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0716",
+    "german": "zwanzig",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "twenty",
+    "accepted_answers": [
+      "twenty"
+    ],
+    "example_de": "Die Zahl ist zwanzig.",
+    "example_en": "The number is twenty.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0717",
+    "german": "zwei",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "two",
+    "accepted_answers": [
+      "two"
+    ],
+    "example_de": "Die Zahl ist zwei.",
+    "example_en": "The number is two.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0718",
+    "german": "zwölf",
+    "word_type": "number",
+    "gender": null,
+    "plural": null,
+    "english": "twelve",
+    "accepted_answers": [
+      "twelve"
+    ],
+    "example_de": "Die Zahl ist zwölf.",
+    "example_en": "The number is twelve.",
+    "topic": "time_numbers",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  }
+]

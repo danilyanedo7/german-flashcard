@@ -1,0 +1,583 @@
+[
+  {
+    "id": "a1_0596",
+    "german": "bezahlen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "pay",
+    "accepted_answers": [
+      "pay"
+    ],
+    "example_de": "Wo muss ich bezahlen?",
+    "example_en": "Where do I need to pay?",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0597",
+    "german": "das Angebot",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Angebote",
+    "english": "offer",
+    "accepted_answers": [
+      "offer"
+    ],
+    "example_de": "Heute sind Sportschuhe im Angebot.",
+    "example_en": "Today, sports shoes are on sale.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0598",
+    "german": "das Fax",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Faxe",
+    "english": "fax",
+    "accepted_answers": [
+      "fax"
+    ],
+    "example_de": "Schicken Sie uns einfach ein Fax!",
+    "example_en": "Just send us a fax!",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0599",
+    "german": "das Geld",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "money",
+    "accepted_answers": [
+      "money"
+    ],
+    "example_de": "Hast du noch Geld?",
+    "example_en": "Do you still have money?",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0600",
+    "german": "das Geschäft",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Geschäfte",
+    "english": "shop",
+    "accepted_answers": [
+      "shop"
+    ],
+    "example_de": "Die Geschäfte schließen um 18.30 Uhr.",
+    "example_en": "The shops close at 6:30 pm.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0601",
+    "german": "das Papier",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Papiere",
+    "english": "paper",
+    "accepted_answers": [
+      "paper"
+    ],
+    "example_de": "Hier sind Papier und Bleistift.",
+    "example_en": "Here is a pencil and paper.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0602",
+    "german": "das Telefon",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Telefone",
+    "english": "telephone",
+    "accepted_answers": [
+      "telephone"
+    ],
+    "example_de": "Haben Sie ein Telefon?",
+    "example_en": "Do you have a telephone?",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0603",
+    "german": "der Absender",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Absender",
+    "english": "sender",
+    "accepted_answers": [
+      "sender"
+    ],
+    "example_de": "Da ist ein Brief für dich ohne Absender.",
+    "example_en": "There is a letter for you without a sender.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0604",
+    "german": "der Brief",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Briefe",
+    "english": "letter",
+    "accepted_answers": [
+      "letter"
+    ],
+    "example_de": "Haben Sie einen Brief für mich?",
+    "example_en": "Do you have a letter for me?",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0605",
+    "german": "der Empfänger",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Empfänger",
+    "english": "recipient",
+    "accepted_answers": [
+      "recipient"
+    ],
+    "example_de": "Auf dem Brief steht dein Name, also bist du der Empfänger.",
+    "example_en": "Your name is on the letter, therefore you are the recipient.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0606",
+    "german": "der Kiosk",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Kioske",
+    "english": "kiosk",
+    "accepted_answers": [
+      "kiosk"
+    ],
+    "example_de": "Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen.",
+    "example_en": "At the kiosk you can get drinks, cigarettes, and newspapers.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0607",
+    "german": "der Kunde",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Kunden",
+    "english": "customer",
+    "accepted_answers": [
+      "customer"
+    ],
+    "example_de": "Einen Moment, bitte. Ich habe eine Kundin.",
+    "example_en": "One moment, please. I have a customer.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0608",
+    "german": "der Laden",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Läden",
+    "english": "shop",
+    "accepted_answers": [
+      "shop"
+    ],
+    "example_de": "Im Buchladen können Sie Bücher kaufen.",
+    "example_en": "In the bookshop you can buy books.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0609",
+    "german": "der Preis",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Preise",
+    "english": "price",
+    "accepted_answers": [
+      "price"
+    ],
+    "example_de": "Die Preise sind hoch.",
+    "example_en": "The prices are high.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0610",
+    "german": "der Prospekt",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Prospekte",
+    "english": "brochure",
+    "accepted_answers": [
+      "brochure"
+    ],
+    "example_de": "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.",
+    "example_en": "Please send me a brochure for your hotel.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0611",
+    "german": "der Verkäufer",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Verkäufer",
+    "english": "salesperson",
+    "accepted_answers": [
+      "salesperson"
+    ],
+    "example_de": "Meine Mutter ist Verkäuferin im Kaufhaus.",
+    "example_en": "My mother is a saleswoman in a department store.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0612",
+    "german": "die Adresse",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Adressen",
+    "english": "address",
+    "accepted_answers": [
+      "address"
+    ],
+    "example_de": "Können Sie mir seine Adresse sagen?",
+    "example_en": "Could you tell me his address?",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0613",
+    "german": "die Anzeige",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Anzeigen",
+    "english": "advertisement",
+    "accepted_answers": [
+      "advertisement"
+    ],
+    "example_de": "Ich habe Ihre Anzeige in der Zeitung gelesen.",
+    "example_en": "I read your advert in the newspaper.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0614",
+    "german": "die Bank",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Banken / die Bänke",
+    "english": "bank",
+    "accepted_answers": [
+      "bank",
+      "bench"
+    ],
+    "example_de": "Die Bank schließt schon um vier Uhr.",
+    "example_en": "The bank closes at 4 pm already.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0615",
+    "german": "die Briefmarke",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Briefmarken",
+    "english": "stamp",
+    "accepted_answers": [
+      "stamp"
+    ],
+    "example_de": "Kaufst du bitte Briefmarken bei der Post.",
+    "example_en": "Could you please buy stamps at the post office.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0616",
+    "german": "die E-Mail",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die E-Mails",
+    "english": "email",
+    "accepted_answers": [
+      "email"
+    ],
+    "example_de": "Ich habe Ihre E-Mail nicht bekommen.",
+    "example_en": "I didn’t receive your email.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0617",
+    "german": "die Karte",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Karten",
+    "english": "card",
+    "accepted_answers": [
+      "card",
+      "menu"
+    ],
+    "example_de": "Ich schreibe meinen Bekannten eine Karte aus dem Urlaub.",
+    "example_en": "I’ll write my acquaintances a card from holiday.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0618",
+    "german": "die Kasse",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Kassen",
+    "english": "till",
+    "accepted_answers": [
+      "till"
+    ],
+    "example_de": "Zahlen Sie bitte an der Kasse.",
+    "example_en": "Please pay at the till.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0619",
+    "german": "die Nummer",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Nummern",
+    "english": "number",
+    "accepted_answers": [
+      "number"
+    ],
+    "example_de": "Welche Hausnummer haben Sie?",
+    "example_en": "Which house number is yours?",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0620",
+    "german": "die Polizei",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "police",
+    "accepted_answers": [
+      "police"
+    ],
+    "example_de": "Holen Sie die Polizei!",
+    "example_en": "Fetch the police!",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0621",
+    "german": "die Post",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "post office",
+    "accepted_answers": [
+      "post office",
+      "mail"
+    ],
+    "example_de": "Wo ist die Post, bitte?",
+    "example_en": "Where is the post office, please?",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0622",
+    "german": "die Postleitzahl",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Postleitzahlen",
+    "english": "postal code",
+    "accepted_answers": [
+      "postal code",
+      "postcode",
+      "ZIP code"
+    ],
+    "example_de": "Wie ist Ihre Postleitzahl?",
+    "example_en": "What is your postcode?",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0623",
+    "german": "die Rechnung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Rechnungen",
+    "english": "bill",
+    "accepted_answers": [
+      "bill"
+    ],
+    "example_de": "Die Rechnung, bitte.",
+    "example_en": "The bill, please.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0624",
+    "german": "die Reparatur",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Reparaturen",
+    "english": "repair",
+    "accepted_answers": [
+      "repair"
+    ],
+    "example_de": "Die Reparatur ist sehr teuer.",
+    "example_en": "The repair is very expensive.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0625",
+    "german": "die Unterschrift",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Unterschriften",
+    "english": "signature",
+    "accepted_answers": [
+      "signature"
+    ],
+    "example_de": "Hier fehlt noch Ihre Unterschrift.",
+    "example_en": "Your signature is missing here.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0626",
+    "german": "die Vorwahl",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Vorwahlen",
+    "english": "area code",
+    "accepted_answers": [
+      "area code"
+    ],
+    "example_de": "Wie ist die Vorwahl von München?",
+    "example_en": "What is the area code for Munich?",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0627",
+    "german": "einkaufen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "go shopping",
+    "accepted_answers": [
+      "go shopping"
+    ],
+    "example_de": "Ich muss noch für morgen einkaufen.",
+    "example_en": "I still need to go shopping for tomorrow.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0628",
+    "german": "kaufen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "buy",
+    "accepted_answers": [
+      "buy"
+    ],
+    "example_de": "Tim kauft sich ein neues Auto.",
+    "example_en": "Tim buys himself a new car.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0629",
+    "german": "kosten",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "cost",
+    "accepted_answers": [
+      "cost"
+    ],
+    "example_de": "Das kostet zehn Euro.",
+    "example_en": "That costs ten euros.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0630",
+    "german": "verkaufen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "sell",
+    "accepted_answers": [
+      "sell"
+    ],
+    "example_de": "Er verkauft sein altes Auto.",
+    "example_en": "He is selling his old car.",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0631",
+    "german": "zahlen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "pay",
+    "accepted_answers": [
+      "pay"
+    ],
+    "example_de": "Wir möchten zahlen, bitte!",
+    "example_en": "We’d like to pay, please!",
+    "topic": "shopping_services",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  }
+]

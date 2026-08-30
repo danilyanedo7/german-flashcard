@@ -1,0 +1,687 @@
+[
+  {
+    "id": "a1_0719",
+    "german": "abfahren",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "leave",
+    "accepted_answers": [
+      "leave"
+    ],
+    "example_de": "Wir fahren um zwölf Uhr ab.",
+    "example_en": "We leave at twelve o'clock.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0720",
+    "german": "aussteigen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "get off",
+    "accepted_answers": [
+      "get off",
+      "exit"
+    ],
+    "example_de": "Wir steigen hier aus.",
+    "example_en": "We are getting off here.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0721",
+    "german": "das Ausland",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "abroad",
+    "accepted_answers": [
+      "abroad",
+      "overseas"
+    ],
+    "example_de": "Fahren Sie ins Ausland?",
+    "example_en": "Do you travel abroad?",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0722",
+    "german": "das Auto",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Autos",
+    "english": "car",
+    "accepted_answers": [
+      "car"
+    ],
+    "example_de": "Er kommt mit dem Auto.",
+    "example_en": "He’s coming by car.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0723",
+    "german": "das Fahrrad",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Fahrräder",
+    "english": "bicycle",
+    "accepted_answers": [
+      "bicycle"
+    ],
+    "example_de": "Fährst du mit dem Fahrrad oder mit dem Auto?",
+    "example_en": "Do you travel by bike or by car?",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0724",
+    "german": "das Flugzeug",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Flugzeuge",
+    "english": "airplane",
+    "accepted_answers": [
+      "airplane",
+      "aeroplane",
+      "aircraft"
+    ],
+    "example_de": "Das Flugzeug aus Berlin kommt heute später an.",
+    "example_en": "The plane from Berlin will arrive later today.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0725",
+    "german": "das Gepäck",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": null,
+    "english": "luggage",
+    "accepted_answers": [
+      "luggage"
+    ],
+    "example_de": "Wollen Sie Ihr Gepäck mitnehmen?",
+    "example_en": "Do you want to take your luggage with you?",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0726",
+    "german": "das Gleis",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Gleise",
+    "english": "track",
+    "accepted_answers": [
+      "track",
+      "platform"
+    ],
+    "example_de": "Der ICE nach Berlin hält heute an Gleis 12.",
+    "example_en": "The ICE to Berlin is stopping on platform 12 today.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0727",
+    "german": "das Reisebüro",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Reisebüros",
+    "english": "travel agency",
+    "accepted_answers": [
+      "travel agency"
+    ],
+    "example_de": "Mein Mann arbeitet im Reisebüro.",
+    "example_en": "My husband works at a travel agency.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0728",
+    "german": "das Taxi",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Taxis",
+    "english": "taxi",
+    "accepted_answers": [
+      "taxi"
+    ],
+    "example_de": "Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.",
+    "example_en": "There are no more buses today. He is travelling by taxi.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0729",
+    "german": "das Ticket",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Tickets",
+    "english": "ticket",
+    "accepted_answers": [
+      "ticket"
+    ],
+    "example_de": "Wie viel kostet das Ticket?",
+    "example_en": "How much does the ticket cost?",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0730",
+    "german": "der Abflug",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Abflüge",
+    "english": "departure",
+    "accepted_answers": [
+      "departure"
+    ],
+    "example_de": "Der Abflug ist um 11.20 Uhr.",
+    "example_en": "Departure is at 11:20 am.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0731",
+    "german": "der Anschluss",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Anschlüsse",
+    "english": "connection",
+    "accepted_answers": [
+      "connection"
+    ],
+    "example_de": "In Mannheim haben Sie Anschluss nach Saarbrücken.",
+    "example_en": "In Mannheim you have a connection to Saarbrücken.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0732",
+    "german": "der Ausflug",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Ausflüge",
+    "english": "excursion",
+    "accepted_answers": [
+      "excursion"
+    ],
+    "example_de": "Morgen machen wir einen Ausflug nach Heidelberg.",
+    "example_en": "Tomorrow we are going on an excursion to Heidelberg.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0733",
+    "german": "der Automat",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Automaten",
+    "english": "machine",
+    "accepted_answers": [
+      "machine"
+    ],
+    "example_de": "Die Fahrkarten gibt es nur am Automaten.",
+    "example_en": "Tickets are only available from the machine.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0734",
+    "german": "der Bahnhof",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Bahnhöfe",
+    "english": "train station",
+    "accepted_answers": [
+      "train station"
+    ],
+    "example_de": "Komme ich hier zum Bahnhof?",
+    "example_en": "Is this the way to the train station?",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0735",
+    "german": "der Bahnsteig",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Bahnsteige",
+    "english": "platform",
+    "accepted_answers": [
+      "platform"
+    ],
+    "example_de": "Auf welchem Bahnsteig fährt der Zug?",
+    "example_en": "From which platform does the train depart?",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0736",
+    "german": "der Bus",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Busse",
+    "english": "bus",
+    "accepted_answers": [
+      "bus"
+    ],
+    "example_de": "Wann kommt der nächste Bus?",
+    "example_en": "When does the next bus arrive?",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0737",
+    "german": "der Fahrer",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Fahrer",
+    "english": "driver",
+    "accepted_answers": [
+      "driver"
+    ],
+    "example_de": "Bitte nicht mit dem Fahrer sprechen!",
+    "example_en": "Please do not speak to the driver!",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0738",
+    "german": "der Flughafen",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Flughäfen",
+    "english": "airport",
+    "accepted_answers": [
+      "airport"
+    ],
+    "example_de": "Kannst du mich zum Flughafen bringen?",
+    "example_en": "Can you take me to the airport?",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0739",
+    "german": "der Koffer",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Koffer",
+    "english": "suitcase",
+    "accepted_answers": [
+      "suitcase"
+    ],
+    "example_de": "Ist das Ihr Koffer?",
+    "example_en": "Is that your suitcase?",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0740",
+    "german": "der Lkw",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Lkws",
+    "english": "truck",
+    "accepted_answers": [
+      "truck",
+      "lorry",
+      "HGV"
+    ],
+    "example_de": "Dieser Lastkraftwagen ist sehr groß.",
+    "example_en": "That heavy goods vehicle is very large.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0741",
+    "german": "der Pass",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Pässe",
+    "english": "passport",
+    "accepted_answers": [
+      "passport"
+    ],
+    "example_de": "Im Hotel brauchst du deinen Pass.",
+    "example_en": "In the hotel you need your passport.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0742",
+    "german": "der Reiseführer",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Reiseführer",
+    "english": "travel guide",
+    "accepted_answers": [
+      "travel guide",
+      "tour guide"
+    ],
+    "example_de": "Ich kaufe mir einen Reiseführer von Berlin.",
+    "example_en": "I will buy myself a travel guide for Berlin.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0743",
+    "german": "der Urlaub",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Urlaube",
+    "english": "vacation",
+    "accepted_answers": [
+      "vacation"
+    ],
+    "example_de": "Ich nehme im September Urlaub.",
+    "example_en": "I’m taking holiday in September.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0744",
+    "german": "der Zoll",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "customs",
+    "accepted_answers": [
+      "customs"
+    ],
+    "example_de": "Wir müssen noch durch den Zoll.",
+    "example_en": "We still need to go through customs.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0745",
+    "german": "der Zug",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Züge",
+    "english": "train",
+    "accepted_answers": [
+      "train"
+    ],
+    "example_de": "Ich fahre gern mit dem Zug.",
+    "example_en": "I like to travel by train.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0746",
+    "german": "Deutschland",
+    "word_type": "proper noun",
+    "gender": null,
+    "plural": null,
+    "english": "Germany",
+    "accepted_answers": [
+      "Germany"
+    ],
+    "example_de": "Ich wohne in Deutschland.",
+    "example_en": "I live in Germany.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0747",
+    "german": "die Abfahrt",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Abfahrten",
+    "english": "departure",
+    "accepted_answers": [
+      "departure"
+    ],
+    "example_de": "Vor der Abfahrt rufe ich an.",
+    "example_en": "Before departure, I'll call.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0748",
+    "german": "die Ankunft",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Ankünfte",
+    "english": "arrival",
+    "accepted_answers": [
+      "arrival"
+    ],
+    "example_de": "Auf diesem Plan steht nur die Ankunft(-szeit) der Züge.",
+    "example_en": "This plan only shows the arrival time of the trains.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0749",
+    "german": "die Autobahn",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Autobahnen",
+    "english": "motorway",
+    "accepted_answers": [
+      "motorway"
+    ],
+    "example_de": "Wo geht‘s hier bitte zur Autobahn?",
+    "example_en": "How do I get to the motorway?",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0750",
+    "german": "die Bahn",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Bahnen",
+    "english": "train",
+    "accepted_answers": [
+      "train"
+    ],
+    "example_de": "Wir fahren lieber mit der Bahn.",
+    "example_en": "We prefer to travel by train.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0751",
+    "german": "die Fahrkarte",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Fahrkarten",
+    "english": "ticket",
+    "accepted_answers": [
+      "ticket"
+    ],
+    "example_de": "Hast du schon eine Fahrkarte?",
+    "example_en": "Do you already have a ticket?",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0752",
+    "german": "die Haltestelle",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Haltestellen",
+    "english": "stop",
+    "accepted_answers": [
+      "stop",
+      "bus stop",
+      "tram stop"
+    ],
+    "example_de": "An der nächsten Haltestelle müssen Sie aussteigen.",
+    "example_en": "At the next stop you must alight.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0753",
+    "german": "die Reise",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Reisen",
+    "english": "journey",
+    "accepted_answers": [
+      "journey",
+      "trip"
+    ],
+    "example_de": "Wir machen eine Reise nach Österreich.",
+    "example_en": "We are going on a trip to Austria.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0754",
+    "german": "die S-Bahn",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die S-Bahnen",
+    "english": "commuter train",
+    "accepted_answers": [
+      "commuter train"
+    ],
+    "example_de": "Ich nehme lieber die S-Bahn.",
+    "example_en": "I prefer to take the commuter train.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0755",
+    "german": "die Straßenbahn",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Straßenbahnen",
+    "english": "tram",
+    "accepted_answers": [
+      "tram"
+    ],
+    "example_de": "Wo fährt die Straßenbahn ab?",
+    "example_en": "From where does the tram depart?",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0756",
+    "german": "einsteigen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "get on",
+    "accepted_answers": [
+      "get on"
+    ],
+    "example_de": "Schnell, steig ein, der Zug fährt gleich.",
+    "example_en": "Quick, get on, the train is about to leave!",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0757",
+    "german": "Europa",
+    "word_type": "proper noun",
+    "gender": null,
+    "plural": null,
+    "english": "Europe",
+    "accepted_answers": [
+      "Europe"
+    ],
+    "example_de": "Ich wohne in Europa.",
+    "example_en": "I live in Europe.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0758",
+    "german": "fahren",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "travel",
+    "accepted_answers": [
+      "travel",
+      "drive",
+      "go"
+    ],
+    "example_de": "Wir fahren mit dem Bus.",
+    "example_en": "We are traveling by bus.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0759",
+    "german": "fliegen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "fly",
+    "accepted_answers": [
+      "fly"
+    ],
+    "example_de": "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.",
+    "example_en": "I don’t like to fly. That's why I travel by train.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0760",
+    "german": "reisen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "travel",
+    "accepted_answers": [
+      "travel"
+    ],
+    "example_de": "Ich reise gern.",
+    "example_en": "I like to travel.",
+    "topic": "travel_transport",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  }
+]

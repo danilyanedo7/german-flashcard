@@ -1,0 +1,339 @@
+[
+  {
+    "id": "a1_0518",
+    "german": "das Bild",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Bilder",
+    "english": "picture",
+    "accepted_answers": [
+      "picture"
+    ],
+    "example_de": "Hast du ein Bild von deinem Sohn?",
+    "example_en": "Do you have a picture of your son?",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0519",
+    "german": "das Foto",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Fotos",
+    "english": "photograph",
+    "accepted_answers": [
+      "photograph"
+    ],
+    "example_de": "Darf ich ein Foto machen?",
+    "example_en": "May I take a photo?",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0520",
+    "german": "das Hobby",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Hobbys",
+    "english": "hobby",
+    "accepted_answers": [
+      "hobby"
+    ],
+    "example_de": "Meine Hobbys sind Wandern und Schwimmen.",
+    "example_en": "My hobbies are hiking and swimming.",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0521",
+    "german": "das Kino",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Kinos",
+    "english": "cinema",
+    "accepted_answers": [
+      "cinema"
+    ],
+    "example_de": "Wir sehen heute Abend im Kino einen schönen Film.",
+    "example_en": "We’re watching a lovely film this evening.",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0522",
+    "german": "das Lied",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Lieder",
+    "english": "song",
+    "accepted_answers": [
+      "song"
+    ],
+    "example_de": "Welches ist dein Lieblingslied?",
+    "example_en": "Which is your favourite song?",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0523",
+    "german": "das Schwimmbad",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Schwimmbäder",
+    "english": "swimming pool",
+    "accepted_answers": [
+      "swimming pool"
+    ],
+    "example_de": "Kommst du mit ins Schwimmbad?",
+    "example_en": "Are you coming to the swimming pool with us?",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0524",
+    "german": "der Film",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Filme",
+    "english": "movie",
+    "accepted_answers": [
+      "movie"
+    ],
+    "example_de": "Ich möchte gern diesen Film sehen.",
+    "example_en": "I would like to see this film.",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0525",
+    "german": "der Fußball",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Fußbälle",
+    "english": "football",
+    "accepted_answers": [
+      "football"
+    ],
+    "example_de": "Spielt ihr gerne Fußball?",
+    "example_en": "Do you like playing football?",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0526",
+    "german": "der Sport",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "english": "sport",
+    "accepted_answers": [
+      "sport"
+    ],
+    "example_de": "Ich mache viel Sport.",
+    "example_en": "I do a lot of sport.",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0527",
+    "german": "der Verein",
+    "word_type": "noun",
+    "gender": "masculine",
+    "plural": "die Vereine",
+    "english": "club",
+    "accepted_answers": [
+      "club"
+    ],
+    "example_de": "Es gibt einen neuen Sportverein in der Stadt.",
+    "example_en": "There is a new sports club in the town.",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0528",
+    "german": "die CD",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die CDs",
+    "english": "CD",
+    "accepted_answers": [
+      "CD"
+    ],
+    "example_de": "Bring bitte deine Lieblings-CD mit.",
+    "example_en": "Please bring your favourite CD with you.",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0529",
+    "german": "die Disco",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Discos",
+    "english": "disco",
+    "accepted_answers": [
+      "disco"
+    ],
+    "example_de": "Heute abend gehen wir in die Disco tanzen.",
+    "example_en": "This evening we’re going dancing in the disco.",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0530",
+    "german": "die Freizeit",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "english": "free time",
+    "accepted_answers": [
+      "free time"
+    ],
+    "example_de": "In meiner Freizeit spiele ich oft Fußball.",
+    "example_en": "I often play football in my free time.",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0531",
+    "german": "die Party",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Partys",
+    "english": "party",
+    "accepted_answers": [
+      "party"
+    ],
+    "example_de": "Heute Abend machen wir eine Party.",
+    "example_en": "This evening we are having a party.",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0532",
+    "german": "die Sehenswürdigkeit",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Sehenswürdigkeiten",
+    "english": "attraction",
+    "accepted_answers": [
+      "attraction",
+      "sight"
+    ],
+    "example_de": "Welche Sehenswürdigkeiten gibt es in Frankfurt?",
+    "example_en": "Which sights are there to see in Frankfurt?",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0533",
+    "german": "feiern",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "celebrate",
+    "accepted_answers": [
+      "celebrate"
+    ],
+    "example_de": "Wir feiern heute meinen Geburtstag.",
+    "example_en": "Today we are celebrating my birthday.",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0534",
+    "german": "fernsehen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "watch TV",
+    "accepted_answers": [
+      "watch TV"
+    ],
+    "example_de": "Wollen wir heute Abend mal fernsehen?",
+    "example_en": "Shall we watch TV this evening?",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0535",
+    "german": "lachen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "laugh",
+    "accepted_answers": [
+      "laugh"
+    ],
+    "example_de": "Die Kinder lachen viel.",
+    "example_en": "The children laugh a lot.",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0536",
+    "german": "schwimmen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "swim",
+    "accepted_answers": [
+      "swim"
+    ],
+    "example_de": "Ich schwimme jeden Tag einen Kilometer.",
+    "example_en": "I swim a kilometre every day.",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0537",
+    "german": "spielen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "play",
+    "accepted_answers": [
+      "play"
+    ],
+    "example_de": "Die Kinder spielen draußen.",
+    "example_en": "The children are playing outside.",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  },
+  {
+    "id": "a1_0538",
+    "german": "tanzen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "dance",
+    "accepted_answers": [
+      "dance"
+    ],
+    "example_de": "Tanzen Sie gern?",
+    "example_en": "Do you like to dance?",
+    "topic": "leisure",
+    "source": "Goethe A1",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+  }
+]
