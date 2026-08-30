@@ -13,7 +13,9 @@
     "example_en": "We rented an apartment.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0493",
@@ -29,7 +31,9 @@
     "example_en": "We don’t have a large bathroom.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0494",
@@ -45,7 +49,9 @@
     "example_en": "We need another children’s bed.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0495",
@@ -63,7 +69,9 @@
     "example_en": "Which house do you live in?",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0496",
@@ -79,7 +87,9 @@
     "example_en": "Where do you switch on the light here?",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0497",
@@ -95,7 +105,9 @@
     "example_en": "The sofa is new.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0498",
@@ -111,7 +123,9 @@
     "example_en": "The room is large.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0499",
@@ -127,7 +141,9 @@
     "example_en": "The flat also has a small balcony.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0500",
@@ -143,7 +159,11 @@
     "example_en": "The entrance is round the corner.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "der Ausgang",
+    "accepted_antonyms": [
+      "der Ausgang"
+    ]
   },
   {
     "id": "a1_0501",
@@ -159,7 +179,9 @@
     "example_en": "Unfortunately we don't have a garden.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0502",
@@ -175,7 +197,9 @@
     "example_en": "The stove is still missing from the new kitchen.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0503",
@@ -191,7 +215,9 @@
     "example_en": "The milk is in the fridge.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0504",
@@ -207,7 +233,9 @@
     "example_en": "The class is in room 332.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0505",
@@ -223,7 +251,9 @@
     "example_en": "I’ll give you the room key as well.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0506",
@@ -241,7 +271,9 @@
     "example_en": "The glasses are in the cupboard.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0507",
@@ -257,7 +289,9 @@
     "example_en": "Our landlord is called Huber. He lives here, too.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0508",
@@ -273,7 +307,9 @@
     "example_en": "Our flat only has a shower.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0509",
@@ -289,7 +325,9 @@
     "example_en": "The new stove goes in the kitchen.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0510",
@@ -305,7 +343,9 @@
     "example_en": "The rent for this flat is 600 euros.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0511",
@@ -321,7 +361,9 @@
     "example_en": "Is the furniture new?",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0512",
@@ -338,7 +380,9 @@
     "example_en": "The toilet? Up the stairs and then left.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0513",
@@ -354,7 +398,9 @@
     "example_en": "How long have you had this flat?",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0514",
@@ -370,7 +416,9 @@
     "example_en": "I would like to rent a car.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0515",
@@ -386,7 +434,9 @@
     "example_en": "Next month we are moving.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0516",
@@ -402,7 +452,9 @@
     "example_en": "The flat is already rented out.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0517",
@@ -418,6 +470,8 @@
     "example_en": "I live in Munich.",
     "topic": "home",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   }
 ]

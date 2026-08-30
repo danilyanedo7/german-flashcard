@@ -1,6 +1,7 @@
 import {
   createCryptoRandom,
   createSession,
+  filterAntonymEntries,
   loadLearningHistory,
   mostFrequentlyMissed,
   recordShown,
@@ -9,6 +10,7 @@ import {
   selectNextEntry,
   sessionAccuracy,
   submitAnswer,
+  submitRetry,
   validateDataset,
 } from "./game-logic.js";
 
@@ -24,12 +26,14 @@ const ui = {
   selectedLevel: document.querySelector("#selected-level"),
   selectedLevelCount: document.querySelector("#selected-level-count"),
   gameLevel: document.querySelector("#game-level"),
+  gamePrompt: document.querySelector("#game-prompt"),
   questionProgress: document.querySelector("#question-progress"),
   correctCount: document.querySelector("#correct-count"),
   streakCount: document.querySelector("#streak-count"),
   uniqueCount: document.querySelector("#unique-count"),
   word: document.querySelector("#german-word"),
   answerForm: document.querySelector("#answer-form"),
+  answerLabel: document.querySelector("#answer-label"),
   answerInput: document.querySelector("#answer-input"),
   actionButton: document.querySelector("#answer-action"),
   feedback: document.querySelector("#feedback"),
@@ -148,42 +152,63 @@ function updateHistoryNote() {
     : "Learning history is saved on this device.";
 }
 
+function updateSelectedLevelCount() {
+  const mode = document.querySelector('input[name="practice-mode"]:checked')?.value || "translate";
+  if (mode === "antonym") {
+    const antonymCards = filterAntonymEntries(state.entries);
+    ui.selectedLevelCount.textContent = `${antonymCards.length} antonym cards ready`;
+  } else {
+    ui.selectedLevelCount.textContent = `${state.entries.length} cards ready`;
+  }
+}
+
 function openSessionSelection(levelKey) {
   if (levelKey !== "A1" || !state.entries.length) return;
   state.levelKey = levelKey;
   ui.selectedLevel.textContent = levelKey;
-  ui.selectedLevelCount.textContent = `${state.entries.length} cards ready`;
+  updateSelectedLevelCount();
   showView(ui.session);
   document.querySelector("#session-size-20").focus();
 }
 
 function selectedSession() {
-  const value = document.querySelector('input[name="session-size"]:checked')?.value || "20";
-  if (value === "endless") return { mode: "endless", totalQuestions: null };
-  return { mode: "finite", totalQuestions: Number(value) };
+  const sizeValue = document.querySelector('input[name="session-size"]:checked')?.value || "20";
+  const questionType = document.querySelector('input[name="practice-mode"]:checked')?.value || "translate";
+  if (sizeValue === "endless") return { mode: "endless", totalQuestions: null, questionType };
+  return { mode: "finite", totalQuestions: Number(sizeValue), questionType };
 }
 
-function startSession(entries = state.entries, { mode = "finite", totalQuestions = 20, review = false } = {}) {
+function startSession(
+  entries = state.entries,
+  { mode = "finite", totalQuestions = 20, questionType = "translate", review = false } = {}
+) {
   if (!state.random) {
     showDataError("Secure randomization is unavailable in this browser. Please use a current browser.");
     showView(ui.home);
     return;
   }
-  if (!entries.length) {
-    showDataError("There are no valid words available for this session.");
+  const sessionEntries = questionType === "antonym" ? filterAntonymEntries(entries) : entries;
+  if (!sessionEntries.length) {
+    showDataError(
+      questionType === "antonym"
+        ? "There are no antonym words available for this level."
+        : "There are no valid words available for this session."
+    );
     showView(ui.home);
     return;
   }
-  state.session = createSession(entries, {
+  state.session = createSession(sessionEntries, {
     mode: review ? "review" : mode,
-    totalQuestions: review ? Math.max(20, entries.length) : totalQuestions,
+    totalQuestions: review ? Math.max(20, sessionEntries.length) : totalQuestions,
     level: state.levelKey,
     history: state.history,
+    questionType,
   });
   state.lastSessionBlueprint = {
-    entries,
+    entries: sessionEntries,
     mode: state.session.mode,
     totalQuestions: state.session.totalQuestions,
+    questionType: state.session.questionType,
   };
   showView(ui.game);
   nextCard();
@@ -192,7 +217,7 @@ function startSession(entries = state.entries, { mode = "finite", totalQuestions
 function nextCard() {
   const session = state.session;
   if (!session) return;
-  if (session.totalQuestions !== null && session.answered >= session.totalQuestions && session.currentChecked) {
+  if (session.totalQuestions !== null && session.answered >= session.totalQuestions && session.currentChecked && !session.retryPending) {
     showSummary();
     return;
   }
@@ -208,14 +233,24 @@ function nextCard() {
 }
 
 function renderCurrentCard(entry) {
+  const isAntonym = state.session?.questionType === "antonym";
   ui.gameLevel.textContent = state.levelKey;
   ui.word.textContent = entry.german;
   ui.answerInput.value = "";
   ui.answerInput.disabled = false;
+  ui.answerInput.placeholder = isAntonym ? "e.g. opposite word in German" : "";
   ui.actionButton.textContent = "Check";
+  if (ui.gamePrompt) {
+    ui.gamePrompt.textContent = isAntonym ? "Find the German antonym (opposite)" : "Translate this word";
+  }
+  if (ui.answerLabel) {
+    ui.answerLabel.textContent = isAntonym ? "German antonym" : "English translation";
+  }
   ui.feedback.className = "feedback feedback--empty";
   ui.feedbackHeading.textContent = "Your answer";
-  ui.feedbackAnswer.textContent = "Type the English translation, then press Enter or Check.";
+  ui.feedbackAnswer.textContent = isAntonym
+    ? "Type the opposite German word, then press Enter or Check."
+    : "Type the English translation, then press Enter or Check.";
   ui.answerDetails.hidden = true;
   ui.endSession.hidden = state.session.mode !== "endless";
   syncStats();
@@ -243,28 +278,75 @@ function revealDetails(entry) {
 
 function showFeedback(result) {
   const entry = result.entry;
-  ui.feedback.className = `feedback feedback--${result.isCorrect ? "correct" : "incorrect"}`;
-  ui.feedbackHeading.textContent = result.isCorrect ? "Correct" : "Not quite";
-  ui.feedbackAnswer.textContent = result.isCorrect
-    ? `${entry.german} = ${entry.english}`
-    : `Correct answer: ${entry.english}`;
-  revealDetails(entry);
+  const isAntonym = result.questionType === "antonym";
+
+  if (isAntonym) {
+    if (result.isCorrect) {
+      ui.feedback.className = "feedback feedback--correct";
+      ui.feedbackHeading.textContent = "Correct!";
+      ui.feedbackAnswer.textContent = `${entry.german} (${entry.english}) ↔ ${entry.antonym}`;
+      revealDetails(entry);
+    } else {
+      ui.feedback.className = "feedback feedback--incorrect";
+      ui.feedbackHeading.textContent = "Not quite";
+      ui.feedbackAnswer.textContent = `Opposite: ${entry.antonym} · Word: “${entry.german}” (${entry.english}). Type the antonym below to continue:`;
+    }
+  } else {
+    ui.feedback.className = `feedback feedback--${result.isCorrect ? "correct" : "incorrect"}`;
+    ui.feedbackHeading.textContent = result.isCorrect ? "Correct" : "Not quite";
+    ui.feedbackAnswer.textContent = result.isCorrect
+      ? `${entry.german} = ${entry.english}`
+      : `Correct answer: ${entry.english}`;
+    revealDetails(entry);
+  }
 }
 
 function showEmptyAnswer() {
   ui.feedback.className = "feedback feedback--notice";
   ui.feedbackHeading.textContent = "Please enter an answer";
-  ui.feedbackAnswer.textContent = "Type a translation before checking.";
+  ui.feedbackAnswer.textContent = state.session?.questionType === "antonym"
+    ? "Type the German antonym before checking."
+    : "Type a translation before checking.";
 }
 
 function handleAnswerSubmit(event) {
   event.preventDefault();
   const session = state.session;
   if (!session) return;
-  if (session.currentChecked) {
+
+  // Advance to next card if already checked and not waiting for retry
+  if (session.currentChecked && !session.retryPending) {
     nextCard();
     return;
   }
+
+  // Handle retry after incorrect answer
+  if (session.retryPending) {
+    const retryResult = submitRetry(session, ui.answerInput.value);
+    if (retryResult.status === "empty") {
+      showEmptyAnswer();
+      ui.answerInput.focus();
+      return;
+    }
+    if (retryResult.isCorrect) {
+      ui.feedback.className = "feedback feedback--correct";
+      ui.feedbackHeading.textContent = "Great! You got it right.";
+      ui.feedbackAnswer.textContent = `${session.currentEntry.german} (${session.currentEntry.english}) ↔ ${session.currentEntry.antonym}`;
+      revealDetails(session.currentEntry);
+      ui.answerInput.disabled = true;
+      ui.actionButton.textContent = "Next";
+      ui.actionButton.focus();
+    } else {
+      ui.feedback.className = "feedback feedback--incorrect";
+      ui.feedbackHeading.textContent = "Try again";
+      ui.feedbackAnswer.textContent = `Type the correct antonym: ${session.currentEntry.antonym}`;
+      ui.answerInput.value = "";
+      ui.answerInput.focus();
+    }
+    return;
+  }
+
+  // Initial submission
   const result = submitAnswer(session, ui.answerInput.value);
   if (result.status === "empty") {
     showEmptyAnswer();
@@ -273,12 +355,27 @@ function handleAnswerSubmit(event) {
   }
   if (result.status !== "correct" && result.status !== "incorrect") return;
   saveLearningHistory(state.history);
-  ui.answerInput.disabled = true;
-  ui.actionButton.textContent = "Next";
-  showFeedback(result);
+
+  if (result.isCorrect) {
+    ui.answerInput.disabled = true;
+    ui.actionButton.textContent = "Next";
+    showFeedback(result);
+    ui.actionButton.focus();
+  } else {
+    showFeedback(result);
+    if (session.questionType === "antonym") {
+      ui.answerInput.value = "";
+      ui.answerInput.disabled = false;
+      ui.answerInput.placeholder = `Type “${session.currentEntry.antonym}”`;
+      ui.actionButton.textContent = "Verify";
+      ui.answerInput.focus();
+    } else {
+      ui.answerInput.disabled = true;
+      ui.actionButton.textContent = "Next";
+      ui.actionButton.focus();
+    }
+  }
   syncStats();
-  // Keep keyboard users on the logical next action after disabling the field.
-  ui.actionButton.focus();
 }
 
 function showSummary() {
@@ -302,7 +399,10 @@ function showSummary() {
     const word = document.createElement("strong");
     word.textContent = entry.german;
     const count = document.createElement("span");
-    count.textContent = `${entry.english} · ${misses} miss${misses === 1 ? "" : "es"}`;
+    const label = session.questionType === "antonym" && entry.antonym
+      ? `↔ ${entry.antonym} · ${misses} miss${misses === 1 ? "" : "es"}`
+      : `${entry.english} · ${misses} miss${misses === 1 ? "" : "es"}`;
+    count.textContent = label;
     item.append(word, count);
     ui.missedList.append(item);
   });
@@ -313,7 +413,10 @@ function startReviewMistakes() {
   const session = state.lastCompletedSession;
   if (!session || !session.mistakes.size) return;
   const mistakeEntries = session.entries.filter((entry) => session.mistakes.has(entry.id));
-  startSession(mistakeEntries, { review: true });
+  startSession(mistakeEntries, {
+    review: true,
+    questionType: session.questionType || "translate",
+  });
 }
 
 function resetHistoryFromInterface() {
@@ -339,6 +442,13 @@ function bindEvents() {
   document.querySelector("#play-again").addEventListener("click", () => {
     const blueprint = state.lastSessionBlueprint;
     if (blueprint) startSession(blueprint.entries, blueprint);
+  });
+  document.querySelectorAll('input[name="practice-mode"]').forEach((input) => {
+    input.addEventListener("change", () => {
+      document.querySelectorAll(".mode-option").forEach((option) => option.classList.remove("mode-option--selected"));
+      input.closest(".mode-option")?.classList.add("mode-option--selected");
+      updateSelectedLevelCount();
+    });
   });
   document.querySelectorAll('input[name="session-size"]').forEach((input) => {
     input.addEventListener("change", () => {

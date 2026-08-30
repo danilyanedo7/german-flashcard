@@ -13,7 +13,9 @@
     "example_en": "When do you depart?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0002",
@@ -29,7 +31,9 @@
     "example_en": "I have to hand in my keys.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0003",
@@ -45,7 +49,9 @@
     "example_en": "When can I pick up the cabinet from you?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0004",
@@ -61,7 +67,13 @@
     "example_en": "How old are you?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "jung",
+    "accepted_antonyms": [
+      "jung",
+      "neu",
+      "modern"
+    ]
   },
   {
     "id": "a1_0005",
@@ -78,7 +90,9 @@
     "example_en": "The light was on tonight.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0006",
@@ -94,7 +108,9 @@
     "example_en": "What can I offer you?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0007",
@@ -110,7 +126,11 @@
     "example_en": "Here, Bahnhofstraße starts.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "aufhören",
+    "accepted_antonyms": [
+      "aufhören"
+    ]
   },
   {
     "id": "a1_0008",
@@ -126,7 +146,9 @@
     "example_en": "You need to click on this word.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0009",
@@ -142,7 +164,9 @@
     "example_en": "When does this train arrive in Hamburg?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0010",
@@ -158,7 +182,9 @@
     "example_en": "On the form, you need to check several places.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0011",
@@ -174,7 +200,11 @@
     "example_en": "Please turn on the light.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "ausmachen",
+    "accepted_antonyms": [
+      "ausmachen"
+    ]
   },
   {
     "id": "a1_0012",
@@ -190,7 +220,9 @@
     "example_en": "Can one call you?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0013",
@@ -206,7 +238,11 @@
     "example_en": "He isn’t answering.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "fragen",
+    "accepted_antonyms": [
+      "fragen"
+    ]
   },
   {
     "id": "a1_0014",
@@ -222,7 +258,9 @@
     "example_en": "We have a lot of people who have been unemployed for a long time.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0015",
@@ -239,7 +277,9 @@
     "example_en": "You don’t need the key. The flat is open.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0016",
@@ -256,7 +296,12 @@
     "example_en": "The course ends at six.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "anfangen",
+    "accepted_antonyms": [
+      "anfangen",
+      "beginnen"
+    ]
   },
   {
     "id": "a1_0017",
@@ -272,7 +317,9 @@
     "example_en": "I always need to get up at 4 am.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0018",
@@ -289,7 +336,9 @@
     "example_en": "The light is off.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0019",
@@ -305,7 +354,9 @@
     "example_en": "Please fill out this form.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0020",
@@ -321,7 +372,9 @@
     "example_en": "Unfortunately I only have foreign money.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0021",
@@ -337,7 +390,11 @@
     "example_en": "Please switch off the light!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "anmachen",
+    "accepted_antonyms": [
+      "anmachen"
+    ]
   },
   {
     "id": "a1_0022",
@@ -353,7 +410,9 @@
     "example_en": "That looks beautiful.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0023",
@@ -369,7 +428,9 @@
     "example_en": "Please take off your shoes!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0024",
@@ -385,7 +446,9 @@
     "example_en": "You don’t need to do anything. It's automatic.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0025",
@@ -402,7 +465,9 @@
     "example_en": "Do I have to pay in cash, or can I also pay by card?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0026",
@@ -418,7 +483,9 @@
     "example_en": "What does that word mean?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0027",
@@ -434,7 +501,11 @@
     "example_en": "The game begins at 3:30 pm.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "aufhören",
+    "accepted_antonyms": [
+      "aufhören"
+    ]
   },
   {
     "id": "a1_0028",
@@ -451,7 +522,9 @@
     "example_en": "It is raining here today.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0029",
@@ -467,7 +540,9 @@
     "example_en": "Picasso is very well known.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0030",
@@ -485,7 +560,9 @@
     "example_en": "Did you receive my letter?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0031",
@@ -501,7 +578,9 @@
     "example_en": "Please don’t use the lifts!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0032",
@@ -518,7 +597,11 @@
     "example_en": "The number is always busy.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "frei",
+    "accepted_antonyms": [
+      "frei"
+    ]
   },
   {
     "id": "a1_0033",
@@ -534,7 +617,9 @@
     "example_en": "I would like to visit the cathedral.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0034",
@@ -550,7 +635,9 @@
     "example_en": "I'm already feeling better.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0035",
@@ -566,7 +653,9 @@
     "example_en": "We would like to order, please.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0036",
@@ -582,7 +671,9 @@
     "example_en": "May I visit you?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0037",
@@ -598,7 +689,11 @@
     "example_en": "The jacket only costs 10 euros! That’s cheap!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "teuer",
+    "accepted_antonyms": [
+      "teuer"
+    ]
   },
   {
     "id": "a1_0038",
@@ -614,7 +709,9 @@
     "example_en": "May I ask something of you?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0039",
@@ -630,7 +727,9 @@
     "example_en": "The coffee tastes bitter.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0040",
@@ -646,7 +745,9 @@
     "example_en": "The car is blue.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0041",
@@ -662,7 +763,9 @@
     "example_en": "I'm staying home today.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0042",
@@ -678,7 +781,9 @@
     "example_en": "Do you still need the newspaper?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0043",
@@ -694,7 +799,9 @@
     "example_en": "The car is brown.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0044",
@@ -710,7 +817,11 @@
     "example_en": "How wide is the cupboard?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "eng",
+    "accepted_antonyms": [
+      "eng"
+    ]
   },
   {
     "id": "a1_0045",
@@ -727,7 +838,9 @@
     "example_en": "Please bring me another coffee!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0046",
@@ -743,7 +856,9 @@
     "example_en": "Please spell your name.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0047",
@@ -759,7 +874,11 @@
     "example_en": "She is angry with me.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "freundlich",
+    "accepted_antonyms": [
+      "freundlich"
+    ]
   },
   {
     "id": "a1_0048",
@@ -775,7 +894,9 @@
     "example_en": "I thank you for the invitation.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0049",
@@ -791,7 +912,9 @@
     "example_en": "Can you give me an example?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0050",
@@ -807,7 +930,9 @@
     "example_en": "Would you like a double room or a single room?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0051",
@@ -823,7 +948,9 @@
     "example_en": "My family lives in a village.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0052",
@@ -839,7 +966,9 @@
     "example_en": "Do you have another single room?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0053",
@@ -855,7 +984,9 @@
     "example_en": "You will receive the test results in two weeks.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0054",
@@ -872,7 +1003,9 @@
     "example_en": "The fire is warm.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0055",
@@ -888,7 +1021,9 @@
     "example_en": "Your son's year of birth, please?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0056",
@@ -904,7 +1039,9 @@
     "example_en": "Thank you for the beautiful present.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0057",
@@ -922,7 +1059,9 @@
     "example_en": "The conversation with Ms Kunz is at 2 pm.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0058",
@@ -938,7 +1077,9 @@
     "example_en": "For “weight”, write 62 kg.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0059",
@@ -954,7 +1095,9 @@
     "example_en": "Good luck!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0060",
@@ -970,7 +1113,9 @@
     "example_en": "She has long hair.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0061",
@@ -987,7 +1132,9 @@
     "example_en": "Please turn off your mobile phones in school!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0062",
@@ -1003,7 +1150,9 @@
     "example_en": "On holiday we are in a hotel by the sea.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0063",
@@ -1019,7 +1168,9 @@
     "example_en": "You will find that on the internet.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0064",
@@ -1035,7 +1186,9 @@
     "example_en": "We will transfer the money to your account on the first of March.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0065",
@@ -1051,7 +1204,9 @@
     "example_en": "Life in this country is expensive.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0066",
@@ -1069,7 +1224,9 @@
     "example_en": "There is a new pub on our street.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0067",
@@ -1085,7 +1242,11 @@
     "example_en": "The girl is playing outside.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "der Junge",
+    "accepted_antonyms": [
+      "der Junge"
+    ]
   },
   {
     "id": "a1_0068",
@@ -1101,7 +1262,11 @@
     "example_en": "My problem is the language.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "die Lösung",
+    "accepted_antonyms": [
+      "die Lösung"
+    ]
   },
   {
     "id": "a1_0069",
@@ -1117,7 +1282,9 @@
     "example_en": "Did you not see the sign?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0070",
@@ -1133,7 +1300,9 @@
     "example_en": "Today we are talking about the topic “Food and Drink”.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0071",
@@ -1149,7 +1318,9 @@
     "example_en": "I don’t know that word.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0072",
@@ -1165,7 +1336,9 @@
     "example_en": "We make the salad without oil.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0073",
@@ -1182,7 +1355,9 @@
     "example_en": "How long is the film?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0074",
@@ -1198,7 +1373,9 @@
     "example_en": "She receives many calls on her cell phone.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0075",
@@ -1214,7 +1391,9 @@
     "example_en": "We are not available at the moment. Please leave a message on the answering machine.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0076",
@@ -1231,7 +1410,9 @@
     "example_en": "There is no lift in this building.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0077",
@@ -1247,7 +1428,11 @@
     "example_en": "Where is the exit?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "der Eingang",
+    "accepted_antonyms": [
+      "der Eingang"
+    ]
   },
   {
     "id": "a1_0078",
@@ -1263,7 +1448,9 @@
     "example_en": "Are you a foreigner?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0079",
@@ -1279,7 +1466,9 @@
     "example_en": "Here is my identity card.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0080",
@@ -1295,7 +1484,9 @@
     "example_en": "An acquaintance of mine is called Klaus.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0081",
@@ -1311,7 +1502,9 @@
     "example_en": "From this hotel you have a good view of the Rhine.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0082",
@@ -1327,7 +1520,9 @@
     "example_en": "Many thanks!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0083",
@@ -1343,7 +1538,9 @@
     "example_en": "My daughter is sick. We are going to the doctor.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0084",
@@ -1360,7 +1557,9 @@
     "example_en": "The price for entry is 5 euros.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0085",
@@ -1377,7 +1576,9 @@
     "example_en": "I go home after work.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0086",
@@ -1394,7 +1595,9 @@
     "example_en": "Monday is a bank holiday.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0087",
@@ -1410,7 +1613,9 @@
     "example_en": "I like to eat fish. I don’t like meat.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0088",
@@ -1426,7 +1631,9 @@
     "example_en": "At the weekend we have several guests.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0089",
@@ -1442,7 +1649,9 @@
     "example_en": "Please write your birthplace on the form.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0090",
@@ -1458,7 +1667,9 @@
     "example_en": "Best wishes on your birthday!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0091",
@@ -1474,7 +1685,9 @@
     "example_en": "Give my regards to your wife.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0092",
@@ -1490,7 +1703,9 @@
     "example_en": "The househusband washes, cooks, and goes shopping.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0093",
@@ -1506,7 +1721,9 @@
     "example_en": "The dog is still young.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0094",
@@ -1523,7 +1740,9 @@
     "example_en": "That place is by the sea.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0095",
@@ -1540,7 +1759,9 @@
     "example_en": "I will buy myself a map of the town.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0096",
@@ -1558,7 +1779,9 @@
     "example_en": "I’m sorry, this seat is taken.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0097",
@@ -1574,7 +1797,9 @@
     "example_en": "This sentence is very simple.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0098",
@@ -1590,7 +1815,9 @@
     "example_en": "Please go to counter 3!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0099",
@@ -1607,7 +1834,9 @@
     "example_en": "It is over now.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0100",
@@ -1623,7 +1852,9 @@
     "example_en": "Take your shoes off!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0101",
@@ -1639,7 +1870,9 @@
     "example_en": "Come, we’re going to Starnberg lake.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0102",
@@ -1655,7 +1888,9 @@
     "example_en": "Our flat is on the first floor.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0103",
@@ -1671,7 +1906,9 @@
     "example_en": "Please also read the second part.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0104",
@@ -1687,7 +1924,9 @@
     "example_en": "It's best to make an appointment immediately.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0105",
@@ -1703,7 +1942,9 @@
     "example_en": "The photos are on the table.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0106",
@@ -1719,7 +1960,9 @@
     "example_en": "The car is German.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0107",
@@ -1735,7 +1978,9 @@
     "example_en": "Registration for this course is no longer possible.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0108",
@@ -1751,7 +1996,9 @@
     "example_en": "Also, write a salutation and a closing.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0109",
@@ -1767,7 +2014,9 @@
     "example_en": "Listen to the announcements.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0110",
@@ -1783,7 +2032,11 @@
     "example_en": "Unfortunately he isn't giving an answer.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "die Frage",
+    "accepted_antonyms": [
+      "die Frage"
+    ]
   },
   {
     "id": "a1_0111",
@@ -1800,7 +2053,9 @@
     "example_en": "Can you give me some information?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0112",
@@ -1816,7 +2071,9 @@
     "example_en": "Is the statement true or false?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0113",
@@ -1832,7 +2089,9 @@
     "example_en": "I have one more request.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0114",
@@ -1848,7 +2107,9 @@
     "example_en": "I’m just popping to the bakery.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0115",
@@ -1864,7 +2125,9 @@
     "example_en": "Ladies (toilet sign).",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0116",
@@ -1880,7 +2143,9 @@
     "example_en": "I didn’t understand the announcement.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0117",
@@ -1896,7 +2161,9 @@
     "example_en": "Left at the next corner.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0118",
@@ -1912,7 +2179,9 @@
     "example_en": "Thank you for the invitation!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0119",
@@ -1929,7 +2198,9 @@
     "example_en": "Excuse me, where is the post office?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0120",
@@ -1945,7 +2216,9 @@
     "example_en": "I like the colour.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0121",
@@ -1961,7 +2234,9 @@
     "example_en": "A bottle of beer, please.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0122",
@@ -1977,7 +2252,11 @@
     "example_en": "I have a question.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "die Antwort",
+    "accepted_antonyms": [
+      "die Antwort"
+    ]
   },
   {
     "id": "a1_0123",
@@ -1993,7 +2272,9 @@
     "example_en": "The tour of the house begins in 3 minutes.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0124",
@@ -2009,7 +2290,9 @@
     "example_en": "The first group begins at 4 pm.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0125",
@@ -2025,7 +2308,9 @@
     "example_en": "Do you also have that in size 40?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0126",
@@ -2041,7 +2326,9 @@
     "example_en": "Would you like full or half-board?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0127",
@@ -2057,7 +2344,9 @@
     "example_en": "We will meet in hall B.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0128",
@@ -2073,7 +2362,9 @@
     "example_en": "The housewife washes, cooks, and goes shopping.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0129",
@@ -2089,7 +2380,9 @@
     "example_en": "I come from Switzerland. It’s my home.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0130",
@@ -2105,7 +2398,9 @@
     "example_en": "This information is important.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0131",
@@ -2121,7 +2416,9 @@
     "example_en": "Put your jacket on. It’s cold.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0132",
@@ -2137,7 +2434,9 @@
     "example_en": "The clothes are new.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0133",
@@ -2154,7 +2453,9 @@
     "example_en": "Can I also pay by card?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0134",
@@ -2170,7 +2471,9 @@
     "example_en": "There are a lot of people at the disco.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0135",
@@ -2186,7 +2489,9 @@
     "example_en": "The washing machine is cheap.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0136",
@@ -2202,7 +2507,9 @@
     "example_en": "The teacher stands in the middle of the classroom.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0137",
@@ -2219,7 +2526,9 @@
     "example_en": "That is okay.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0138",
@@ -2235,7 +2544,9 @@
     "example_en": "Do you have your papers with you?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0139",
@@ -2251,7 +2562,9 @@
     "example_en": "She is my partner.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0140",
@@ -2267,7 +2580,9 @@
     "example_en": "From 12 until 12:30 pm we have a lunch break.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0141",
@@ -2285,7 +2600,9 @@
     "example_en": "The children are eating chicken and chips.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0142",
@@ -2301,7 +2618,9 @@
     "example_en": "Please ask at the hotel reception.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0143",
@@ -2317,7 +2636,9 @@
     "example_en": "Which languages do you speak?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0144",
@@ -2334,7 +2655,9 @@
     "example_en": "Heidelberg is an old town.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0145",
@@ -2351,7 +2674,9 @@
     "example_en": "I have a new job.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0146",
@@ -2367,7 +2692,9 @@
     "example_en": "Which street do you live on?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0147",
@@ -2383,7 +2710,9 @@
     "example_en": "I have the key in the bag.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0148",
@@ -2400,7 +2729,9 @@
     "example_en": "Careful! There’s a car coming.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0149",
@@ -2416,7 +2747,9 @@
     "example_en": "I like to read the newspaper.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0150",
@@ -2432,7 +2765,9 @@
     "example_en": "How expensive are the cigarettes?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0151",
@@ -2448,7 +2783,9 @@
     "example_en": "Please print the form for me.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0152",
@@ -2464,7 +2801,9 @@
     "example_en": "Press here, then the computer turns on.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0153",
@@ -2480,7 +2819,9 @@
     "example_en": "You are not allowed to smoke here.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0154",
@@ -2496,7 +2837,9 @@
     "example_en": "Are you in a hurry?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0155",
@@ -2513,7 +2856,11 @@
     "example_en": "The test is very simple.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "schwer",
+    "accepted_antonyms": [
+      "schwer"
+    ]
   },
   {
     "id": "a1_0156",
@@ -2530,7 +2877,9 @@
     "example_en": "May I treat you to a coffee?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0157",
@@ -2546,7 +2895,9 @@
     "example_en": "Which wine can you recommend to me?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0158",
@@ -2562,7 +2913,9 @@
     "example_en": "The street ends here.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0159",
@@ -2578,7 +2931,9 @@
     "example_en": "Excuse me, please!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0160",
@@ -2594,7 +2949,9 @@
     "example_en": "Can you explain that to me?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0161",
@@ -2610,7 +2967,9 @@
     "example_en": "Smoking is not allowed here.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0162",
@@ -2626,7 +2985,9 @@
     "example_en": "We need to tell you something!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0163",
@@ -2643,7 +3004,9 @@
     "example_en": "There are no more tickets.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0164",
@@ -2659,7 +3022,9 @@
     "example_en": "The car is European.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0165",
@@ -2676,7 +3041,11 @@
     "example_en": "That is wrong.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "richtig",
+    "accepted_antonyms": [
+      "richtig"
+    ]
   },
   {
     "id": "a1_0166",
@@ -2693,7 +3062,9 @@
     "example_en": "Mr Müller is not here, he’s been absent for three days.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0167",
@@ -2711,7 +3082,9 @@
     "example_en": "Are you done?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0168",
@@ -2727,7 +3100,11 @@
     "example_en": "We must find the key.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "suchen",
+    "accepted_antonyms": [
+      "suchen"
+    ]
   },
   {
     "id": "a1_0169",
@@ -2743,7 +3120,11 @@
     "example_en": "He wants to ask you something. When are you coming?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "antworten",
+    "accepted_antonyms": [
+      "antworten"
+    ]
   },
   {
     "id": "a1_0170",
@@ -2759,7 +3140,11 @@
     "example_en": "Is this seat still free?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "besetzt",
+    "accepted_antonyms": [
+      "besetzt"
+    ]
   },
   {
     "id": "a1_0171",
@@ -2777,7 +3162,9 @@
     "example_en": "The city is unfamiliar to me.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0172",
@@ -2793,7 +3180,11 @@
     "example_en": "Can you give me your pen, please?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "nehmen",
+    "accepted_antonyms": [
+      "nehmen"
+    ]
   },
   {
     "id": "a1_0173",
@@ -2809,7 +3200,9 @@
     "example_en": "I was born in Zagreb.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0174",
@@ -2825,7 +3218,9 @@
     "example_en": "I like that.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0175",
@@ -2844,7 +3239,11 @@
     "example_en": "We are going home now.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "kommen",
+    "accepted_antonyms": [
+      "kommen"
+    ]
   },
   {
     "id": "a1_0176",
@@ -2860,7 +3259,9 @@
     "example_en": "To whom does that belong?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0177",
@@ -2876,7 +3277,9 @@
     "example_en": "The car is yellow.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0178",
@@ -2892,7 +3295,11 @@
     "example_en": "The bank is closed on Saturday.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "geöffnet",
+    "accepted_antonyms": [
+      "geöffnet"
+    ]
   },
   {
     "id": "a1_0179",
@@ -2908,7 +3315,9 @@
     "example_en": "My wife died yesterday.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0180",
@@ -2924,7 +3333,11 @@
     "example_en": "Who is winning the game?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "verlieren",
+    "accepted_antonyms": [
+      "verlieren"
+    ]
   },
   {
     "id": "a1_0181",
@@ -2940,7 +3353,11 @@
     "example_en": "The shop is open until 4 pm on Saturdays.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "geschlossen",
+    "accepted_antonyms": [
+      "geschlossen"
+    ]
   },
   {
     "id": "a1_0182",
@@ -2957,7 +3374,9 @@
     "example_en": "You can believe me, it’s true.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0183",
@@ -2974,7 +3393,9 @@
     "example_en": "It’s all the same to me.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0184",
@@ -2991,7 +3412,11 @@
     "example_en": "My children are happily married.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "traurig",
+    "accepted_antonyms": [
+      "traurig"
+    ]
   },
   {
     "id": "a1_0185",
@@ -3007,7 +3432,9 @@
     "example_en": "I congratulate you!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0186",
@@ -3023,7 +3450,9 @@
     "example_en": "The car is gray.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0187",
@@ -3041,7 +3470,11 @@
     "example_en": "The house is big.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "klein",
+    "accepted_antonyms": [
+      "klein"
+    ]
   },
   {
     "id": "a1_0188",
@@ -3057,7 +3490,9 @@
     "example_en": "The car is green.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0189",
@@ -3074,7 +3509,11 @@
     "example_en": "I think that’s good.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "schlecht",
+    "accepted_antonyms": [
+      "schlecht"
+    ]
   },
   {
     "id": "a1_0190",
@@ -3090,7 +3529,9 @@
     "example_en": "The passport is no longer valid.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0191",
@@ -3108,7 +3549,9 @@
     "example_en": "There are cheap offers there.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0192",
@@ -3124,7 +3567,9 @@
     "example_en": "I have a new car.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0193",
@@ -3141,7 +3586,9 @@
     "example_en": "The bus stops here.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0194",
@@ -3157,7 +3604,9 @@
     "example_en": "I’m called Charlotte Meier.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0195",
@@ -3173,7 +3622,9 @@
     "example_en": "Can you help me, please?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0196",
@@ -3190,7 +3641,11 @@
     "example_en": "In summer it is light until 9 pm.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "dunkel",
+    "accepted_antonyms": [
+      "dunkel"
+    ]
   },
   {
     "id": "a1_0197",
@@ -3208,7 +3663,9 @@
     "example_en": "Congratulations!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0198",
@@ -3224,7 +3681,9 @@
     "example_en": "Mount Everest is 8,880 metres high.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0199",
@@ -3240,7 +3699,9 @@
     "example_en": "I’m fetching two bottles of water from the kitchen.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0200",
@@ -3257,7 +3718,9 @@
     "example_en": "Listen! What is that?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0201",
@@ -3273,7 +3736,9 @@
     "example_en": "The course is international.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0202",
@@ -3289,7 +3754,11 @@
     "example_en": "My sister is young.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "alt",
+    "accepted_antonyms": [
+      "alt"
+    ]
   },
   {
     "id": "a1_0203",
@@ -3306,7 +3775,9 @@
     "example_en": "The glass was expensive. It will break very easily.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0204",
@@ -3322,7 +3793,9 @@
     "example_en": "I know this woman.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0205",
@@ -3338,7 +3811,9 @@
     "example_en": "We are new here. We would like to get to know you.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0206",
@@ -3355,7 +3830,9 @@
     "example_en": "That is clear.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0207",
@@ -3371,7 +3848,11 @@
     "example_en": "Eltwille is a small town on the Rhine.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "groß",
+    "accepted_antonyms": [
+      "groß"
+    ]
   },
   {
     "id": "a1_0208",
@@ -3387,7 +3868,11 @@
     "example_en": "I come from Vienna.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "gehen",
+    "accepted_antonyms": [
+      "gehen"
+    ]
   },
   {
     "id": "a1_0209",
@@ -3403,7 +3888,9 @@
     "example_en": "I get 15 euros an hour for my work.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0210",
@@ -3419,7 +3906,9 @@
     "example_en": "History is culturally important.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0211",
@@ -3435,7 +3924,11 @@
     "example_en": "Ricardo has short hair.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "lang",
+    "accepted_antonyms": [
+      "lang"
+    ]
   },
   {
     "id": "a1_0212",
@@ -3452,7 +3945,9 @@
     "example_en": "I can swim.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0213",
@@ -3468,7 +3963,11 @@
     "example_en": "The jeans are too long.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "kurz",
+    "accepted_antonyms": [
+      "kurz"
+    ]
   },
   {
     "id": "a1_0214",
@@ -3484,7 +3983,11 @@
     "example_en": "Can you please speak a little slower?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "schnell",
+    "accepted_antonyms": [
+      "schnell"
+    ]
   },
   {
     "id": "a1_0215",
@@ -3501,7 +4004,9 @@
     "example_en": "I don’t want to go by car, I want to walk.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0216",
@@ -3517,7 +4022,11 @@
     "example_en": "Not so loud! The baby is sleeping.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "leise",
+    "accepted_antonyms": [
+      "leise"
+    ]
   },
   {
     "id": "a1_0217",
@@ -3533,7 +4042,9 @@
     "example_en": "She lives at her sister‘s.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0218",
@@ -3549,7 +4060,11 @@
     "example_en": "I am single.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "verheiratet",
+    "accepted_antonyms": [
+      "verheiratet"
+    ]
   },
   {
     "id": "a1_0219",
@@ -3565,7 +4080,9 @@
     "example_en": "Put the book on the table.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0220",
@@ -3582,7 +4099,11 @@
     "example_en": "The suitcase is light.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "schwer",
+    "accepted_antonyms": [
+      "schwer"
+    ]
   },
   {
     "id": "a1_0221",
@@ -3598,7 +4119,11 @@
     "example_en": "Be quiet. The others are already asleep.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "laut",
+    "accepted_antonyms": [
+      "laut"
+    ]
   },
   {
     "id": "a1_0222",
@@ -3614,7 +4139,9 @@
     "example_en": "Tomorrow is the last day of the course.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0223",
@@ -3630,7 +4157,9 @@
     "example_en": "Dear Susanne, dear Hans,.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0224",
@@ -3646,7 +4175,9 @@
     "example_en": "I love you!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0225",
@@ -3663,7 +4194,9 @@
     "example_en": "At 9 am Judith is still (lying) in bed.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0226",
@@ -3679,7 +4212,11 @@
     "example_en": "Ms Mertens is funny. She is always laughing.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "traurig",
+    "accepted_antonyms": [
+      "traurig"
+    ]
   },
   {
     "id": "a1_0227",
@@ -3696,7 +4233,9 @@
     "example_en": "What are you doing this evening?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0228",
@@ -3713,7 +4252,9 @@
     "example_en": "Please bring some water along.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0229",
@@ -3729,7 +4270,9 @@
     "example_en": "I’m going to the cinema. Are you coming with me?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0230",
@@ -3745,7 +4288,9 @@
     "example_en": "Why don‘t you join in?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0231",
@@ -3761,7 +4306,9 @@
     "example_en": "Are we taking my sister with us to the cinema?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0232",
@@ -3777,7 +4324,11 @@
     "example_en": "Please tick “female” or “male”.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "weiblich",
+    "accepted_antonyms": [
+      "weiblich"
+    ]
   },
   {
     "id": "a1_0233",
@@ -3793,7 +4344,9 @@
     "example_en": "What would you like to drink?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0234",
@@ -3809,7 +4362,9 @@
     "example_en": "Do you like coffee or tea?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0235",
@@ -3825,7 +4380,9 @@
     "example_en": "With this ticket, it is possible to travel after 9 am.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0236",
@@ -3841,7 +4398,9 @@
     "example_en": "I’m tired. I’m going to sleep.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0237",
@@ -3857,7 +4416,9 @@
     "example_en": "I have to work from 8 am to 6 pm every day.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0238",
@@ -3874,7 +4435,11 @@
     "example_en": "There is chicken today. I’ll have that.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "geben",
+    "accepted_antonyms": [
+      "geben"
+    ]
   },
   {
     "id": "a1_0239",
@@ -3890,7 +4455,11 @@
     "example_en": "I am the new colleague.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "alt",
+    "accepted_antonyms": [
+      "alt"
+    ]
   },
   {
     "id": "a1_0240",
@@ -3906,7 +4475,9 @@
     "example_en": "I will not take this exam again.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0241",
@@ -3922,7 +4493,9 @@
     "example_en": "75 kg. His weight is normal.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0242",
@@ -3938,7 +4511,9 @@
     "example_en": "Are we seeing each other next week?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0243",
@@ -3955,7 +4530,9 @@
     "example_en": "The bus leaves at 8 am sharp.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0244",
@@ -3971,7 +4548,9 @@
     "example_en": "The child can already ride a bike.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0245",
@@ -3987,7 +4566,9 @@
     "example_en": "I don’t smoke.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0246",
@@ -4003,7 +4584,9 @@
     "example_en": "He repaired the bicycle.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0247",
@@ -4020,7 +4603,11 @@
     "example_en": "Have I understood that correctly?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "falsch",
+    "accepted_antonyms": [
+      "falsch"
+    ]
   },
   {
     "id": "a1_0248",
@@ -4036,7 +4623,9 @@
     "example_en": "This wine smells good.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0249",
@@ -4052,7 +4641,9 @@
     "example_en": "The car is red.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0250",
@@ -4068,7 +4659,9 @@
     "example_en": "I would like a quiet room.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0251",
@@ -4085,7 +4678,9 @@
     "example_en": "Tell me, how’s it going?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0252",
@@ -4101,7 +4696,9 @@
     "example_en": "The sun is shining.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0253",
@@ -4117,7 +4714,9 @@
     "example_en": "Please send me an email.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0254",
@@ -4133,7 +4732,11 @@
     "example_en": "I usually sleep for eight hours.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "aufwachen",
+    "accepted_antonyms": [
+      "aufwachen"
+    ]
   },
   {
     "id": "a1_0255",
@@ -4151,7 +4754,11 @@
     "example_en": "The weather is bad today.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "gut",
+    "accepted_antonyms": [
+      "gut"
+    ]
   },
   {
     "id": "a1_0256",
@@ -4167,7 +4774,11 @@
     "example_en": "Please close the door.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "öffnen",
+    "accepted_antonyms": [
+      "öffnen"
+    ]
   },
   {
     "id": "a1_0257",
@@ -4184,7 +4795,11 @@
     "example_en": "He drives fast.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "langsam",
+    "accepted_antonyms": [
+      "langsam"
+    ]
   },
   {
     "id": "a1_0258",
@@ -4200,7 +4815,9 @@
     "example_en": "The car is black.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0259",
@@ -4217,7 +4834,12 @@
     "example_en": "Is your luggage very heavy?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "leicht",
+    "accepted_antonyms": [
+      "leicht",
+      "einfach"
+    ]
   },
   {
     "id": "a1_0260",
@@ -4235,7 +4857,11 @@
     "example_en": "Have a lovely holiday!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "hässlich",
+    "accepted_antonyms": [
+      "hässlich"
+    ]
   },
   {
     "id": "a1_0261",
@@ -4251,7 +4877,9 @@
     "example_en": "I can’t see you.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0262",
@@ -4267,7 +4895,9 @@
     "example_en": "I am at home today.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0263",
@@ -4284,7 +4914,9 @@
     "example_en": "He is independent.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0264",
@@ -4300,7 +4932,9 @@
     "example_en": "Where can I register?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0265",
@@ -4316,7 +4950,9 @@
     "example_en": "I still need to get dressed.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0266",
@@ -4332,7 +4968,9 @@
     "example_en": "I get undressed.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0267",
@@ -4349,7 +4987,9 @@
     "example_en": "I am looking forward to the weekend.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0268",
@@ -4365,7 +5005,9 @@
     "example_en": "Every mother looks after her little children.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0269",
@@ -4381,7 +5023,9 @@
     "example_en": "I am meeting a colleague in town.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0270",
@@ -4398,7 +5042,9 @@
     "example_en": "I would like to introduce myself.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0271",
@@ -4414,7 +5060,9 @@
     "example_en": "Where are you sitting?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0272",
@@ -4430,7 +5078,9 @@
     "example_en": "Should I come?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0273",
@@ -4446,7 +5096,9 @@
     "example_en": "Can I speak with Mr Klein?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0274",
@@ -4464,7 +5116,9 @@
     "example_en": "The bottle is standing on the table.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0275",
@@ -4480,7 +5134,9 @@
     "example_en": "Put your bag on the right in the corner.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0276",
@@ -4497,7 +5153,11 @@
     "example_en": "I am looking for my key.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "finden",
+    "accepted_antonyms": [
+      "finden"
+    ]
   },
   {
     "id": "a1_0277",
@@ -4513,7 +5173,9 @@
     "example_en": "May I make a phone call?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0278",
@@ -4529,7 +5191,11 @@
     "example_en": "That is too expensive for me.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "billig",
+    "accepted_antonyms": [
+      "billig"
+    ]
   },
   {
     "id": "a1_0279",
@@ -4545,7 +5211,9 @@
     "example_en": "His father has been dead for a long time.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0280",
@@ -4561,7 +5229,9 @@
     "example_en": "I still have something to do.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0281",
@@ -4577,7 +5247,9 @@
     "example_en": "Where do I need to sign?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0282",
@@ -4593,7 +5265,9 @@
     "example_en": "Smoking is forbidden here.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0283",
@@ -4609,7 +5283,9 @@
     "example_en": "I earn 1,500 euros per month.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0284",
@@ -4625,7 +5301,11 @@
     "example_en": "I am married and have three children.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "ledig",
+    "accepted_antonyms": [
+      "ledig"
+    ]
   },
   {
     "id": "a1_0285",
@@ -4641,7 +5321,9 @@
     "example_en": "Can you understand me?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0286",
@@ -4657,7 +5339,9 @@
     "example_en": "We are hiking around the Chiem lake.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0287",
@@ -4673,7 +5357,9 @@
     "example_en": "Can you wait a few minutes?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0288",
@@ -4689,7 +5375,9 @@
     "example_en": "Mr Meier is already gone.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0289",
@@ -4705,7 +5393,11 @@
     "example_en": "Please tick “female” or “male”.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "männlich",
+    "accepted_antonyms": [
+      "männlich"
+    ]
   },
   {
     "id": "a1_0290",
@@ -4721,7 +5413,9 @@
     "example_en": "The car is white.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0291",
@@ -4737,7 +5431,9 @@
     "example_en": "It is not far to the station.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0292",
@@ -4753,7 +5449,9 @@
     "example_en": "My son wants to become a doctor.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0293",
@@ -4769,7 +5467,9 @@
     "example_en": "This form is very important.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0294",
@@ -4785,7 +5485,9 @@
     "example_en": "How much milk do you take?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0295",
@@ -4801,7 +5503,9 @@
     "example_en": "Can you repeat that, please?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0296",
@@ -4817,7 +5521,9 @@
     "example_en": "Welcome!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0297",
@@ -4833,7 +5539,9 @@
     "example_en": "Do you know what he is called?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0298",
@@ -4849,7 +5557,9 @@
     "example_en": "Do you want to get a coffee?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0299",
@@ -4865,7 +5575,9 @@
     "example_en": "The food tastes wonderful.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0300",
@@ -4881,7 +5593,9 @@
     "example_en": "The door is closed.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0301",
@@ -4899,7 +5613,9 @@
     "example_en": "I am satisfied with the room.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0302",
@@ -4915,7 +5631,9 @@
     "example_en": "Many of my relatives, for example, both of my brothers, also work here.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0303",
@@ -4931,7 +5649,11 @@
     "example_en": "I open the door.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "schließen",
+    "accepted_antonyms": [
+      "schließen"
+    ]
   },
   {
     "id": "a1_0304",
@@ -4947,7 +5669,9 @@
     "example_en": "You can stay at mine overnight.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0305",
@@ -4963,6 +5687,8 @@
     "example_en": "You can also transfer the money.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   }
 ]

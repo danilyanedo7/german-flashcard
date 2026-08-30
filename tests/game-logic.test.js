@@ -3,7 +3,9 @@ import assert from "node:assert/strict";
 import {
   HISTORY_STORAGE_KEY,
   answerMatches,
+  antonymMatches,
   createSession,
+  filterAntonymEntries,
   loadLearningHistory,
   mostFrequentlyMissed,
   normalizeAnswer,
@@ -15,6 +17,7 @@ import {
   selectNextEntry,
   sessionAccuracy,
   submitAnswer,
+  submitRetry,
   validateDataset,
 } from "../js/game-logic.js";
 
@@ -148,4 +151,79 @@ test("finite sessions stop at their question count and one-word/empty datasets a
   assert.equal(selectNextEntry(session, () => 0), null);
   assert.equal(createSession([], { mode: "endless" }).entries.length, 0);
   assert.equal(selectNextEntry(createSession([], { mode: "endless" }), () => 0), null);
+});
+
+test("antonymMatches checks primary and accepted antonyms with normalization", () => {
+  const card = {
+    id: "test_1",
+    german: "alt",
+    english: "old",
+    antonym: "jung",
+    accepted_antonyms: ["jung", "neu"],
+  };
+  assert.equal(antonymMatches(card, "jung"), true);
+  assert.equal(antonymMatches(card, "JUNG!"), true);
+  assert.equal(antonymMatches(card, "neu"), true);
+  assert.equal(antonymMatches(card, "alt"), false);
+  assert.equal(antonymMatches(card, ""), false);
+
+  const noAntonymCard = { id: "test_2", german: "das Haus", english: "house", antonym: null, accepted_antonyms: null };
+  assert.equal(antonymMatches(noAntonymCard, "haus"), false);
+});
+
+test("filterAntonymEntries filters only cards with antonyms", () => {
+  const cards = [
+    { id: "1", german: "alt", antonym: "jung", accepted_antonyms: ["jung"] },
+    { id: "2", german: "Haus", antonym: null, accepted_antonyms: null },
+    { id: "3", german: "groß", antonym: "klein", accepted_antonyms: ["klein"] },
+  ];
+  const filtered = filterAntonymEntries(cards);
+  assert.equal(filtered.length, 2);
+  assert.deepEqual(filtered.map((c) => c.id), ["1", "3"]);
+});
+
+test("antonym session filters dataset, grades antonym answers, and supports retry workflow", () => {
+  const cards = [
+    { id: "1", german: "alt", english: "old", antonym: "jung", accepted_antonyms: ["jung", "neu"] },
+    { id: "2", german: "Haus", english: "house", antonym: null, accepted_antonyms: null },
+    { id: "3", german: "groß", english: "big", antonym: "klein", accepted_antonyms: ["klein"] },
+  ];
+  const history = {};
+  const session = createSession(cards, {
+    totalQuestions: 2,
+    questionType: "antonym",
+    history,
+  });
+  assert.equal(session.entries.length, 2);
+  assert.equal(session.questionType, "antonym");
+
+  // Question 1: correct answer
+  const card1 = selectNextEntry(session, () => 0);
+  assert.equal(card1.id, "1");
+  const result1 = submitAnswer(session, "jung");
+  assert.equal(result1.status, "correct");
+  assert.equal(result1.isCorrect, true);
+  assert.equal(session.correctCount, 1);
+  assert.equal(session.retryPending, false);
+
+  // Question 2: wrong answer -> triggers retryPending
+  const card2 = selectNextEntry(session, () => 0);
+  assert.equal(card2.id, "3");
+  const result2 = submitAnswer(session, "riesig");
+  assert.equal(result2.status, "incorrect");
+  assert.equal(result2.isCorrect, false);
+  assert.equal(session.incorrectCount, 1);
+  assert.equal(session.retryPending, true);
+
+  // Retry with wrong answer
+  const retry1 = submitRetry(session, "falsch");
+  assert.equal(retry1.status, "retry_incorrect");
+  assert.equal(retry1.isCorrect, false);
+  assert.equal(session.retryPending, true);
+
+  // Retry with correct answer
+  const retry2 = submitRetry(session, "klein");
+  assert.equal(retry2.status, "retry_correct");
+  assert.equal(retry2.isCorrect, true);
+  assert.equal(session.retryPending, false);
 });

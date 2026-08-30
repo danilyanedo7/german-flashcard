@@ -13,7 +13,9 @@
     "example_en": "We leave at twelve o'clock.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0720",
@@ -30,7 +32,11 @@
     "example_en": "We are getting off here.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "einsteigen",
+    "accepted_antonyms": [
+      "einsteigen"
+    ]
   },
   {
     "id": "a1_0721",
@@ -47,7 +53,9 @@
     "example_en": "Do you travel abroad?",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0722",
@@ -63,7 +71,9 @@
     "example_en": "He’s coming by car.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0723",
@@ -79,7 +89,9 @@
     "example_en": "Do you travel by bike or by car?",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0724",
@@ -97,7 +109,9 @@
     "example_en": "The plane from Berlin will arrive later today.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0725",
@@ -113,7 +127,9 @@
     "example_en": "Do you want to take your luggage with you?",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0726",
@@ -130,7 +146,9 @@
     "example_en": "The ICE to Berlin is stopping on platform 12 today.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0727",
@@ -146,7 +164,9 @@
     "example_en": "My husband works at a travel agency.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0728",
@@ -162,7 +182,9 @@
     "example_en": "There are no more buses today. He is travelling by taxi.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0729",
@@ -178,7 +200,9 @@
     "example_en": "How much does the ticket cost?",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0730",
@@ -194,7 +218,9 @@
     "example_en": "Departure is at 11:20 am.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0731",
@@ -210,7 +236,9 @@
     "example_en": "In Mannheim you have a connection to Saarbrücken.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0732",
@@ -226,7 +254,9 @@
     "example_en": "Tomorrow we are going on an excursion to Heidelberg.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0733",
@@ -242,7 +272,9 @@
     "example_en": "Tickets are only available from the machine.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0734",
@@ -258,7 +290,9 @@
     "example_en": "Is this the way to the train station?",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0735",
@@ -274,7 +308,9 @@
     "example_en": "From which platform does the train depart?",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0736",
@@ -290,7 +326,9 @@
     "example_en": "When does the next bus arrive?",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0737",
@@ -306,7 +344,9 @@
     "example_en": "Please do not speak to the driver!",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0738",
@@ -322,7 +362,9 @@
     "example_en": "Can you take me to the airport?",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0739",
@@ -338,7 +380,9 @@
     "example_en": "Is that your suitcase?",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0740",
@@ -356,7 +400,9 @@
     "example_en": "That heavy goods vehicle is very large.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0741",
@@ -372,7 +418,9 @@
     "example_en": "In the hotel you need your passport.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0742",
@@ -389,7 +437,9 @@
     "example_en": "I will buy myself a travel guide for Berlin.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0743",
@@ -405,7 +455,9 @@
     "example_en": "I’m taking holiday in September.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0744",
@@ -421,7 +473,9 @@
     "example_en": "We still need to go through customs.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0745",
@@ -437,7 +491,9 @@
     "example_en": "I like to travel by train.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0746",
@@ -453,7 +509,9 @@
     "example_en": "I live in Germany.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0747",
@@ -469,7 +527,11 @@
     "example_en": "Before departure, I'll call.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "die Ankunft",
+    "accepted_antonyms": [
+      "die Ankunft"
+    ]
   },
   {
     "id": "a1_0748",
@@ -485,7 +547,11 @@
     "example_en": "This plan only shows the arrival time of the trains.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "die Abfahrt",
+    "accepted_antonyms": [
+      "die Abfahrt"
+    ]
   },
   {
     "id": "a1_0749",
@@ -501,7 +567,9 @@
     "example_en": "How do I get to the motorway?",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0750",
@@ -517,7 +585,9 @@
     "example_en": "We prefer to travel by train.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0751",
@@ -533,7 +603,9 @@
     "example_en": "Do you already have a ticket?",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0752",
@@ -551,7 +623,9 @@
     "example_en": "At the next stop you must alight.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0753",
@@ -568,7 +642,9 @@
     "example_en": "We are going on a trip to Austria.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0754",
@@ -584,7 +660,9 @@
     "example_en": "I prefer to take the commuter train.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0755",
@@ -600,7 +678,9 @@
     "example_en": "From where does the tram depart?",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0756",
@@ -616,7 +696,11 @@
     "example_en": "Quick, get on, the train is about to leave!",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "aussteigen",
+    "accepted_antonyms": [
+      "aussteigen"
+    ]
   },
   {
     "id": "a1_0757",
@@ -632,7 +716,9 @@
     "example_en": "I live in Europe.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0758",
@@ -650,7 +736,9 @@
     "example_en": "We are traveling by bus.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0759",
@@ -666,7 +754,9 @@
     "example_en": "I don’t like to fly. That's why I travel by train.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0760",
@@ -682,6 +772,8 @@
     "example_en": "I like to travel.",
     "topic": "travel_transport",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   }
 ]

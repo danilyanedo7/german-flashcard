@@ -13,7 +13,9 @@
     "example_en": "The number is eight.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0633",
@@ -29,7 +31,9 @@
     "example_en": "The number is eighteen.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0634",
@@ -45,7 +49,9 @@
     "example_en": "The number is eighty.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0635",
@@ -61,7 +67,9 @@
     "example_en": "I’m coming soon.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0636",
@@ -77,7 +85,9 @@
     "example_en": "Please write the date on the form.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0637",
@@ -93,7 +103,11 @@
     "example_en": "She lives at the end of the street.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "der Anfang",
+    "accepted_antonyms": [
+      "der Anfang"
+    ]
   },
   {
     "id": "a1_0638",
@@ -109,7 +123,9 @@
     "example_en": "That is one gram.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0639",
@@ -125,7 +141,9 @@
     "example_en": "The year is important.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0640",
@@ -141,7 +159,9 @@
     "example_en": "That is one kilogram.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0641",
@@ -157,7 +177,9 @@
     "example_en": "That is one pound.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0642",
@@ -173,7 +195,9 @@
     "example_en": "That is one percent.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0643",
@@ -189,7 +213,9 @@
     "example_en": "The weekend is important.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0644",
@@ -205,7 +231,11 @@
     "example_en": "The evening is important.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "der Morgen",
+    "accepted_antonyms": [
+      "der Morgen"
+    ]
   },
   {
     "id": "a1_0645",
@@ -221,7 +251,11 @@
     "example_en": "She lives at the beginning of the street.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "das Ende",
+    "accepted_antonyms": [
+      "das Ende"
+    ]
   },
   {
     "id": "a1_0646",
@@ -237,7 +271,9 @@
     "example_en": "We travel in April.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0647",
@@ -253,7 +289,9 @@
     "example_en": "We travel in August.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0648",
@@ -269,7 +307,9 @@
     "example_en": "That is one cent.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0649",
@@ -285,7 +325,9 @@
     "example_en": "We travel in December.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0650",
@@ -301,7 +343,9 @@
     "example_en": "Today is Tuesday.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0651",
@@ -317,7 +361,9 @@
     "example_en": "Today is Thursday.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0652",
@@ -333,7 +379,9 @@
     "example_en": "That is one euro.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0653",
@@ -349,7 +397,9 @@
     "example_en": "We travel in February.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0654",
@@ -365,7 +415,9 @@
     "example_en": "Today is Friday.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0655",
@@ -381,7 +433,9 @@
     "example_en": "That is one degree.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0656",
@@ -397,7 +451,9 @@
     "example_en": "We travel in January.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0657",
@@ -413,7 +469,9 @@
     "example_en": "We travel in July.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0658",
@@ -429,7 +487,9 @@
     "example_en": "We travel in June.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0659",
@@ -445,7 +505,9 @@
     "example_en": "That is one kilometer.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0660",
@@ -461,7 +523,9 @@
     "example_en": "That is one liter.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0661",
@@ -477,7 +541,9 @@
     "example_en": "We travel in May.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0662",
@@ -493,7 +559,9 @@
     "example_en": "That is one meter.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0663",
@@ -509,7 +577,9 @@
     "example_en": "The noon is important.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0664",
@@ -525,7 +595,9 @@
     "example_en": "Today is Wednesday.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0665",
@@ -541,7 +613,9 @@
     "example_en": "Just a moment, please!",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0666",
@@ -557,7 +631,9 @@
     "example_en": "Today is Monday.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0667",
@@ -573,7 +649,11 @@
     "example_en": "The morning is important.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "der Abend",
+    "accepted_antonyms": [
+      "der Abend"
+    ]
   },
   {
     "id": "a1_0668",
@@ -589,7 +669,9 @@
     "example_en": "We travel in March.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0669",
@@ -605,7 +687,9 @@
     "example_en": "The afternoon is important.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0670",
@@ -621,7 +705,9 @@
     "example_en": "We travel in November.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0671",
@@ -637,7 +723,9 @@
     "example_en": "We travel in October.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0672",
@@ -653,7 +741,9 @@
     "example_en": "That is one square meter.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0673",
@@ -669,7 +759,9 @@
     "example_en": "Today is Saturday.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0674",
@@ -685,7 +777,9 @@
     "example_en": "We travel in September.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0675",
@@ -701,7 +795,9 @@
     "example_en": "Today is Sunday.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0676",
@@ -717,7 +813,11 @@
     "example_en": "The day is important.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "die Nacht",
+    "accepted_antonyms": [
+      "die Nacht"
+    ]
   },
   {
     "id": "a1_0677",
@@ -733,7 +833,9 @@
     "example_en": "The late morning is important.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0678",
@@ -749,7 +851,9 @@
     "example_en": "The weekday is important.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0679",
@@ -765,7 +869,9 @@
     "example_en": "That is one centimeter.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0680",
@@ -781,7 +887,9 @@
     "example_en": "The minute is important.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0681",
@@ -797,7 +905,11 @@
     "example_en": "The night is important.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "der Tag",
+    "accepted_antonyms": [
+      "der Tag"
+    ]
   },
   {
     "id": "a1_0682",
@@ -813,7 +925,9 @@
     "example_en": "The second is important.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0683",
@@ -829,7 +943,9 @@
     "example_en": "I will be back in an hour.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0684",
@@ -847,7 +963,9 @@
     "example_en": "The clock is new.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0685",
@@ -863,7 +981,9 @@
     "example_en": "The week is important.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0686",
@@ -879,7 +999,9 @@
     "example_en": "I have no time today.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0687",
@@ -895,7 +1017,9 @@
     "example_en": "The number is three.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0688",
@@ -911,7 +1035,9 @@
     "example_en": "The number is thirty.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0689",
@@ -927,7 +1053,9 @@
     "example_en": "The number is thirteen.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0690",
@@ -943,7 +1071,9 @@
     "example_en": "The number is one.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0691",
@@ -959,7 +1089,9 @@
     "example_en": "The number is eleven.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0692",
@@ -975,7 +1107,9 @@
     "example_en": "The number is five.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0693",
@@ -991,7 +1125,9 @@
     "example_en": "The number is fifteen.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0694",
@@ -1007,7 +1143,9 @@
     "example_en": "The number is fifty.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0695",
@@ -1023,7 +1161,9 @@
     "example_en": "Yesterday I was ill.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0696",
@@ -1039,7 +1179,9 @@
     "example_en": "Today is a beautiful day.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0697",
@@ -1055,7 +1197,9 @@
     "example_en": "The number is hundred.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0698",
@@ -1071,7 +1215,9 @@
     "example_en": "Now we will take a break.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0699",
@@ -1087,7 +1233,9 @@
     "example_en": "Tomorrow school begins at 10 am.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0700",
@@ -1103,7 +1251,9 @@
     "example_en": "The number is nine.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0701",
@@ -1119,7 +1269,9 @@
     "example_en": "The number is nineteen.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0702",
@@ -1135,7 +1287,9 @@
     "example_en": "The number is ninety.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0703",
@@ -1151,7 +1305,9 @@
     "example_en": "The number is zero.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0704",
@@ -1167,7 +1323,9 @@
     "example_en": "The number is six.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0705",
@@ -1183,7 +1341,9 @@
     "example_en": "The number is sixteen.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0706",
@@ -1199,7 +1359,9 @@
     "example_en": "The number is sixty.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0707",
@@ -1215,7 +1377,9 @@
     "example_en": "The number is seven.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0708",
@@ -1231,7 +1395,9 @@
     "example_en": "The number is seventeen.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0709",
@@ -1247,7 +1413,9 @@
     "example_en": "The number is seventy.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0710",
@@ -1263,7 +1431,11 @@
     "example_en": "It is already late, I need to go.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": "früh",
+    "accepted_antonyms": [
+      "früh"
+    ]
   },
   {
     "id": "a1_0711",
@@ -1279,7 +1451,9 @@
     "example_en": "The number is thousand.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0712",
@@ -1295,7 +1469,9 @@
     "example_en": "The number is four.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0713",
@@ -1311,7 +1487,9 @@
     "example_en": "The number is fourteen.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0714",
@@ -1327,7 +1505,9 @@
     "example_en": "The number is forty.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0715",
@@ -1343,7 +1523,9 @@
     "example_en": "The number is ten.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0716",
@@ -1359,7 +1541,9 @@
     "example_en": "The number is twenty.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0717",
@@ -1375,7 +1559,9 @@
     "example_en": "The number is two.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a1_0718",
@@ -1391,6 +1577,8 @@
     "example_en": "The number is twelve.",
     "topic": "time_numbers",
     "source": "Goethe A1",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   }
 ]

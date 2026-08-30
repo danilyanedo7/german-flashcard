@@ -16,7 +16,7 @@ SUMMARY = DATA / "validation_summary.json"
 REQUIRED = {
     "id", "german", "word_type", "gender", "plural", "english",
     "accepted_answers", "example_de", "example_en", "topic", "source",
-    "source_url",
+    "source_url", "antonym", "accepted_antonyms",
 }
 GENDERS = {"der": "masculine", "die": "feminine", "das": "neuter"}
 
@@ -75,6 +75,19 @@ def main() -> None:
                 errors.append(f"{name}: plural lacks plural article")
         elif card["gender"] is not None or card["plural"] is not None:
             errors.append(f"{name}: non-noun has noun-only metadata")
+
+        if card["antonym"] is not None:
+            if not isinstance(card["antonym"], str) or not card["antonym"].strip():
+                errors.append(f"{name}: antonym must be a non-empty string or null")
+            if not isinstance(card["accepted_antonyms"], list) or not card["accepted_antonyms"]:
+                errors.append(f"{name}: accepted_antonyms must be a non-empty array when antonym is present")
+            elif card["antonym"] not in card["accepted_antonyms"]:
+                errors.append(f"{name}: primary antonym is not in accepted_antonyms")
+            elif len(card["accepted_antonyms"]) != len(set(card["accepted_antonyms"])):
+                errors.append(f"{name}: duplicate accepted antonym")
+        else:
+            if card["accepted_antonyms"] is not None:
+                errors.append(f"{name}: accepted_antonyms must be null when antonym is null")
 
     shard_cards = []
     for item in summary["files"]:

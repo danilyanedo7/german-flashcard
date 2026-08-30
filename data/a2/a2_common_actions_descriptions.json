@@ -15,7 +15,9 @@
     "example_en": "Did you lock the door?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0002",
@@ -31,7 +33,9 @@
     "example_en": "Peter is very active and does a lot of sports.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0003",
@@ -48,7 +52,9 @@
     "example_en": "This is the current movie schedule.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0004",
@@ -66,7 +72,9 @@
     "example_en": "May I look at your vacation photos?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0005",
@@ -82,7 +90,11 @@
     "example_en": "Can you please open the door?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "zumachen",
+    "accepted_antonyms": [
+      "zumachen"
+    ]
   },
   {
     "id": "a2_0006",
@@ -99,7 +111,9 @@
     "example_en": "Watch out, the plate is about to fall on the floor!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0007",
@@ -115,7 +129,9 @@
     "example_en": "The last week was very exciting.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0008",
@@ -132,7 +148,9 @@
     "example_en": "The children have to clean their room.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0009",
@@ -149,7 +167,9 @@
     "example_en": "Agata is spending a lot of money on books.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0010",
@@ -165,7 +185,9 @@
     "example_en": "Shall we go out together on Friday?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0011",
@@ -181,7 +203,9 @@
     "example_en": "Will you please unpack the suitcase?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0012",
@@ -197,7 +221,9 @@
     "example_en": "How do you pronounce the word?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0013",
@@ -215,7 +241,9 @@
     "example_en": "Can we exchange our addresses?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0014",
@@ -231,7 +259,9 @@
     "example_en": "He delivers the newspaper every morning.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0015",
@@ -248,7 +278,9 @@
     "example_en": "The children made something.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0016",
@@ -264,7 +296,9 @@
     "example_en": "Our neighbors are building a new house.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0017",
@@ -280,7 +314,9 @@
     "example_en": "Can you answer my question, please?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0018",
@@ -297,7 +333,9 @@
     "example_en": "You definitely have to finish your vocational training.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0019",
@@ -314,7 +352,9 @@
     "example_en": "Please justify your opinion.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0020",
@@ -331,7 +371,9 @@
     "example_en": "Football is popular with many people.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0021",
@@ -348,7 +390,9 @@
     "example_en": "The sofa is very comfortable.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0022",
@@ -365,7 +409,9 @@
     "example_en": "Our secretary will be happy to advise you if you have any questions.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0023",
@@ -382,7 +428,9 @@
     "example_en": "All the newspapers report the accident.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0024",
@@ -398,7 +446,9 @@
     "example_en": "Thomas Müller is a famous footballer.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0025",
@@ -414,7 +464,9 @@
     "example_en": "Can you describe the way to the station?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0026",
@@ -431,7 +483,9 @@
     "example_en": "This offer is especially inexpensive.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0027",
@@ -448,7 +502,9 @@
     "example_en": "I passed the exam!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0028",
@@ -464,7 +520,9 @@
     "example_en": "I can confirm that he was here.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0029",
@@ -481,7 +539,9 @@
     "example_en": "Today it's cloudy.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0030",
@@ -498,7 +558,9 @@
     "example_en": "Lisa has blond hair.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0031",
@@ -516,7 +578,9 @@
     "example_en": "I think it's stupid that you have to go tomorrow.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0032",
@@ -533,7 +597,9 @@
     "example_en": "Tomorrow I book our holiday trip.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0033",
@@ -549,7 +615,9 @@
     "example_en": "Anna likes wearing colorful clothes.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0034",
@@ -566,7 +634,9 @@
     "example_en": "Luis likes to chat with his friends on the Internet.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0035",
@@ -586,7 +656,9 @@
     "example_en": "Do you have a pen with you?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0036",
@@ -602,7 +674,9 @@
     "example_en": "I am in favor.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0037",
@@ -618,7 +692,9 @@
     "example_en": "I'm against it.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0038",
@@ -634,7 +710,9 @@
     "example_en": "My son always reads comics.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0039",
@@ -650,7 +728,9 @@
     "example_en": "Please give me the thing over there!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0040",
@@ -666,7 +746,9 @@
     "example_en": "Do you prefer reading e-books or paper books?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0041",
@@ -683,7 +765,9 @@
     "example_en": "Are you coming to the shopping center tomorrow?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0042",
@@ -699,7 +783,9 @@
     "example_en": "Florian is an only child. He has no siblings.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0043",
@@ -718,7 +804,9 @@
     "example_en": "We are having a party this weekend. It is my daughter's birthday.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0044",
@@ -734,7 +822,9 @@
     "example_en": "The opposite of \"small\" is \"big\".",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0045",
@@ -751,7 +841,9 @@
     "example_en": "Electrical appliances can be found on the third floor.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0046",
@@ -767,7 +859,9 @@
     "example_en": "Will you give me a fresh towel, please?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0047",
@@ -783,7 +877,9 @@
     "example_en": "Do you have your notebook?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0048",
@@ -799,7 +895,9 @@
     "example_en": "Nick is wearing a new shirt today.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0049",
@@ -815,7 +913,9 @@
     "example_en": "I have many interests: sports, reading, culture, travel.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0050",
@@ -831,7 +931,9 @@
     "example_en": "Come quickly! On the radio comes an interview with your favorite singer.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0051",
@@ -847,7 +949,9 @@
     "example_en": "I always buy my sweaters at the Hertie store.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0052",
@@ -863,7 +967,9 @@
     "example_en": "Jakob can play the piano very well.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0053",
@@ -879,7 +985,9 @@
     "example_en": "Julia wants to buy a red dress.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0054",
@@ -896,7 +1004,9 @@
     "example_en": "Do you have a remedy for stomach pain?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0055",
@@ -912,7 +1022,9 @@
     "example_en": "How can I get in contact with you? Do you have a mobile phone?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0056",
@@ -928,7 +1040,9 @@
     "example_en": "My ears hurt.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0057",
@@ -945,7 +1059,9 @@
     "example_en": "Romeo and Juliet are a couple.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0058",
@@ -962,7 +1078,9 @@
     "example_en": "Will you bring the parcel to the post office?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0059",
@@ -978,7 +1096,9 @@
     "example_en": "I am looking for a perfume as a present for my wife.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0060",
@@ -994,7 +1114,9 @@
     "example_en": "Amira loves horses. She has been riding for ten years.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0061",
@@ -1010,7 +1132,9 @@
     "example_en": "We are making a poster about food and drink in class.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0062",
@@ -1026,7 +1150,9 @@
     "example_en": "The poster hangs over the bed.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0063",
@@ -1043,7 +1169,9 @@
     "example_en": "I am not interested in this radio program.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0064",
@@ -1059,7 +1187,9 @@
     "example_en": "He likes to watch quizzes.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0065",
@@ -1075,7 +1205,9 @@
     "example_en": "I like listening to the radio in the car.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0066",
@@ -1092,7 +1224,9 @@
     "example_en": "You will receive the form in the town hall.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0067",
@@ -1110,7 +1244,9 @@
     "example_en": "The riddle is difficult! I do not know the answer.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0068",
@@ -1127,7 +1263,9 @@
     "example_en": "On the weekend we visit Neuschwanstein Castle.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0069",
@@ -1144,7 +1282,9 @@
     "example_en": "What card games do you know?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0070",
@@ -1162,7 +1302,9 @@
     "example_en": "The building has twenty floors.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0071",
@@ -1179,7 +1321,9 @@
     "example_en": "Would you like another piece of cake?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0072",
@@ -1195,7 +1339,9 @@
     "example_en": "Do you have this shirt in M?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0073",
@@ -1211,7 +1357,9 @@
     "example_en": "Do you have a tablet? - No, I have a laptop and a cell phone.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0074",
@@ -1228,7 +1376,9 @@
     "example_en": "How much pocket money do your children get?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0075",
@@ -1244,7 +1394,9 @@
     "example_en": "I like working in a team.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0076",
@@ -1260,7 +1412,9 @@
     "example_en": "Steffi plays tennis very well.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0077",
@@ -1276,7 +1430,9 @@
     "example_en": "We must not have any animals in the apartment.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0078",
@@ -1292,7 +1448,9 @@
     "example_en": "The training is always on Tuesdays.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0079",
@@ -1308,7 +1466,9 @@
     "example_en": "The station is in the city center.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0080",
@@ -1324,7 +1484,9 @@
     "example_en": "I think you are right.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0081",
@@ -1340,7 +1502,9 @@
     "example_en": "My husband needs to buy a new suit.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0082",
@@ -1358,7 +1522,9 @@
     "example_en": "What should we do with your old device?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0083",
@@ -1375,7 +1541,9 @@
     "example_en": "My daughter works as a babysitter in a family with four children.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0084",
@@ -1391,7 +1559,9 @@
     "example_en": "My children like to play ball.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0085",
@@ -1409,7 +1579,9 @@
     "example_en": "She will not get an answer until next week.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0086",
@@ -1426,7 +1598,9 @@
     "example_en": "We are having visitors this weekend.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0087",
@@ -1442,7 +1616,9 @@
     "example_en": "I am writing a blog about fashion.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0088",
@@ -1458,7 +1634,9 @@
     "example_en": "Is there a tennis club here?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0089",
@@ -1474,7 +1652,9 @@
     "example_en": "He is a big football fan.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0090",
@@ -1491,7 +1671,9 @@
     "example_en": "The television is broken.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0091",
@@ -1507,7 +1689,9 @@
     "example_en": "I want to buy a camera.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0092",
@@ -1523,7 +1707,9 @@
     "example_en": "A hamburger without salad, please.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0093",
@@ -1539,7 +1725,9 @@
     "example_en": "I have little contact with my colleagues.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0094",
@@ -1555,7 +1743,9 @@
     "example_en": "I need a new laptop.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0095",
@@ -1571,7 +1761,9 @@
     "example_en": "I will send you a link to German exercises.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0096",
@@ -1587,7 +1779,9 @@
     "example_en": "It is cold. Put on your coat!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0097",
@@ -1603,7 +1797,9 @@
     "example_en": "I'm going to the market today.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0098",
@@ -1620,7 +1816,9 @@
     "example_en": "The engine is broken. The car no longer drives.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0099",
@@ -1636,7 +1834,9 @@
     "example_en": "Oskar rides his scooter to work.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0100",
@@ -1652,7 +1852,9 @@
     "example_en": "I like walking in the park.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0101",
@@ -1669,7 +1871,9 @@
     "example_en": "I need to buy a sweater.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0102",
@@ -1687,7 +1891,9 @@
     "example_en": "My uncle is no longer working. He is a pensioner.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0103",
@@ -1705,7 +1911,9 @@
     "example_en": "Here are 50 euros. I'll give you the rest later.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0104",
@@ -1721,7 +1929,9 @@
     "example_en": "I lost my ring.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0105",
@@ -1737,7 +1947,9 @@
     "example_en": "The skirt is too tight.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0106",
@@ -1754,7 +1966,9 @@
     "example_en": "The tour of the castle begins in a few minutes.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0107",
@@ -1770,7 +1984,9 @@
     "example_en": "My back hurts.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0108",
@@ -1786,7 +2002,9 @@
     "example_en": "Take the umbrella, it's raining.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0109",
@@ -1802,7 +2020,9 @@
     "example_en": "Shall we go skiing this weekend?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0110",
@@ -1818,7 +2038,9 @@
     "example_en": "I enjoy my work.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0111",
@@ -1835,7 +2057,9 @@
     "example_en": "In the evening I always go for a walk.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0112",
@@ -1852,7 +2076,9 @@
     "example_en": "This singer is a star in Germany.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0113",
@@ -1869,7 +2095,9 @@
     "example_en": "How much do the red boots cost?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0114",
@@ -1886,7 +2114,9 @@
     "example_en": "Do you need a pencil or a pen?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0115",
@@ -1902,7 +2132,9 @@
     "example_en": "I have a lot of stress at work.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0116",
@@ -1918,7 +2150,9 @@
     "example_en": "Is the chair free?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0117",
@@ -1934,7 +2168,9 @@
     "example_en": "I often shop at the supermarket.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0118",
@@ -1951,7 +2187,9 @@
     "example_en": "Can you give me a good tip?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0119",
@@ -1967,7 +2205,9 @@
     "example_en": "What is the movie called? - I cannot remember the title.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0120",
@@ -1983,7 +2223,9 @@
     "example_en": "Don't you have a bigger pot? I want to cook potatoes.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0121",
@@ -1999,7 +2241,9 @@
     "example_en": "I want my own company, that is my dream.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0122",
@@ -2016,7 +2260,9 @@
     "example_en": "The move is next week.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0123",
@@ -2032,7 +2278,9 @@
     "example_en": "What is the difference between the two courses? - The courses are the same. There is no difference.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0124",
@@ -2048,7 +2296,9 @@
     "example_en": "Nadine likes birds.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0125",
@@ -2065,7 +2315,9 @@
     "example_en": "What are we going to do at the weekend? Do you have a good suggestion? - We can go to the cinema.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0126",
@@ -2083,7 +2335,9 @@
     "example_en": "This is the shortest way.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0127",
@@ -2099,7 +2353,9 @@
     "example_en": "My son won in a competition.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0128",
@@ -2115,7 +2371,9 @@
     "example_en": "We told jokes and laughed a lot.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0129",
@@ -2132,7 +2390,9 @@
     "example_en": "That was a great workshop. I learned a lot.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0130",
@@ -2148,7 +2408,9 @@
     "example_en": "Would you like anything else?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0131",
@@ -2165,7 +2427,9 @@
     "example_en": "Do you have a note for me? I have to write down something.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0132",
@@ -2182,7 +2446,11 @@
     "example_en": "I am too fat. I have to eat less.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "dünn",
+    "accepted_antonyms": [
+      "dünn"
+    ]
   },
   {
     "id": "a2_0133",
@@ -2199,7 +2467,9 @@
     "example_en": "I had no idea you had a birthday today.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0134",
@@ -2215,7 +2485,9 @@
     "example_en": "You can drive, the traffic light is green.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0135",
@@ -2232,7 +2504,9 @@
     "example_en": "Will we go to the exhibition tomorrow?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0136",
@@ -2249,7 +2523,9 @@
     "example_en": "There is a large construction site in front of our house.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0137",
@@ -2265,7 +2541,9 @@
     "example_en": "I'm looking for a white blouse.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0138",
@@ -2281,7 +2559,9 @@
     "example_en": "Hans doesn't like to eat beans.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0139",
@@ -2297,7 +2577,9 @@
     "example_en": "Drive over the next bridge and then left.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0140",
@@ -2313,7 +2595,9 @@
     "example_en": "I'm going to the cafeteria now. Should I bring you something?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0141",
@@ -2330,7 +2614,9 @@
     "example_en": "We have a new boss.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0142",
@@ -2346,7 +2632,9 @@
     "example_en": "I'm looking for a cream for the hands.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0143",
@@ -2362,7 +2650,9 @@
     "example_en": "I have ten years of experience in this profession.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0144",
@@ -2379,7 +2669,9 @@
     "example_en": "Do you have a work permit?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0145",
@@ -2396,7 +2688,9 @@
     "example_en": "There is a discount for pupils, students and pensioners.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0146",
@@ -2413,7 +2707,9 @@
     "example_en": "The celebration was very nice.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0147",
@@ -2430,7 +2726,9 @@
     "example_en": "Our vacation starts soon.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0148",
@@ -2447,7 +2745,9 @@
     "example_en": "You can check the lost-and-found office over there.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0149",
@@ -2464,7 +2764,9 @@
     "example_en": "Will you tell me a story?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0150",
@@ -2481,7 +2783,9 @@
     "example_en": "Berlin is the capital city of Germany.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0151",
@@ -2498,7 +2802,9 @@
     "example_en": "On the homepage of Freiburg there is all important information about the city.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0152",
@@ -2515,7 +2821,9 @@
     "example_en": "Can I wash these pants?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0153",
@@ -2531,7 +2839,9 @@
     "example_en": "What are we going to do this evening? Do you have a good idea?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0154",
@@ -2547,7 +2857,9 @@
     "example_en": "I like jeans rather than skirts.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0155",
@@ -2563,7 +2875,9 @@
     "example_en": "He can take photos and make videos with the camera.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0156",
@@ -2579,7 +2893,9 @@
     "example_en": "My daughter wants a cat.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0157",
@@ -2596,7 +2912,9 @@
     "example_en": "My mother gets a nice necklace for her birthday.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0158",
@@ -2612,7 +2930,9 @@
     "example_en": "This church is almost 800 years old.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0159",
@@ -2628,7 +2948,9 @@
     "example_en": "You can buy cosmetics on the ground floor.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0160",
@@ -2646,7 +2968,9 @@
     "example_en": "At the next intersection turn right.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0161",
@@ -2662,7 +2986,9 @@
     "example_en": "I find foreign countries and cultures very interesting.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0162",
@@ -2679,7 +3005,9 @@
     "example_en": "My favorite color is blue.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0163",
@@ -2696,7 +3024,9 @@
     "example_en": "I do not feel like it.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0164",
@@ -2712,7 +3042,9 @@
     "example_en": "That's not true! That's a lie!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0165",
@@ -2729,7 +3061,9 @@
     "example_en": "This is the mailbox of Susanne König.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0166",
@@ -2745,7 +3079,9 @@
     "example_en": "My favorite team lost 1 to 0.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0167",
@@ -2761,7 +3097,9 @@
     "example_en": "My opinion on the topic is: ...",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0168",
@@ -2779,7 +3117,9 @@
     "example_en": "We still have a lot of time.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0169",
@@ -2795,7 +3135,9 @@
     "example_en": "How do you like the new fashion?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0170",
@@ -2811,7 +3153,9 @@
     "example_en": "Do you like the music?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0171",
@@ -2828,7 +3172,9 @@
     "example_en": "Do you have red caps?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0172",
@@ -2845,7 +3191,9 @@
     "example_en": "I always watch the news on TV.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0173",
@@ -2861,7 +3209,9 @@
     "example_en": "Please write me a note.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0174",
@@ -2878,7 +3228,9 @@
     "example_en": "Would you prefer rice or pasta? - Pasta, please.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0175",
@@ -2897,7 +3249,9 @@
     "example_en": "The post office is near the station.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0176",
@@ -2914,7 +3268,9 @@
     "example_en": "I will have a small portion of ice cream.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0177",
@@ -2930,7 +3286,9 @@
     "example_en": "Do you write me a postcard from Canada?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0178",
@@ -2949,7 +3307,9 @@
     "example_en": "I have tickets for the concert. We are sitting in the third row.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0179",
@@ -2967,7 +3327,9 @@
     "example_en": "My aunt no longer works. She is retired.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0180",
@@ -2983,7 +3345,9 @@
     "example_en": "He gives his girlfriend red roses for her birthday.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0181",
@@ -3001,7 +3365,9 @@
     "example_en": "Quiet, please! You must not speak loudly in the library.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0182",
@@ -3018,7 +3384,9 @@
     "example_en": "You can leave your stuff in the hotel.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0183",
@@ -3034,7 +3402,9 @@
     "example_en": "The scissors do not work well. Do you have another?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0184",
@@ -3050,7 +3420,9 @@
     "example_en": "There is no soap.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0185",
@@ -3067,7 +3439,9 @@
     "example_en": "Open the course book on page 20.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0186",
@@ -3085,7 +3459,9 @@
     "example_en": "Which shows do you like to watch?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0187",
@@ -3101,7 +3477,9 @@
     "example_en": "I'm in a difficult situation. I do not know what to do.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0188",
@@ -3119,7 +3497,9 @@
     "example_en": "Frau Doktor Weiß has office hours from 9:00 am to 12:30 pm.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0189",
@@ -3136,7 +3516,9 @@
     "example_en": "You should take two tablets in the evening.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0190",
@@ -3152,7 +3534,9 @@
     "example_en": "Please close the door!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0191",
@@ -3168,7 +3552,9 @@
     "example_en": "He studies at the University of Freiburg.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0192",
@@ -3184,7 +3570,9 @@
     "example_en": "On Saturday our restaurant is closed. We have an event.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0193",
@@ -3201,7 +3589,9 @@
     "example_en": "My car is broken. It's in the workshop.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0194",
@@ -3218,7 +3608,9 @@
     "example_en": "I have to wash clothes.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0195",
@@ -3234,7 +3626,9 @@
     "example_en": "Andrea buys this magazine every week.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0196",
@@ -3250,7 +3644,9 @@
     "example_en": "I need a translation of my school report.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0197",
@@ -3266,7 +3662,9 @@
     "example_en": "I would like to discuss this with my colleagues.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0198",
@@ -3282,7 +3680,9 @@
     "example_en": "Please come fast. It's urgent.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0199",
@@ -3299,7 +3699,11 @@
     "example_en": "I find the movie stupid.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "klug",
+    "accepted_antonyms": [
+      "klug"
+    ]
   },
   {
     "id": "a2_0200",
@@ -3315,7 +3719,11 @@
     "example_en": "At six o'clock it is already dark.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "hell",
+    "accepted_antonyms": [
+      "hell"
+    ]
   },
   {
     "id": "a2_0201",
@@ -3332,7 +3740,11 @@
     "example_en": "The book is very thin. It has only 40 pages.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "dick",
+    "accepted_antonyms": [
+      "dick"
+    ]
   },
   {
     "id": "a2_0202",
@@ -3349,7 +3761,9 @@
     "example_en": "Is the picture a real Picasso?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0203",
@@ -3365,7 +3779,9 @@
     "example_en": "Not all children have their own room.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0204",
@@ -3382,7 +3798,9 @@
     "example_en": "Please pack the towels!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0205",
@@ -3399,7 +3817,9 @@
     "example_en": "As a date, I suggest August 22nd. - All right, I agree.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0206",
@@ -3415,7 +3835,9 @@
     "example_en": "In June our new neighbors move in.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0207",
@@ -3433,7 +3855,11 @@
     "example_en": "These pants are too tight. Do you have them one size larger?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "breit",
+    "accepted_antonyms": [
+      "breit"
+    ]
   },
   {
     "id": "a2_0208",
@@ -3449,7 +3875,9 @@
     "example_en": "Lisa's got a cold. She cannot go to school today.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0209",
@@ -3466,7 +3894,9 @@
     "example_en": "Parking is not allowed here.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0210",
@@ -3483,7 +3913,9 @@
     "example_en": "If we hurry, we reach the train at eight o'clock.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0211",
@@ -3499,7 +3931,9 @@
     "example_en": "Watch, the glass falls off the table.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0212",
@@ -3515,7 +3949,9 @@
     "example_en": "The book is fantastic. You must read it!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0213",
@@ -3531,7 +3967,11 @@
     "example_en": "Today we are lazy: we do not do homework and do not work.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "fleißig",
+    "accepted_antonyms": [
+      "fleißig"
+    ]
   },
   {
     "id": "a2_0214",
@@ -3549,7 +3989,9 @@
     "example_en": "We have to leave soon. Are you ready?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0215",
@@ -3566,7 +4008,9 @@
     "example_en": "The sausage is too fatty for me.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0216",
@@ -3582,7 +4026,9 @@
     "example_en": "Tom wants to be fit. He goes to the gym every day.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0217",
@@ -3601,7 +4047,11 @@
     "example_en": "Ibrahim is very hardworking. He always does his homework.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "faul",
+    "accepted_antonyms": [
+      "faul"
+    ]
   },
   {
     "id": "a2_0218",
@@ -3619,7 +4069,9 @@
     "example_en": "I like to take pictures.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0219",
@@ -3636,7 +4088,9 @@
     "example_en": "Sometimes I voluntarily stay longer at the office.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0220",
@@ -3653,7 +4107,11 @@
     "example_en": "He is always very friendly to me.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "böse",
+    "accepted_antonyms": [
+      "böse"
+    ]
   },
   {
     "id": "a2_0221",
@@ -3669,7 +4127,9 @@
     "example_en": "The bread is still fresh. I just bought it.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0222",
@@ -3686,7 +4146,9 @@
     "example_en": "I'm glad you can come.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0223",
@@ -3703,7 +4165,9 @@
     "example_en": "He has terrible pain.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0224",
@@ -3722,7 +4186,9 @@
     "example_en": "Luckily, the glasses are still intact!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0225",
@@ -3739,7 +4205,9 @@
     "example_en": "Dear Ladies and Gentlemen!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0226",
@@ -3755,7 +4223,11 @@
     "example_en": "You must not cross the street when the light is red. It is dangerous.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "sicher",
+    "accepted_antonyms": [
+      "sicher"
+    ]
   },
   {
     "id": "a2_0227",
@@ -3771,7 +4243,11 @@
     "example_en": "I had a flu. Now I am well again.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "krank",
+    "accepted_antonyms": [
+      "krank"
+    ]
   },
   {
     "id": "a2_0228",
@@ -3787,7 +4263,9 @@
     "example_en": "The pass is no longer valid.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0229",
@@ -3803,7 +4281,11 @@
     "example_en": "I find the bed too hard.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "weich",
+    "accepted_antonyms": [
+      "weich"
+    ]
   },
   {
     "id": "a2_0230",
@@ -3819,7 +4301,11 @@
     "example_en": "Caution, the tea is hot!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "kalt",
+    "accepted_antonyms": [
+      "kalt"
+    ]
   },
   {
     "id": "a2_0231",
@@ -3836,7 +4322,9 @@
     "example_en": "In our company we produce furniture.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0232",
@@ -3852,7 +4340,9 @@
     "example_en": "He downloads the music from the Internet.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0233",
@@ -3868,7 +4358,9 @@
     "example_en": "I hope that you are alright.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0234",
@@ -3884,7 +4376,9 @@
     "example_en": "She has been coughing for two days. She is sick.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0235",
@@ -3900,7 +4394,9 @@
     "example_en": "Why haven't you hung the picture on the wall yet?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0236",
@@ -3916,7 +4412,11 @@
     "example_en": "I find the dress ugly. I do not like it.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "schön",
+    "accepted_antonyms": [
+      "schön"
+    ]
   },
   {
     "id": "a2_0237",
@@ -3932,7 +4432,9 @@
     "example_en": "Einstein was very intelligent.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0238",
@@ -3948,7 +4450,11 @@
     "example_en": "I find the article about Brazil very interesting.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "langweilig",
+    "accepted_antonyms": [
+      "langweilig"
+    ]
   },
   {
     "id": "a2_0239",
@@ -3964,7 +4470,9 @@
     "example_en": "I like to jog in the park.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0240",
@@ -3980,7 +4488,12 @@
     "example_en": "Today it is very cold.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "heiß",
+    "accepted_antonyms": [
+      "heiß",
+      "warm"
+    ]
   },
   {
     "id": "a2_0241",
@@ -3998,7 +4511,9 @@
     "example_en": "Can we meet at noon today? - Yes, that works.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0242",
@@ -4015,7 +4530,11 @@
     "example_en": "Molly is a clever girl.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "dumm",
+    "accepted_antonyms": [
+      "dumm"
+    ]
   },
   {
     "id": "a2_0243",
@@ -4032,7 +4551,9 @@
     "example_en": "The movie was very funny. We laughed a lot.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0244",
@@ -4050,7 +4571,9 @@
     "example_en": "Can you check the oil in my car?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0245",
@@ -4067,7 +4590,9 @@
     "example_en": "This magazine costs nothing. It is free.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0246",
@@ -4083,7 +4608,9 @@
     "example_en": "It's cool outside. Put on a jacket.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0247",
@@ -4101,7 +4628,9 @@
     "example_en": "I do not like my work anymore. I quit today.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0248",
@@ -4117,7 +4646,11 @@
     "example_en": "I'm bored.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "interessant",
+    "accepted_antonyms": [
+      "interessant"
+    ]
   },
   {
     "id": "a2_0249",
@@ -4134,7 +4667,9 @@
     "example_en": "Leave me alone!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0250",
@@ -4150,7 +4685,11 @@
     "example_en": "The pot is almost empty. I make new tea.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "voll",
+    "accepted_antonyms": [
+      "voll"
+    ]
   },
   {
     "id": "a2_0251",
@@ -4166,7 +4705,9 @@
     "example_en": "I'm sorry I cannot come.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0252",
@@ -4183,7 +4724,9 @@
     "example_en": "Can you lend me five euros?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0253",
@@ -4199,7 +4742,9 @@
     "example_en": "We will deliver the wardrobe to your home.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0254",
@@ -4216,7 +4761,9 @@
     "example_en": "She is wearing a purple blouse.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0255",
@@ -4232,7 +4779,9 @@
     "example_en": "He has Luxembourgish citizenship.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0256",
@@ -4249,7 +4798,9 @@
     "example_en": "You should not lie.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0257",
@@ -4266,7 +4817,9 @@
     "example_en": "What do you mean? Please explain that more precisely!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0258",
@@ -4283,7 +4836,9 @@
     "example_en": "I cannot remember any numbers. I'll forget them right away.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0259",
@@ -4299,7 +4854,9 @@
     "example_en": "Why don't you join in?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0260",
@@ -4315,7 +4872,11 @@
     "example_en": "The city center of Frankfurt is very modern.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "alt",
+    "accepted_antonyms": [
+      "alt"
+    ]
   },
   {
     "id": "a2_0261",
@@ -4331,7 +4892,9 @@
     "example_en": "Do not go to the living room with the wet shoes!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0262",
@@ -4348,7 +4911,9 @@
     "example_en": "Of course we will help you.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0263",
@@ -4364,7 +4929,9 @@
     "example_en": "Drive carefully! It is foggy.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0264",
@@ -4382,7 +4949,9 @@
     "example_en": "My friend is called Alexander, but everyone calls him Alex.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0265",
@@ -4398,7 +4967,9 @@
     "example_en": "I am always very nervous when it comes to examinations.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0266",
@@ -4415,7 +4986,9 @@
     "example_en": "I have many nice colleagues.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0267",
@@ -4433,7 +5006,9 @@
     "example_en": "Please write down all important information.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0268",
@@ -4449,7 +5024,9 @@
     "example_en": "Do I have to come again? - No, it is not necessary.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0269",
@@ -4465,7 +5042,9 @@
     "example_en": "Thanks for the tip. It was very useful.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0270",
@@ -4481,7 +5060,9 @@
     "example_en": "Is the window still open in the bathroom?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0271",
@@ -4498,7 +5079,9 @@
     "example_en": "When are you online again?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0272",
@@ -4514,7 +5097,9 @@
     "example_en": "The sweater is orange.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0273",
@@ -4530,7 +5115,9 @@
     "example_en": "Mrs. Gomez is organizing our trip.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0274",
@@ -4546,7 +5133,9 @@
     "example_en": "I have to pack my suitcase.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0275",
@@ -4562,7 +5151,9 @@
     "example_en": "May I park here?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0276",
@@ -4579,7 +5170,9 @@
     "example_en": "The blouse doesn't suit me.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0277",
@@ -4595,7 +5188,9 @@
     "example_en": "What happened?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0278",
@@ -4611,7 +5206,9 @@
     "example_en": "We should plan a class party together.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0279",
@@ -4628,7 +5225,9 @@
     "example_en": "I find that very practical.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0280",
@@ -4645,7 +5244,9 @@
     "example_en": "The jacket is very cheap. It costs only 15 euros.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0281",
@@ -4661,7 +5262,9 @@
     "example_en": "This is my personal cell phone number.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0282",
@@ -4678,7 +5281,9 @@
     "example_en": "Please check the invoice immediately.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0283",
@@ -4694,7 +5299,9 @@
     "example_en": "I have to clean the bathroom today.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0284",
@@ -4711,7 +5318,9 @@
     "example_en": "I do not know which cell phone I should buy. What do you advise me?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0285",
@@ -4728,7 +5337,9 @@
     "example_en": "Sarah is good at arithmetic.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0286",
@@ -4744,7 +5355,9 @@
     "example_en": "You are not right.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0287",
@@ -4761,7 +5374,9 @@
     "example_en": "I can talk about everything with my girlfriend.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0288",
@@ -4778,7 +5393,9 @@
     "example_en": "Lotte is rich. She has a lot of money.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0289",
@@ -4795,7 +5412,9 @@
     "example_en": "Would you like to learn to ride a horse?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0290",
@@ -4811,7 +5430,9 @@
     "example_en": "We are renovating the whole house.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0291",
@@ -4827,7 +5448,9 @@
     "example_en": "Please reserve a double room.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0292",
@@ -4843,7 +5466,9 @@
     "example_en": "This movie is very romantic.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0293",
@@ -4859,7 +5484,9 @@
     "example_en": "The T-shirt is pink.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0294",
@@ -4875,7 +5502,9 @@
     "example_en": "Will you please call the children? The food is ready.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0295",
@@ -4892,7 +5521,9 @@
     "example_en": "Our living room table is round.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0296",
@@ -4909,7 +5540,9 @@
     "example_en": "Peter collects stamps.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0297",
@@ -4925,7 +5558,11 @@
     "example_en": "Please bring me a clean glass!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "schmutzig",
+    "accepted_antonyms": [
+      "schmutzig"
+    ]
   },
   {
     "id": "a2_0298",
@@ -4944,7 +5581,9 @@
     "example_en": "Too bad you cannot come.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0299",
@@ -4961,7 +5600,9 @@
     "example_en": "Can you please help me? I cannot manage it alone.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0300",
@@ -4978,7 +5619,9 @@
     "example_en": "What do we give Michael for his birthday?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0301",
@@ -4996,7 +5639,9 @@
     "example_en": "Why are you complaining so loudly?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0302",
@@ -5015,7 +5660,9 @@
     "example_en": "No problem, this is not so bad.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0303",
@@ -5031,7 +5678,11 @@
     "example_en": "The towel is dirty.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "sauber",
+    "accepted_antonyms": [
+      "sauber"
+    ]
   },
   {
     "id": "a2_0304",
@@ -5047,7 +5698,9 @@
     "example_en": "Tomorrow it snows.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0305",
@@ -5065,7 +5718,9 @@
     "example_en": "I think her skirt is awful. It looks terrible!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0306",
@@ -5081,7 +5736,11 @@
     "example_en": "He is sick and weak.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "stark",
+    "accepted_antonyms": [
+      "stark"
+    ]
   },
   {
     "id": "a2_0307",
@@ -5097,7 +5756,9 @@
     "example_en": "Lena is pregnant. She is having a baby in July.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0308",
@@ -5113,7 +5774,9 @@
     "example_en": "That is a Swiss company.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0309",
@@ -5129,7 +5792,9 @@
     "example_en": "The test was not difficult.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0310",
@@ -5145,7 +5810,9 @@
     "example_en": "Smoking is harmful to health.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0311",
@@ -5162,7 +5829,9 @@
     "example_en": "Rest first, you're tired.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0312",
@@ -5179,7 +5848,9 @@
     "example_en": "I would like to thank you again very much for your help.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0313",
@@ -5195,7 +5866,9 @@
     "example_en": "Can you please hurry? The bus leaves immediately!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0314",
@@ -5211,7 +5884,9 @@
     "example_en": "Here it is too loud, where can we complain?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0315",
@@ -5228,7 +5903,9 @@
     "example_en": "I would like to apply for this position.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0316",
@@ -5246,7 +5923,9 @@
     "example_en": "Please add your name to this list!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0317",
@@ -5264,7 +5943,9 @@
     "example_en": "Do you remember José? - No, I do not remember him, I'm sorry.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0318",
@@ -5280,7 +5961,9 @@
     "example_en": "How do you feel?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0319",
@@ -5297,7 +5980,9 @@
     "example_en": "I am interested in football.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0320",
@@ -5314,7 +5999,9 @@
     "example_en": "Take a seat!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0321",
@@ -5332,7 +6019,9 @@
     "example_en": "The children often argue.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0322",
@@ -5350,7 +6039,9 @@
     "example_en": "Andreas and Nessrin are talking.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0323",
@@ -5368,7 +6059,9 @@
     "example_en": "Are you hurt? - Yes, on the leg.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0324",
@@ -5384,7 +6077,9 @@
     "example_en": "I am totally in love.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0325",
@@ -5402,7 +6097,9 @@
     "example_en": "Why are you angry? - I'm annoyed because the weather is bad.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0326",
@@ -5419,7 +6116,9 @@
     "example_en": "I would like to know about the country before the trip.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0327",
@@ -5437,7 +6136,11 @@
     "example_en": "This car is especially safe.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "gefährlich",
+    "accepted_antonyms": [
+      "gefährlich"
+    ]
   },
   {
     "id": "a2_0328",
@@ -5453,7 +6156,9 @@
     "example_en": "He likes to sing.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0329",
@@ -5469,7 +6174,9 @@
     "example_en": "Tomorrow the weather is warm and sunny again.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0330",
@@ -5486,7 +6193,9 @@
     "example_en": "I find the movie very exciting.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0331",
@@ -5502,7 +6211,9 @@
     "example_en": "A new car is very expensive. I need to save money.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0332",
@@ -5518,7 +6229,9 @@
     "example_en": "We always go for a walk on Sundays.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0333",
@@ -5534,7 +6247,9 @@
     "example_en": "You must save the file.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0334",
@@ -5551,7 +6266,9 @@
     "example_en": "Tom is very athletic.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0335",
@@ -5567,7 +6284,11 @@
     "example_en": "I have a severe headache.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "schwach",
+    "accepted_antonyms": [
+      "schwach"
+    ]
   },
   {
     "id": "a2_0336",
@@ -5584,7 +6305,9 @@
     "example_en": "The game also takes place in the rain.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0337",
@@ -5600,7 +6323,9 @@
     "example_en": "Mr. Müller doesn't come today. His father died yesterday.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0338",
@@ -5617,7 +6342,9 @@
     "example_en": "My daughter's teacher is very strict.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0339",
@@ -5633,7 +6360,9 @@
     "example_en": "My work is stressful.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0340",
@@ -5650,7 +6379,9 @@
     "example_en": "Am I disturbing you?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0341",
@@ -5667,7 +6398,9 @@
     "example_en": "He can dance really well.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0342",
@@ -5683,7 +6416,9 @@
     "example_en": "I would like to learn how to surf.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0343",
@@ -5701,7 +6436,9 @@
     "example_en": "The new boss is very likeable.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0344",
@@ -5719,7 +6456,9 @@
     "example_en": "Can we change seats?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0345",
@@ -5736,7 +6475,9 @@
     "example_en": "Shall we share the pizza?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0346",
@@ -5753,7 +6494,9 @@
     "example_en": "I would like to participate in the dance course.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0347",
@@ -5769,7 +6512,9 @@
     "example_en": "Caution, the water is deep!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0348",
@@ -5786,7 +6531,9 @@
     "example_en": "The holiday was great.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0349",
@@ -5803,7 +6550,9 @@
     "example_en": "I cannot carry the suitcase, it is too heavy.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0350",
@@ -5821,7 +6570,9 @@
     "example_en": "We train once a week in the sports club.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0351",
@@ -5837,7 +6588,12 @@
     "example_en": "I am very sad. My cat has run away.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "glücklich",
+    "accepted_antonyms": [
+      "glücklich",
+      "lustig"
+    ]
   },
   {
     "id": "a2_0352",
@@ -5853,7 +6609,9 @@
     "example_en": "The laundry will be dry soon.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0353",
@@ -5869,7 +6627,9 @@
     "example_en": "I had a bad dream.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0354",
@@ -5885,7 +6645,9 @@
     "example_en": "This music is typical of this country.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0355",
@@ -5903,7 +6665,9 @@
     "example_en": "You must change trains in Mannheim.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0356",
@@ -5920,7 +6684,9 @@
     "example_en": "Do we want to do something tonight?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0357",
@@ -5937,7 +6703,9 @@
     "example_en": "The doctor has examined me.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0358",
@@ -5954,7 +6722,9 @@
     "example_en": "Please wait for me. I'm on the road and I'll be right there.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0359",
@@ -5971,7 +6741,9 @@
     "example_en": "I have plans with my girlfriend.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0360",
@@ -5989,7 +6761,9 @@
     "example_en": "I forbid you to smoke. - I do not care, you're not my mother.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0361",
@@ -6006,7 +6780,9 @@
     "example_en": "Smoking is prohibited.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0362",
@@ -6023,7 +6799,9 @@
     "example_en": "Can we make an appointment?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0363",
@@ -6039,7 +6817,9 @@
     "example_en": "I forgot my homework.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0364",
@@ -6055,7 +6835,9 @@
     "example_en": "Compare the offers!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0365",
@@ -6071,7 +6853,11 @@
     "example_en": "I have lost my key.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "gewinnen",
+    "accepted_antonyms": [
+      "gewinnen"
+    ]
   },
   {
     "id": "a2_0366",
@@ -6087,7 +6873,9 @@
     "example_en": "I missed the train.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0367",
@@ -6104,7 +6892,9 @@
     "example_en": "Are you traveling on vacation?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0368",
@@ -6122,7 +6912,9 @@
     "example_en": "Unfortunately I have to reschedule the appointment.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0369",
@@ -6139,7 +6931,9 @@
     "example_en": "Our two children are very different.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0370",
@@ -6156,7 +6950,9 @@
     "example_en": "Can I try it once?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0371",
@@ -6172,7 +6968,11 @@
     "example_en": "In the morning and in the evening the trains are always very crowded.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "leer",
+    "accepted_antonyms": [
+      "leer"
+    ]
   },
   {
     "id": "a2_0372",
@@ -6188,7 +6988,9 @@
     "example_en": "Tomorrow I'll have a party. I still have to prepare a lot for it.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0373",
@@ -6205,7 +7007,9 @@
     "example_en": "Be careful!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0374",
@@ -6221,7 +7025,9 @@
     "example_en": "Have you been awake for a long time?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0375",
@@ -6237,7 +7043,9 @@
     "example_en": "This is true!",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0376",
@@ -6253,7 +7061,11 @@
     "example_en": "It is very warm in here.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "kalt",
+    "accepted_antonyms": [
+      "kalt"
+    ]
   },
   {
     "id": "a2_0377",
@@ -6271,7 +7083,9 @@
     "example_en": "We have to change the tire.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0378",
@@ -6288,7 +7102,9 @@
     "example_en": "Please wake me up at five in the morning.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0379",
@@ -6306,7 +7122,9 @@
     "example_en": "Will you throw away the garbage, please?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0380",
@@ -6322,7 +7140,9 @@
     "example_en": "Can you drive your car away?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0381",
@@ -6339,7 +7159,9 @@
     "example_en": "I'm leaving now.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0382",
@@ -6355,7 +7177,9 @@
     "example_en": "Our dog ran away.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0383",
@@ -6372,7 +7196,9 @@
     "example_en": "Can you remove this?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0384",
@@ -6388,7 +7214,9 @@
     "example_en": "Why did you take the ball away from the child?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0385",
@@ -6405,7 +7233,9 @@
     "example_en": "You can discard these papers.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0386",
@@ -6421,7 +7251,11 @@
     "example_en": "I would like to have a soft egg for breakfast.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "hart",
+    "accepted_antonyms": [
+      "hart"
+    ]
   },
   {
     "id": "a2_0387",
@@ -6437,7 +7271,11 @@
     "example_en": "Why does the baby cry?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "lachen",
+    "accepted_antonyms": [
+      "lachen"
+    ]
   },
   {
     "id": "a2_0388",
@@ -6454,7 +7292,9 @@
     "example_en": "Excuse me, can you please help me?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0389",
@@ -6472,7 +7312,9 @@
     "example_en": "Can we continue?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0390",
@@ -6488,7 +7330,9 @@
     "example_en": "Today it is very windy.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0391",
@@ -6504,7 +7348,9 @@
     "example_en": "Why are you laughing? I do not think this is funny.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0392",
@@ -6522,7 +7368,9 @@
     "example_en": "You must dial zero first.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0393",
@@ -6540,7 +7388,9 @@
     "example_en": "I want a camera for my birthday.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0394",
@@ -6556,7 +7406,9 @@
     "example_en": "Caterina can draw well. Look at the picture here.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0395",
@@ -6573,7 +7425,9 @@
     "example_en": "Can you please show me the way to the station?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0396",
@@ -6589,7 +7443,9 @@
     "example_en": "Listen to me! I'm talking to you.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0397",
@@ -6606,7 +7462,11 @@
     "example_en": "Will you please close the window?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "aufmachen",
+    "accepted_antonyms": [
+      "aufmachen"
+    ]
   },
   {
     "id": "a2_0398",
@@ -6622,7 +7482,9 @@
     "example_en": "Are you going back home after the party?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0399",
@@ -6640,7 +7502,9 @@
     "example_en": "When do I have to return the book?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0400",
@@ -6656,7 +7520,9 @@
     "example_en": "We go back again.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0401",
@@ -6673,7 +7539,9 @@
     "example_en": "When are you coming back?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0402",
@@ -6689,7 +7557,9 @@
     "example_en": "I'm quickly running back home.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0403",
@@ -6705,7 +7575,9 @@
     "example_en": "How can I change my password?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0404",
@@ -6721,7 +7593,9 @@
     "example_en": "That is an Austrian specialty.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0405",
@@ -6737,7 +7611,9 @@
     "example_en": "I'm just learning to play guitar. I practice two hours every day.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0406",
@@ -6753,7 +7629,9 @@
     "example_en": "Can you please translate the letter for me?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0407",
@@ -6770,7 +7648,9 @@
     "example_en": "I can't decide.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0408",
@@ -6786,7 +7666,11 @@
     "example_en": "I wake up at seven o'clock every morning.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": "schlafen",
+    "accepted_antonyms": [
+      "schlafen"
+    ]
   },
   {
     "id": "a2_0409",
@@ -6802,7 +7686,9 @@
     "example_en": "The child can't fall asleep.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0410",
@@ -6819,7 +7705,9 @@
     "example_en": "What do you have planned for the weekend?",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0411",
@@ -6836,7 +7724,9 @@
     "example_en": "I have to think about it.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0412",
@@ -6852,7 +7742,9 @@
     "example_en": "Unfortunately I have to cancel the appointment.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0413",
@@ -6869,7 +7761,9 @@
     "example_en": "You need to exercise more.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0414",
@@ -6887,7 +7781,9 @@
     "example_en": "The apartment is very cozy.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0415",
@@ -6905,7 +7801,9 @@
     "example_en": "The movie was quite good.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0416",
@@ -6923,7 +7821,9 @@
     "example_en": "The work is very exhausting.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0417",
@@ -6939,7 +7839,9 @@
     "example_en": "Please be patient, it will take a few more minutes.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   },
   {
     "id": "a2_0418",
@@ -6955,6 +7857,8 @@
     "example_en": "I am proud of you.",
     "topic": "common_actions_descriptions",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
+    "antonym": null,
+    "accepted_antonyms": null
   }
 ]

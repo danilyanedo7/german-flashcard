@@ -99,9 +99,32 @@ export function validateDataset(rawDataset) {
   return { entries, errors };
 }
 
+export function filterAntonymEntries(entries) {
+  if (!Array.isArray(entries)) return [];
+  return entries.filter(
+    (entry) =>
+      entry &&
+      ((typeof entry.antonym === "string" && entry.antonym.trim().length > 0) ||
+        (Array.isArray(entry.accepted_antonyms) && entry.accepted_antonyms.length > 0))
+  );
+}
+
 export function answerMatches(entry, answer) {
   if (!entry || typeof answer !== "string" || !normalizeAnswer(answer)) return false;
   const accepted = Array.isArray(entry.accepted_answers) ? entry.accepted_answers : [entry.english];
+  const normalized = normalizeAnswer(answer);
+  return accepted.some((candidate) => normalizeAnswer(candidate) === normalized);
+}
+
+export function antonymMatches(entry, answer) {
+  if (!entry || typeof answer !== "string" || !normalizeAnswer(answer)) return false;
+  let accepted = [];
+  if (Array.isArray(entry.accepted_antonyms) && entry.accepted_antonyms.length > 0) {
+    accepted = entry.accepted_antonyms;
+  } else if (typeof entry.antonym === "string" && entry.antonym.trim().length > 0) {
+    accepted = [entry.antonym];
+  }
+  if (!accepted.length) return false;
   const normalized = normalizeAnswer(answer);
   return accepted.some((candidate) => normalizeAnswer(candidate) === normalized);
 }
@@ -215,12 +238,27 @@ export function weightedPick(entries, history, randomFn) {
   return entries[entries.length - 1];
 }
 
-export function createSession(entries, { mode = "finite", totalQuestions = 20, level = "A1", history = {} } = {}) {
+export function createSession(
+  entries,
+  {
+    mode = "finite",
+    totalQuestions = 20,
+    level = "A1",
+    history = {},
+    questionType = "translate",
+  } = {}
+) {
+  const sessionEntries =
+    questionType === "antonym"
+      ? filterAntonymEntries(entries)
+      : entries.slice();
+
   return {
-    entries: entries.slice(),
+    entries: sessionEntries,
     mode,
     totalQuestions: mode === "endless" ? null : totalQuestions,
     level,
+    questionType: questionType === "antonym" ? "antonym" : "translate",
     questionNumber: 0,
     answered: 0,
     correctCount: 0,
@@ -232,6 +270,7 @@ export function createSession(entries, { mode = "finite", totalQuestions = 20, l
     answerRecords: [],
     currentEntry: null,
     currentChecked: false,
+    retryPending: false,
     history,
   };
 }
@@ -257,6 +296,7 @@ export function selectNextEntry(session, randomFn = createCryptoRandom(), histor
   session.shownIds.add(entry.id);
   session.currentEntry = entry;
   session.currentChecked = false;
+  session.retryPending = false;
   session.questionNumber += 1;
   return entry;
 }
@@ -266,8 +306,13 @@ export function submitAnswer(session, answer, timestamp = Date.now()) {
   if (session.currentChecked) return { status: "already_checked" };
   if (!normalizeAnswer(answer)) return { status: "empty" };
 
-  const isCorrect = answerMatches(session.currentEntry, answer);
+  const isAntonymMode = session.questionType === "antonym";
+  const isCorrect = isAntonymMode
+    ? antonymMatches(session.currentEntry, answer)
+    : answerMatches(session.currentEntry, answer);
+
   session.currentChecked = true;
+  session.retryPending = !isCorrect;
   session.answered += 1;
   if (isCorrect) {
     session.correctCount += 1;
@@ -283,11 +328,34 @@ export function submitAnswer(session, answer, timestamp = Date.now()) {
     entryId: session.currentEntry.id,
     answer: answer.trim(),
     isCorrect,
+    questionType: session.questionType,
   });
   return {
     status: isCorrect ? "correct" : "incorrect",
     isCorrect,
     entry: session.currentEntry,
+    questionType: session.questionType,
+  };
+}
+
+export function submitRetry(session, answer) {
+  if (!session || !session.currentEntry) return { status: "no_card" };
+  if (!session.currentChecked || !session.retryPending) return { status: "not_pending" };
+  if (!normalizeAnswer(answer)) return { status: "empty" };
+
+  const isAntonymMode = session.questionType === "antonym";
+  const isCorrect = isAntonymMode
+    ? antonymMatches(session.currentEntry, answer)
+    : answerMatches(session.currentEntry, answer);
+
+  if (isCorrect) {
+    session.retryPending = false;
+  }
+  return {
+    status: isCorrect ? "retry_correct" : "retry_incorrect",
+    isCorrect,
+    entry: session.currentEntry,
+    questionType: session.questionType,
   };
 }
 

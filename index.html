@@ -54,7 +54,22 @@
           <p id="selected-level-count" class="muted-note">Loading cards…</p>
         </div>
         <form id="session-form" class="surface session-form">
-          <fieldset>
+          <fieldset class="session-fieldset">
+            <legend>What would you like to practice?</legend>
+            <div class="mode-options">
+              <label class="mode-option mode-option--selected">
+                <input id="mode-translate" type="radio" name="practice-mode" value="translate" checked>
+                <span class="mode-option__title">Translate</span>
+                <span class="mode-option__desc">German → English</span>
+              </label>
+              <label class="mode-option">
+                <input id="mode-antonym" type="radio" name="practice-mode" value="antonym">
+                <span class="mode-option__title">Antonyms (Gegenteile)</span>
+                <span class="mode-option__desc">Find the opposite German word</span>
+              </label>
+            </div>
+          </fieldset>
+          <fieldset class="session-fieldset">
             <legend>How many questions?</legend>
             <div class="session-options">
               <label class="session-option session-option--selected">
@@ -98,12 +113,12 @@
 
         <article class="surface game-card">
           <div class="word-stage">
-            <p class="eyebrow">Translate this word</p>
+            <p id="game-prompt" class="eyebrow">Translate this word</p>
             <h1 id="game-title" class="german-word"><span id="german-word">der Apfel</span></h1>
           </div>
 
           <form id="answer-form" class="answer-form" novalidate>
-            <label for="answer-input">English translation</label>
+            <label id="answer-label" for="answer-input">English translation</label>
             <div class="answer-form__row">
               <input id="answer-input" name="answer" type="text" autocomplete="off" autocapitalize="none" spellcheck="false" aria-describedby="feedback-answer">
               <button id="answer-action" class="button button--primary" type="submit">Check</button>
