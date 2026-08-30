@@ -312,6 +312,7 @@ export function submitAnswer(session, answer, timestamp = Date.now()) {
     : answerMatches(session.currentEntry, answer);
 
   session.currentChecked = true;
+  session.retryPending = !isCorrect;
   session.retryPending = isAntonymMode && !isCorrect;
   session.answered += 1;
   if (isCorrect) {

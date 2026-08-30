@@ -1,6 +1,6 @@
 [
   {
-    "id": "a2_0572",
+    "id": "a2_0537",
     "german": "das Erdgeschoss",
     "word_type": "noun",
     "gender": "neuter",
@@ -13,12 +13,10 @@
     "example_en": "I live on the ground floor.",
     "topic": "home",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0573",
+    "id": "a2_0538",
     "german": "das Fenster",
     "word_type": "noun",
     "gender": "neuter",
@@ -31,12 +29,10 @@
     "example_en": "Can you please open the window?",
     "topic": "home",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0574",
+    "id": "a2_0539",
     "german": "das Geschirr",
     "word_type": "noun",
     "gender": "neuter",
@@ -47,15 +43,13 @@
       "crockery"
     ],
     "example_de": "Stellst du bitte das Geschirr in den Schrank?",
-    "example_en": "Could you please put the dishes in the cupboard?",
+    "example_en": "Do you put the dishes in the cupboard?",
     "topic": "home",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0575",
+    "id": "a2_0540",
     "german": "das Schlafzimmer",
     "word_type": "noun",
     "gender": "neuter",
@@ -68,12 +62,10 @@
     "example_en": "Here is the bedroom.",
     "topic": "home",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0576",
+    "id": "a2_0541",
     "german": "das Wohnzimmer",
     "word_type": "noun",
     "gender": "neuter",
@@ -86,12 +78,10 @@
     "example_en": "The children sit in the living room and watch TV.",
     "topic": "home",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0577",
+    "id": "a2_0542",
     "german": "der Haushalt",
     "word_type": "noun",
     "gender": "masculine",
@@ -104,12 +94,10 @@
     "example_en": "My wife and I share the housework.",
     "topic": "home",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0578",
+    "id": "a2_0543",
     "german": "der Keller",
     "word_type": "noun",
     "gender": "masculine",
@@ -123,12 +111,10 @@
     "example_en": "Please bring the potatoes to the cellar!",
     "topic": "home",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0579",
+    "id": "a2_0544",
     "german": "der Müll",
     "word_type": "noun",
     "gender": "masculine",
@@ -143,12 +129,10 @@
     "example_en": "Will you bring the garbage out?",
     "topic": "home",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0580",
+    "id": "a2_0545",
     "german": "die Garage",
     "word_type": "noun",
     "gender": "feminine",
@@ -161,12 +145,10 @@
     "example_en": "Here is a garage for your car.",
     "topic": "home",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0581",
+    "id": "a2_0546",
     "german": "die Heizung",
     "word_type": "noun",
     "gender": "feminine",
@@ -180,12 +162,10 @@
     "example_en": "It is cold. Is the heater broken?",
     "topic": "home",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0582",
+    "id": "a2_0547",
     "german": "die Lampe",
     "word_type": "noun",
     "gender": "feminine",
@@ -198,12 +178,10 @@
     "example_en": "Please turn on the lamp. It is so dark.",
     "topic": "home",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0583",
+    "id": "a2_0548",
     "german": "die Vermieterin",
     "word_type": "noun",
     "gender": "feminine",
@@ -216,82 +194,6 @@
     "example_en": "Our landlady is already very old.",
     "topic": "home",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0584",
-    "german": "die Waschmaschine",
-    "word_type": "noun",
-    "gender": "feminine",
-    "plural": "die Waschmaschinen",
-    "english": "washing machine",
-    "accepted_answers": [
-      "washing machine"
-    ],
-    "example_de": "Die Waschmaschine ist kaputt.",
-    "example_en": "The washing machine is broken.",
-    "topic": "home",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0585",
-    "german": "der Spiegel",
-    "word_type": "noun",
-    "gender": "masculine",
-    "plural": "die Spiegel",
-    "english": "mirror",
-    "accepted_answers": [
-      "mirror"
-    ],
-    "example_de": "Der Spiegel hängt im Bad.",
-    "example_en": "The mirror hangs in the bathroom.",
-    "topic": "home",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0586",
-    "german": "der Teppich",
-    "word_type": "noun",
-    "gender": "masculine",
-    "plural": "die Teppiche",
-    "english": "carpet",
-    "accepted_answers": [
-      "carpet",
-      "rug"
-    ],
-    "example_de": "Der Teppich im Wohnzimmer ist neu.",
-    "example_en": "The carpet in the living room is new.",
-    "topic": "home",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0587",
-    "german": "der Flur",
-    "word_type": "noun",
-    "gender": "masculine",
-    "plural": "die Flure",
-    "english": "hallway",
-    "accepted_answers": [
-      "hallway",
-      "corridor"
-    ],
-    "example_de": "Die Jacken hängen im Flur.",
-    "example_en": "The jackets are hanging in the hallway.",
-    "topic": "home",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": "a2_0419",
+    "id": "a2_0435",
     "german": "als",
     "word_type": "conjunction",
     "gender": null,
@@ -14,12 +14,10 @@
     "example_en": "Hector is younger than his sister.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0420",
+    "id": "a2_0436",
     "german": "anders",
     "word_type": "adverb",
     "gender": null,
@@ -31,15 +29,13 @@
       "different"
     ],
     "example_de": "Anders geht das leider nicht.",
-    "example_en": "Unfortunately it can't be done any other way.",
+    "example_en": "It doesn't go otherwise.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0421",
+    "id": "a2_0437",
     "german": "auf Deutsch",
     "word_type": "phrase",
     "gender": null,
@@ -52,12 +48,10 @@
     "example_en": "Can you please say that in German?",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0422",
+    "id": "a2_0438",
     "german": "auf jeden Fall",
     "word_type": "phrase",
     "gender": null,
@@ -70,33 +64,26 @@
     "example_en": "I definitely want to see the new James Bond movie.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0423",
+    "id": "a2_0439",
     "german": "auf keinen Fall",
     "word_type": "phrase",
     "gender": null,
     "plural": null,
     "english": "no way",
     "accepted_answers": [
-      "no way",
-      "by no means",
-      "definitely not",
-      "under no circumstances"
+      "no way"
     ],
     "example_de": "Ich sehe den Film auf keinen Fall an!",
     "example_en": "I definitely will not watch the movie!",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0424",
+    "id": "a2_0440",
     "german": "außer",
     "word_type": "preposition",
     "gender": null,
@@ -111,12 +98,10 @@
     "example_en": "Apart from Lisa, nobody wants to see the movie.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0425",
+    "id": "a2_0441",
     "german": "außerdem",
     "word_type": "adverb",
     "gender": null,
@@ -124,18 +109,17 @@
     "english": "besides",
     "accepted_answers": [
       "besides",
-      "in addition"
+      "in addition",
+      "beside"
     ],
     "example_de": "Vier Brötchen, möchten Sie außerdem noch etwas?",
     "example_en": "Four rolls, would you like something else?",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0426",
+    "id": "a2_0442",
     "german": "außerhalb",
     "word_type": "preposition",
     "gender": null,
@@ -149,12 +133,10 @@
     "example_en": "The apartment is not in the city, it is a little outside.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0427",
+    "id": "a2_0443",
     "german": "d. h.",
     "word_type": "abbreviation",
     "gender": null,
@@ -168,12 +150,10 @@
     "example_en": "The course is free; that is, you do not have to pay anything.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0428",
+    "id": "a2_0444",
     "german": "darauf",
     "word_type": "adverb",
     "gender": null,
@@ -188,12 +168,10 @@
     "example_en": "I cannot think of an answer to that.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0429",
+    "id": "a2_0445",
     "german": "darüber",
     "word_type": "adverb",
     "gender": null,
@@ -206,12 +184,10 @@
     "example_en": "I do not like to talk about that.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0430",
+    "id": "a2_0446",
     "german": "dass",
     "word_type": "conjunction",
     "gender": null,
@@ -224,12 +200,10 @@
     "example_en": "Rico said he was going to the party.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0431",
+    "id": "a2_0447",
     "german": "deshalb",
     "word_type": "adverb",
     "gender": null,
@@ -243,12 +217,10 @@
     "example_en": "I'm sick. That's why I'm not coming to the office today.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0432",
+    "id": "a2_0448",
     "german": "deutlich",
     "word_type": "adverb",
     "gender": null,
@@ -263,12 +235,10 @@
     "example_en": "Please speak clearly!",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0433",
+    "id": "a2_0449",
     "german": "direkt",
     "word_type": "adverb",
     "gender": null,
@@ -282,12 +252,10 @@
     "example_en": "We live right above the café.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0434",
+    "id": "a2_0450",
     "german": "doch",
     "word_type": "adverb",
     "gender": null,
@@ -303,12 +271,10 @@
     "example_en": "Aren't you hungry? - Yes, I am very hungry.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0435",
+    "id": "a2_0451",
     "german": "drinnen",
     "word_type": "adverb",
     "gender": null,
@@ -322,14 +288,10 @@
     "example_en": "Do you want to sit inside or outside?",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": "draußen",
-    "accepted_antonyms": [
-      "draußen"
-    ]
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0436",
+    "id": "a2_0452",
     "german": "drittens",
     "word_type": "adverb",
     "gender": null,
@@ -343,12 +305,10 @@
     "example_en": "Thirdly, I have time on Monday.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0437",
+    "id": "a2_0453",
     "german": "drüben",
     "word_type": "adverb",
     "gender": null,
@@ -361,32 +321,27 @@
     "example_en": "Over there is the stop.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0438",
+    "id": "a2_0454",
     "german": "egal",
     "word_type": "adverb",
     "gender": null,
     "plural": null,
-    "english": "all the same",
+    "english": "not matter",
     "accepted_answers": [
-      "all the same",
-      "no matter",
-      "it doesn't matter"
+      "not matter",
+      "all the same"
     ],
     "example_de": "Das ist mir egal.",
     "example_en": "I do not care.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0439",
+    "id": "a2_0455",
     "german": "eigentlich",
     "word_type": "adverb",
     "gender": null,
@@ -400,12 +355,10 @@
     "example_en": "We actually wanted to visit friends, but then we stayed at home.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0440",
+    "id": "a2_0456",
     "german": "ein paar",
     "word_type": "adverb",
     "gender": null,
@@ -419,12 +372,10 @@
     "example_en": "We are going to the seaside for a few days.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0441",
+    "id": "a2_0457",
     "german": "einige",
     "word_type": "pronoun",
     "gender": null,
@@ -438,12 +389,10 @@
     "example_en": "There are some errors in this text.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0442",
+    "id": "a2_0458",
     "german": "einzeln",
     "word_type": "adverb",
     "gender": null,
@@ -458,12 +407,10 @@
     "example_en": "Not all together. Can you please speak individually?",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0443",
+    "id": "a2_0459",
     "german": "endlich",
     "word_type": "adverb",
     "gender": null,
@@ -477,12 +424,10 @@
     "example_en": "When are you finally coming? The film starts immediately.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0444",
+    "id": "a2_0460",
     "german": "erst",
     "word_type": "adverb",
     "gender": null,
@@ -490,19 +435,16 @@
     "english": "only",
     "accepted_answers": [
       "only",
-      "first",
-      "not until"
+      "first"
     ],
     "example_de": "Wir können erst morgen kommen.",
     "example_en": "We cannot come until tomorrow.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0445",
+    "id": "a2_0461",
     "german": "erstens",
     "word_type": "adverb",
     "gender": null,
@@ -516,12 +458,10 @@
     "example_en": "Firstly, the course is inexpensive.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0446",
+    "id": "a2_0462",
     "german": "etwas",
     "word_type": "pronoun",
     "gender": null,
@@ -535,12 +475,10 @@
     "example_en": "I have to tell you something!",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0447",
+    "id": "a2_0463",
     "german": "fast",
     "word_type": "adverb",
     "gender": null,
@@ -554,12 +492,10 @@
     "example_en": "The film is nearly over.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0448",
+    "id": "a2_0464",
     "german": "früh",
     "word_type": "adverb",
     "gender": null,
@@ -569,17 +505,13 @@
       "early"
     ],
     "example_de": "Geht es auch später? Sechs Uhr ist mir zu früh.",
-    "example_en": "Can we make it later? Six o'clock is too early for me.",
+    "example_en": "Is it also later? Six o'clock is too early for me.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": "spät",
-    "accepted_antonyms": [
-      "spät"
-    ]
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0449",
+    "id": "a2_0465",
     "german": "gegenüber",
     "word_type": "preposition",
     "gender": null,
@@ -593,12 +525,10 @@
     "example_en": "The post office is opposite the train station.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0450",
+    "id": "a2_0466",
     "german": "genau",
     "word_type": "adverb",
     "gender": null,
@@ -614,12 +544,10 @@
     "example_en": "Are you sure the exam is on June 15? - Yes, I know exactly.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0451",
+    "id": "a2_0467",
     "german": "genug",
     "word_type": "adverb",
     "gender": null,
@@ -632,12 +560,10 @@
     "example_en": "There is still enough pizza. Would you like another piece?",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0452",
+    "id": "a2_0468",
     "german": "her",
     "word_type": "adverb",
     "gender": null,
@@ -651,14 +577,10 @@
     "example_en": "Please come here!",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": "hin",
-    "accepted_antonyms": [
-      "hin"
-    ]
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0453",
+    "id": "a2_0469",
     "german": "heraus",
     "word_type": "adverb",
     "gender": null,
@@ -668,17 +590,13 @@
       "out"
     ],
     "example_de": "Möchtet ihr nicht rauskommen? Das Wetter ist so schön.",
-    "example_en": "Don't you want to come outside?",
+    "example_en": "Don't you want to get out? The weather is so nice.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": "herein",
-    "accepted_antonyms": [
-      "herein"
-    ]
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0454",
+    "id": "a2_0470",
     "german": "herein",
     "word_type": "adverb",
     "gender": null,
@@ -692,14 +610,10 @@
     "example_en": "In! The door is open.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": "heraus",
-    "accepted_antonyms": [
-      "heraus"
-    ]
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0455",
+    "id": "a2_0471",
     "german": "hin",
     "word_type": "adverb",
     "gender": null,
@@ -713,14 +627,10 @@
     "example_en": "Where are you going?",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": "her",
-    "accepted_antonyms": [
-      "her"
-    ]
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0456",
+    "id": "a2_0472",
     "german": "hinaus",
     "word_type": "adverb",
     "gender": null,
@@ -734,14 +644,10 @@
     "example_en": "He goes out into the garden.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": "hinein",
-    "accepted_antonyms": [
-      "hinein"
-    ]
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0457",
+    "id": "a2_0473",
     "german": "hinein",
     "word_type": "adverb",
     "gender": null,
@@ -756,14 +662,10 @@
     "example_en": "We go into the house.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": "hinaus",
-    "accepted_antonyms": [
-      "hinaus"
-    ]
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0458",
+    "id": "a2_0474",
     "german": "hinter",
     "word_type": "preposition",
     "gender": null,
@@ -776,12 +678,10 @@
     "example_en": "Behind the house we have a garden.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0459",
+    "id": "a2_0475",
     "german": "hoffentlich",
     "word_type": "adverb",
     "gender": null,
@@ -794,12 +694,10 @@
     "example_en": "Hopefully our train will not be delayed.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0460",
+    "id": "a2_0476",
     "german": "jemand",
     "word_type": "pronoun",
     "gender": null,
@@ -813,12 +711,10 @@
     "example_en": "Does anyone have my pen?",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0461",
+    "id": "a2_0477",
     "german": "manche",
     "word_type": "pronoun",
     "gender": null,
@@ -831,12 +727,10 @@
     "example_en": "Some neighbors are unfriendly.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0462",
+    "id": "a2_0478",
     "german": "meistens",
     "word_type": "adverb",
     "gender": null,
@@ -850,12 +744,10 @@
     "example_en": "Most of the time, I only drink coffee for breakfast.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0463",
+    "id": "a2_0479",
     "german": "mindestens",
     "word_type": "adverb",
     "gender": null,
@@ -868,12 +760,10 @@
     "example_en": "Please arrive at the airport at least two hours before your flight.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0464",
+    "id": "a2_0480",
     "german": "neben",
     "word_type": "preposition",
     "gender": null,
@@ -887,12 +777,10 @@
     "example_en": "There is still a free seat next to me.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0465",
+    "id": "a2_0481",
     "german": "nebenan",
     "word_type": "adverb",
     "gender": null,
@@ -905,12 +793,10 @@
     "example_en": "This is José. He lives next door.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0466",
+    "id": "a2_0482",
     "german": "niemand",
     "word_type": "pronoun",
     "gender": null,
@@ -924,12 +810,10 @@
     "example_en": "Nobody is here.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0467",
+    "id": "a2_0483",
     "german": "nirgends",
     "word_type": "adverb",
     "gender": null,
@@ -942,12 +826,10 @@
     "example_en": "There is nowhere to park.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0468",
+    "id": "a2_0484",
     "german": "PC",
     "word_type": "abbreviation",
     "gender": null,
@@ -961,12 +843,10 @@
     "example_en": "My computer is already very old.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0469",
+    "id": "a2_0485",
     "german": "plötzlich",
     "word_type": "adverb",
     "gender": null,
@@ -979,12 +859,10 @@
     "example_en": "Suddenly the light was off.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0470",
+    "id": "a2_0486",
     "german": "pro",
     "word_type": "preposition",
     "gender": null,
@@ -997,12 +875,10 @@
     "example_en": "The room costs 100 euros per night.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0471",
+    "id": "a2_0487",
     "german": "schriftlich",
     "word_type": "adverb",
     "gender": null,
@@ -1017,12 +893,10 @@
     "example_en": "You must register in writing.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0472",
+    "id": "a2_0488",
     "german": "selbst",
     "word_type": "adverb",
     "gender": null,
@@ -1039,12 +913,10 @@
     "example_en": "You do not have to help me, I do it myself.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0473",
+    "id": "a2_0489",
     "german": "SMS",
     "word_type": "abbreviation",
     "gender": null,
@@ -1058,12 +930,10 @@
     "example_en": "I will send you a text message.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0474",
+    "id": "a2_0490",
     "german": "sogar",
     "word_type": "adverb",
     "gender": null,
@@ -1073,15 +943,13 @@
       "even"
     ],
     "example_de": "Heute ist es sehr kalt. In den Bergen schneit es sogar.",
-    "example_en": "It is even snowing in the mountains.",
+    "example_en": "Today it is very cold. In the mountains it snows.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0475",
+    "id": "a2_0491",
     "german": "sonst",
     "word_type": "adverb",
     "gender": null,
@@ -1095,12 +963,10 @@
     "example_en": "Would you like anything else? - No, thank you. That is all.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0476",
+    "id": "a2_0492",
     "german": "total",
     "word_type": "adverb",
     "gender": null,
@@ -1114,12 +980,10 @@
     "example_en": "The film is totally boring.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0477",
+    "id": "a2_0493",
     "german": "unbedingt",
     "word_type": "adverb",
     "gender": null,
@@ -1130,15 +994,13 @@
       "definitely"
     ],
     "example_de": "Ich muss unbedingt mit dir sprechen.",
-    "example_en": "I really must talk to you.",
+    "example_en": "I need to talk to you.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0478",
+    "id": "a2_0494",
     "german": "usw.",
     "word_type": "abbreviation",
     "gender": null,
@@ -1152,12 +1014,10 @@
     "example_en": "We need bread, milk, cheese, and so on.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0479",
+    "id": "a2_0495",
     "german": "viertens",
     "word_type": "adverb",
     "gender": null,
@@ -1171,12 +1031,10 @@
     "example_en": "Fourthly, I need a dictionary.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0480",
+    "id": "a2_0496",
     "german": "vorbei",
     "word_type": "adverb",
     "gender": null,
@@ -1190,12 +1048,10 @@
     "example_en": "Line 8 passes the hospital.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0481",
+    "id": "a2_0497",
     "german": "vorgestern",
     "word_type": "adverb",
     "gender": null,
@@ -1208,12 +1064,10 @@
     "example_en": "He called me the day before yesterday.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0482",
+    "id": "a2_0498",
     "german": "vorher",
     "word_type": "adverb",
     "gender": null,
@@ -1224,15 +1078,13 @@
       "beforehand"
     ],
     "example_de": "Ich komme mit ins Café. Vorher muss ich aber noch zur Bank.",
-    "example_en": "Before that, I have to go to the bank.",
+    "example_en": "I'm coming to the cafe. Before I have to go to the bank.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0483",
+    "id": "a2_0499",
     "german": "vorne",
     "word_type": "adverb",
     "gender": null,
@@ -1246,14 +1098,10 @@
     "example_en": "Please board at the front!",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": "hinten",
-    "accepted_antonyms": [
-      "hinten"
-    ]
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0484",
+    "id": "a2_0500",
     "german": "vorwärts",
     "word_type": "adverb",
     "gender": null,
@@ -1267,12 +1115,10 @@
     "example_en": "Please continue forward a little.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0485",
+    "id": "a2_0501",
     "german": "wahrscheinlich",
     "word_type": "adverb",
     "gender": null,
@@ -1286,12 +1132,10 @@
     "example_en": "Probably I will take a German course in autumn.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0486",
+    "id": "a2_0502",
     "german": "WC",
     "word_type": "abbreviation",
     "gender": null,
@@ -1306,12 +1150,10 @@
     "example_en": "Where is the restroom?",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0487",
+    "id": "a2_0503",
     "german": "weg",
     "word_type": "adverb",
     "gender": null,
@@ -1326,12 +1168,10 @@
     "example_en": "My glasses are gone. I cannot find them anymore.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0488",
+    "id": "a2_0504",
     "german": "wegen",
     "word_type": "preposition",
     "gender": null,
@@ -1344,12 +1184,10 @@
     "example_en": "Unfortunately he cannot come because of his work.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0489",
+    "id": "a2_0505",
     "german": "weil",
     "word_type": "conjunction",
     "gender": null,
@@ -1362,12 +1200,10 @@
     "example_en": "I cannot come because I have to work.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0490",
+    "id": "a2_0506",
     "german": "wem",
     "word_type": "pronoun",
     "gender": null,
@@ -1381,12 +1217,10 @@
     "example_en": "Who owns this sweater?",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0491",
+    "id": "a2_0507",
     "german": "wen",
     "word_type": "pronoun",
     "gender": null,
@@ -1400,12 +1234,10 @@
     "example_en": "Who are you calling?",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0492",
+    "id": "a2_0508",
     "german": "wenigstens",
     "word_type": "adverb",
     "gender": null,
@@ -1418,12 +1250,10 @@
     "example_en": "I'm not hungry. - Oh, eat at least a piece of cake.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0493",
+    "id": "a2_0509",
     "german": "wenn",
     "word_type": "conjunction",
     "gender": null,
@@ -1437,12 +1267,10 @@
     "example_en": "If I do not have to work, I'll come.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0494",
+    "id": "a2_0510",
     "german": "wieder",
     "word_type": "adverb",
     "gender": null,
@@ -1455,12 +1283,10 @@
     "example_en": "Stefan can return to football training.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0495",
+    "id": "a2_0511",
     "german": "wirklich",
     "word_type": "adverb",
     "gender": null,
@@ -1475,12 +1301,10 @@
     "example_en": "You do not believe me? But it really is.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0496",
+    "id": "a2_0512",
     "german": "zuerst",
     "word_type": "adverb",
     "gender": null,
@@ -1494,12 +1318,10 @@
     "example_en": "First you have to do the homework, then you can play.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0497",
+    "id": "a2_0513",
     "german": "zuletzt",
     "word_type": "adverb",
     "gender": null,
@@ -1513,12 +1335,10 @@
     "example_en": "We last saw each other three years ago.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0498",
+    "id": "a2_0514",
     "german": "zweitens",
     "word_type": "adverb",
     "gender": null,
@@ -1532,12 +1352,10 @@
     "example_en": "Secondly, the course is not far away.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0499",
+    "id": "a2_0515",
     "german": "überall",
     "word_type": "adverb",
     "gender": null,
@@ -1551,12 +1369,10 @@
     "example_en": "I've searched everywhere, but I cannot find my glasses.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0500",
+    "id": "a2_0516",
     "german": "übermorgen",
     "word_type": "adverb",
     "gender": null,
@@ -1567,237 +1383,9 @@
       "day after tomorrow"
     ],
     "example_de": "Morgen habe ich frei. Ich komme übermorgen wieder ins Büro.",
-    "example_en": "I'll be back in the office the day after tomorrow.",
+    "example_en": "Tomorrow I'm off. I'll be back in the office.",
     "topic": "communication",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0501",
-    "german": "obwohl",
-    "word_type": "conjunction",
-    "gender": null,
-    "plural": null,
-    "english": "although",
-    "accepted_answers": [
-      "although",
-      "even though"
-    ],
-    "example_de": "Obwohl es regnet, gehen wir spazieren.",
-    "example_en": "Although it is raining, we are going for a walk.",
-    "topic": "communication",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0502",
-    "german": "trotzdem",
-    "word_type": "adverb",
-    "gender": null,
-    "plural": null,
-    "english": "nevertheless",
-    "accepted_answers": [
-      "nevertheless",
-      "anyway",
-      "still"
-    ],
-    "example_de": "Es regnet, trotzdem gehen wir spazieren.",
-    "example_en": "It is raining, but we are going for a walk anyway.",
-    "topic": "communication",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0503",
-    "german": "ob",
-    "word_type": "conjunction",
-    "gender": null,
-    "plural": null,
-    "english": "whether",
-    "accepted_answers": [
-      "whether",
-      "if"
-    ],
-    "example_de": "Ich weiß nicht, ob er kommt.",
-    "example_en": "I don't know whether he is coming.",
-    "topic": "communication",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0504",
-    "german": "damit",
-    "word_type": "conjunction",
-    "gender": null,
-    "plural": null,
-    "english": "so that",
-    "accepted_answers": [
-      "so that",
-      "in order that"
-    ],
-    "example_de": "Ich lerne viel, damit ich die Prüfung bestehe.",
-    "example_en": "I study a lot so that I pass the exam.",
-    "topic": "communication",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0505",
-    "german": "sondern",
-    "word_type": "conjunction",
-    "gender": null,
-    "plural": null,
-    "english": "but rather",
-    "accepted_answers": [
-      "but rather",
-      "but instead"
-    ],
-    "example_de": "Er ist nicht krank, sondern müde.",
-    "example_en": "He is not sick, but rather tired.",
-    "topic": "communication",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0506",
-    "german": "während",
-    "word_type": "conjunction",
-    "gender": null,
-    "plural": null,
-    "english": "while",
-    "accepted_answers": [
-      "while",
-      "during"
-    ],
-    "example_de": "Während du kochst, decke ich den Tisch.",
-    "example_en": "While you cook, I will set the table.",
-    "topic": "communication",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0507",
-    "german": "bevor",
-    "word_type": "conjunction",
-    "gender": null,
-    "plural": null,
-    "english": "before",
-    "accepted_answers": [
-      "before"
-    ],
-    "example_de": "Bevor du gehst, ruf mich bitte an.",
-    "example_en": "Before you leave, please call me.",
-    "topic": "communication",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0508",
-    "german": "nachdem",
-    "word_type": "conjunction",
-    "gender": null,
-    "plural": null,
-    "english": "after",
-    "accepted_answers": [
-      "after"
-    ],
-    "example_de": "Nachdem wir gegessen haben, gehen wir ins Kino.",
-    "example_en": "After we have eaten, we are going to the cinema.",
-    "topic": "communication",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0509",
-    "german": "deswegen",
-    "word_type": "adverb",
-    "gender": null,
-    "plural": null,
-    "english": "therefore",
-    "accepted_answers": [
-      "therefore",
-      "that's why",
-      "for that reason"
-    ],
-    "example_de": "Ich bin krank, deswegen bleibe ich zu Hause.",
-    "example_en": "I am sick, that's why I am staying at home.",
-    "topic": "communication",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0510",
-    "german": "Gute Besserung!",
-    "word_type": "phrase",
-    "gender": null,
-    "plural": null,
-    "english": "get well soon",
-    "accepted_answers": [
-      "get well soon"
-    ],
-    "example_de": "Du bist krank? Gute Besserung!",
-    "example_en": "You are sick? Get well soon!",
-    "topic": "communication",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0511",
-    "german": "Herzlichen Glückwunsch!",
-    "word_type": "phrase",
-    "gender": null,
-    "plural": null,
-    "english": "congratulations",
-    "accepted_answers": [
-      "congratulations"
-    ],
-    "example_de": "Du hast die Prüfung bestanden? Herzlichen Glückwunsch!",
-    "example_en": "You passed the exam? Congratulations!",
-    "topic": "communication",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0512",
-    "german": "Viel Erfolg!",
-    "word_type": "phrase",
-    "gender": null,
-    "plural": null,
-    "english": "good luck",
-    "accepted_answers": [
-      "good luck",
-      "much success"
-    ],
-    "example_de": "Morgen ist deine Prüfung? Viel Erfolg!",
-    "example_en": "Your exam is tomorrow? Good luck!",
-    "topic": "communication",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   }
 ]

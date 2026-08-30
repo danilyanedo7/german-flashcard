@@ -5,7 +5,7 @@
   "official_word_group_items_examined": 230,
   "a1_overlaps_detected_and_excluded": 715,
   "source_variants_consolidated": 8,
-  "unique_a2_cards_added": 772,
+  "unique_a2_cards_added": 730,
   "manual_review_required": 0,
   "official_source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
   "official_source_access_date": "2026-08-30",
@@ -31,32 +31,32 @@
     {
       "topic": "common_actions_descriptions",
       "file": "a2_common_actions_descriptions.json",
-      "entries": 418
+      "entries": 434
     },
     {
       "topic": "communication",
       "file": "a2_communication.json",
-      "entries": 94
+      "entries": 82
     },
     {
       "topic": "food_drink",
       "file": "a2_food_drink.json",
-      "entries": 36
+      "entries": 2
     },
     {
       "topic": "health_body",
       "file": "a2_health_body.json",
-      "entries": 23
+      "entries": 18
     },
     {
       "topic": "home",
       "file": "a2_home.json",
-      "entries": 16
+      "entries": 12
     },
     {
       "topic": "leisure",
       "file": "a2_leisure.json",
-      "entries": 20
+      "entries": 19
     },
     {
       "topic": "nature_weather",
@@ -71,22 +71,22 @@
     {
       "topic": "shopping_services",
       "file": "a2_shopping_services.json",
-      "entries": 13
+      "entries": 14
     },
     {
       "topic": "time_numbers",
       "file": "a2_time_numbers.json",
-      "entries": 46
+      "entries": 47
     },
     {
       "topic": "travel_transport",
       "file": "a2_travel_transport.json",
-      "entries": 26
+      "entries": 25
     },
     {
       "topic": "work_education",
       "file": "a2_work_education.json",
-      "entries": 52
+      "entries": 49
     }
   ]
 }

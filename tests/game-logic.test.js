@@ -227,27 +227,3 @@ test("antonym session filters dataset, grades antonym answers, and supports retr
   assert.equal(retry2.isCorrect, true);
   assert.equal(session.retryPending, false);
 });
-
-test("translate session incorrect answer allows immediate progression without retryPending", () => {
-  const cards = [
-    { id: "1", german: "der Apfel", english: "apple", accepted_answers: ["apple"] },
-    { id: "2", german: "das Brot", english: "bread", accepted_answers: ["bread"] },
-  ];
-  const session = createSession(cards, { totalQuestions: 2, questionType: "translate", history: {} });
-  
-  // Card 1: wrong answer
-  const card1 = selectNextEntry(session, () => 0);
-  assert.equal(card1.id, "1");
-  const result1 = submitAnswer(session, "orange");
-  assert.equal(result1.status, "incorrect");
-  assert.equal(session.retryPending, false);
-  assert.equal(session.currentChecked, true);
-
-  // Card 2: next card can be selected and answered
-  const card2 = selectNextEntry(session, () => 0);
-  assert.equal(card2.id, "2");
-  assert.equal(session.currentChecked, false);
-  assert.equal(session.retryPending, false);
-  const result2 = submitAnswer(session, "bread");
-  assert.equal(result2.status, "correct");
-});

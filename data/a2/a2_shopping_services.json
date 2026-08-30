@@ -1,6 +1,22 @@
 [
   {
-    "id": "a2_0636",
+    "id": "a2_0596",
+    "german": "das Messer",
+    "word_type": "noun",
+    "gender": "neuter",
+    "plural": "die Messer",
+    "english": "knife",
+    "accepted_answers": [
+      "knife"
+    ],
+    "example_de": "Das Messer schneidet nicht gut.",
+    "example_en": "The knife doesn't cut well.",
+    "topic": "shopping_services",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0597",
     "german": "das Passwort",
     "word_type": "noun",
     "gender": "neuter",
@@ -13,12 +29,10 @@
     "example_en": "Please write your password.",
     "topic": "shopping_services",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0637",
+    "id": "a2_0598",
     "german": "das Produkt",
     "word_type": "noun",
     "gender": "neuter",
@@ -31,12 +45,10 @@
     "example_en": "Our products have a very high quality.",
     "topic": "shopping_services",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0638",
+    "id": "a2_0599",
     "german": "der Kredit",
     "word_type": "noun",
     "gender": "masculine",
@@ -47,15 +59,13 @@
       "credit"
     ],
     "example_de": "Ich brauche einen Kredit von der Bank.",
-    "example_en": "I need a loan from the bank.",
+    "example_en": "I need a credit from the bank.",
     "topic": "shopping_services",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0639",
+    "id": "a2_0600",
     "german": "der Service",
     "word_type": "noun",
     "gender": "masculine",
@@ -68,12 +78,10 @@
     "example_en": "I am very satisfied with the service at the garage.",
     "topic": "shopping_services",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0640",
+    "id": "a2_0601",
     "german": "der Vertrag",
     "word_type": "noun",
     "gender": "masculine",
@@ -86,31 +94,26 @@
     "example_en": "I have to sign the contract.",
     "topic": "shopping_services",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0641",
+    "id": "a2_0602",
     "german": "die Bewerbung",
     "word_type": "noun",
     "gender": "feminine",
     "plural": "die Bewerbungen",
     "english": "application",
     "accepted_answers": [
-      "application",
-      "job application"
+      "application"
     ],
     "example_de": "Kannst du mir bei meiner Bewerbung helfen?",
     "example_en": "Can you help me with my application?",
     "topic": "shopping_services",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0642",
+    "id": "a2_0603",
     "german": "die Geldbörse",
     "word_type": "noun",
     "gender": "feminine",
@@ -124,12 +127,10 @@
     "example_en": "She has lost her wallet.",
     "topic": "shopping_services",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0643",
+    "id": "a2_0604",
     "german": "die Kundin",
     "word_type": "noun",
     "gender": "feminine",
@@ -144,12 +145,10 @@
     "example_en": "One moment please. I have a customer.",
     "topic": "shopping_services",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0644",
+    "id": "a2_0605",
     "german": "die Messe",
     "word_type": "noun",
     "gender": "feminine",
@@ -164,12 +163,10 @@
     "example_en": "Are you coming to the book fair in Frankfurt?",
     "topic": "shopping_services",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0645",
+    "id": "a2_0606",
     "german": "die Qualität",
     "word_type": "noun",
     "gender": "feminine",
@@ -182,12 +179,10 @@
     "example_en": "This television is good quality.",
     "topic": "shopping_services",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0646",
+    "id": "a2_0607",
     "german": "die Reinigung",
     "word_type": "noun",
     "gender": "feminine",
@@ -202,12 +197,10 @@
     "example_en": "Will you please take the blouse to the dry cleaner's?",
     "topic": "shopping_services",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0647",
+    "id": "a2_0608",
     "german": "die Verkäuferin",
     "word_type": "noun",
     "gender": "feminine",
@@ -221,12 +214,10 @@
     "example_en": "The salesperson advises the customer.",
     "topic": "shopping_services",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0648",
+    "id": "a2_0609",
     "german": "die Webseite",
     "word_type": "noun",
     "gender": "feminine",
@@ -239,8 +230,6 @@
     "example_en": "There are many websites with grammar exercises.",
     "topic": "shopping_services",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   }
 ]

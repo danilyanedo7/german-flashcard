@@ -1,6 +1,6 @@
 [
   {
-    "id": "a2_0549",
+    "id": "a2_0519",
     "german": "das Gesicht",
     "word_type": "noun",
     "gender": "neuter",
@@ -13,12 +13,10 @@
     "example_en": "Please wash your face.",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0550",
+    "id": "a2_0520",
     "german": "das Krankenhaus",
     "word_type": "noun",
     "gender": "neuter",
@@ -31,12 +29,10 @@
     "example_en": "My aunt is in the hospital.",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0551",
+    "id": "a2_0521",
     "german": "das Medikament",
     "word_type": "noun",
     "gender": "neuter",
@@ -51,12 +47,10 @@
     "example_en": "Take this medicine three times a day!",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0552",
+    "id": "a2_0522",
     "german": "der Hals",
     "word_type": "noun",
     "gender": "masculine",
@@ -70,12 +64,10 @@
     "example_en": "My neck hurts.",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0553",
+    "id": "a2_0523",
     "german": "der Krankenpfleger / die Krankenschwester",
     "word_type": "noun",
     "gender": "masculine/feminine",
@@ -88,12 +80,10 @@
     "example_en": "The nurse works at the hospital.",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0554",
+    "id": "a2_0524",
     "german": "der Körper",
     "word_type": "noun",
     "gender": "masculine",
@@ -106,12 +96,10 @@
     "example_en": "The doctor says I have to do something for my body, like swimming or cycling.",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0555",
+    "id": "a2_0525",
     "german": "der Magen",
     "word_type": "noun",
     "gender": "masculine",
@@ -124,12 +112,10 @@
     "example_en": "My stomach hurts.",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0556",
+    "id": "a2_0526",
     "german": "der Schmerz",
     "word_type": "noun",
     "gender": "masculine",
@@ -143,12 +129,10 @@
     "example_en": "Do you have pain?",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0557",
+    "id": "a2_0527",
     "german": "der Zahn",
     "word_type": "noun",
     "gender": "masculine",
@@ -161,12 +145,10 @@
     "example_en": "The tooth has been hurting me for a week.",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0558",
+    "id": "a2_0528",
     "german": "die Angst",
     "word_type": "noun",
     "gender": "feminine",
@@ -180,12 +162,10 @@
     "example_en": "Have no fear!",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0559",
+    "id": "a2_0529",
     "german": "die Apotheke",
     "word_type": "noun",
     "gender": "feminine",
@@ -199,12 +179,10 @@
     "example_en": "You can get the medicine at the pharmacy.",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0560",
+    "id": "a2_0530",
     "german": "die Brille",
     "word_type": "noun",
     "gender": "feminine",
@@ -218,12 +196,10 @@
     "example_en": "Where are my glasses?",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0561",
+    "id": "a2_0531",
     "german": "die Doktorin",
     "word_type": "noun",
     "gender": "feminine",
@@ -236,12 +212,10 @@
     "example_en": "The doctor works at the hospital.",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0562",
+    "id": "a2_0532",
     "german": "die Gesundheit",
     "word_type": "noun",
     "gender": "feminine",
@@ -255,12 +229,10 @@
     "example_en": "Bless you! Do you have a cold?",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0563",
+    "id": "a2_0533",
     "german": "die Grippe",
     "word_type": "noun",
     "gender": "feminine",
@@ -274,12 +246,10 @@
     "example_en": "I have a flu and cannot come unfortunately.",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0564",
+    "id": "a2_0534",
     "german": "die Krankenkasse",
     "word_type": "noun",
     "gender": "feminine",
@@ -293,12 +263,10 @@
     "example_en": "Which health insurance provider are you with?",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0565",
+    "id": "a2_0535",
     "german": "die Krankheit",
     "word_type": "noun",
     "gender": "feminine",
@@ -312,12 +280,10 @@
     "example_en": "What disease does Mr. Brandner have?",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0566",
+    "id": "a2_0536",
     "german": "die Ärztin",
     "word_type": "noun",
     "gender": "feminine",
@@ -331,100 +297,6 @@
     "example_en": "The doctor examines me.",
     "topic": "health_body",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0567",
-    "german": "die Erkältung",
-    "word_type": "noun",
-    "gender": "feminine",
-    "plural": "die Erkältungen",
-    "english": "cold",
-    "accepted_answers": [
-      "cold"
-    ],
-    "example_de": "Ich habe eine Erkältung.",
-    "example_en": "I have a cold.",
-    "topic": "health_body",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0568",
-    "german": "der Schnupfen",
-    "word_type": "noun",
-    "gender": "masculine",
-    "plural": null,
-    "english": "runny nose",
-    "accepted_answers": [
-      "runny nose",
-      "cold",
-      "sniffles"
-    ],
-    "example_de": "Ich habe einen schlimmen Schnupfen.",
-    "example_en": "I have a bad runny nose.",
-    "topic": "health_body",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0569",
-    "german": "das Knie",
-    "word_type": "noun",
-    "gender": "neuter",
-    "plural": "die Knie",
-    "english": "knee",
-    "accepted_answers": [
-      "knee"
-    ],
-    "example_de": "Mir tut das Knie weh.",
-    "example_en": "My knee hurts.",
-    "topic": "health_body",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0570",
-    "german": "der Finger",
-    "word_type": "noun",
-    "gender": "masculine",
-    "plural": "die Finger",
-    "english": "finger",
-    "accepted_answers": [
-      "finger"
-    ],
-    "example_de": "Ich habe mir in den Finger geschnitten.",
-    "example_en": "I cut my finger.",
-    "topic": "health_body",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0571",
-    "german": "das Herz",
-    "word_type": "noun",
-    "gender": "neuter",
-    "plural": "die Herzen",
-    "english": "heart",
-    "accepted_answers": [
-      "heart"
-    ],
-    "example_de": "Das Herz schlägt schneller beim Sport.",
-    "example_en": "The heart beats faster during sports.",
-    "topic": "health_body",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": "a2_0621",
+    "id": "a2_0581",
     "german": "der Cousin",
     "word_type": "noun",
     "gender": "masculine",
@@ -13,12 +13,10 @@
     "example_en": "My cousin lives in Berlin.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0622",
+    "id": "a2_0582",
     "german": "der Ehepartner",
     "word_type": "noun",
     "gender": "masculine",
@@ -31,31 +29,26 @@
     "example_en": "This is my spouse.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0623",
+    "id": "a2_0583",
     "german": "der Enkel",
     "word_type": "noun",
     "gender": "masculine",
     "plural": "die Enkel",
     "english": "grandson",
     "accepted_answers": [
-      "grandson",
-      "grandchild"
+      "grandson"
     ],
     "example_de": "Mein Enkel geht schon zur Schule.",
     "example_en": "My grandson already goes to school.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0624",
+    "id": "a2_0584",
     "german": "der Luxemburger / die Luxemburgerin",
     "word_type": "noun",
     "gender": "masculine/feminine",
@@ -69,12 +62,10 @@
     "example_en": "The Luxembourger speaks German.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0625",
+    "id": "a2_0585",
     "german": "der Nachbar",
     "word_type": "noun",
     "gender": "masculine",
@@ -88,12 +79,10 @@
     "example_en": "My neighbor comes from Brazil.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0626",
+    "id": "a2_0586",
     "german": "der Onkel",
     "word_type": "noun",
     "gender": "masculine",
@@ -106,12 +95,10 @@
     "example_en": "My uncle lives in Hamburg.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0627",
+    "id": "a2_0587",
     "german": "der Schweizer / die Schweizerin",
     "word_type": "noun",
     "gender": "masculine/feminine",
@@ -125,12 +112,10 @@
     "example_en": "The Swiss woman is from Bern.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0628",
+    "id": "a2_0588",
     "german": "der Österreicher / die Österreicherin",
     "word_type": "noun",
     "gender": "masculine/feminine",
@@ -143,12 +128,10 @@
     "example_en": "The Austrian is from Vienna.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0629",
+    "id": "a2_0589",
     "german": "die Cousine",
     "word_type": "noun",
     "gender": "feminine",
@@ -161,12 +144,10 @@
     "example_en": "My cousin is visiting us this weekend.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0630",
+    "id": "a2_0590",
     "german": "die Enkelin",
     "word_type": "noun",
     "gender": "feminine",
@@ -179,12 +160,10 @@
     "example_en": "My granddaughter is six years old.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0631",
+    "id": "a2_0591",
     "german": "die Nachbarin",
     "word_type": "noun",
     "gender": "feminine",
@@ -198,12 +177,10 @@
     "example_en": "My neighbor is an Italian.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0632",
+    "id": "a2_0592",
     "german": "die Person",
     "word_type": "noun",
     "gender": "feminine",
@@ -216,12 +193,10 @@
     "example_en": "Admission is five euros per person.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0633",
+    "id": "a2_0593",
     "german": "die Tante",
     "word_type": "noun",
     "gender": "feminine",
@@ -234,12 +209,10 @@
     "example_en": "My aunt is visiting us on Sunday.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0634",
+    "id": "a2_0594",
     "german": "geschieden",
     "word_type": "adjective",
     "gender": null,
@@ -252,12 +225,10 @@
     "example_en": "He has been divorced for two years.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0635",
+    "id": "a2_0595",
     "german": "getrennt",
     "word_type": "adjective",
     "gender": null,
@@ -270,8 +241,6 @@
     "example_en": "My parents are separated.",
     "topic": "people_family",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   }
 ]

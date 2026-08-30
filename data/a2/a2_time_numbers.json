@@ -1,6 +1,6 @@
 [
   {
-    "id": "a2_0649",
+    "id": "a2_0610",
     "german": "abends",
     "word_type": "adverb",
     "gender": null,
@@ -14,12 +14,10 @@
     "example_en": "I like to read in the evenings.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0650",
+    "id": "a2_0611",
     "german": "am Wochenende",
     "word_type": "phrase",
     "gender": null,
@@ -33,12 +31,10 @@
     "example_en": "We are visiting friends at the weekend.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0651",
+    "id": "a2_0612",
     "german": "damals",
     "word_type": "adverb",
     "gender": null,
@@ -52,12 +48,10 @@
     "example_en": "As a student I had a lot of time and wanted to travel, but then I had no money.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0652",
+    "id": "a2_0613",
     "german": "das Mal",
     "word_type": "noun",
     "gender": "neuter",
@@ -67,15 +61,13 @@
       "time"
     ],
     "example_de": "Das erste Mal war ich vor fünf Jahren in England.",
-    "example_en": "The first time I was in England was five years ago.",
+    "example_en": "The first time I was in England five years ago.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0653",
+    "id": "a2_0614",
     "german": "der Arbeitstag",
     "word_type": "noun",
     "gender": "masculine",
@@ -89,12 +81,10 @@
     "example_en": "My workday starts at eight o'clock.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0654",
+    "id": "a2_0615",
     "german": "der Franken",
     "word_type": "noun",
     "gender": "masculine",
@@ -108,12 +98,10 @@
     "example_en": "That costs ten francs.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0655",
+    "id": "a2_0616",
     "german": "der Kalender",
     "word_type": "noun",
     "gender": "masculine",
@@ -123,15 +111,13 @@
       "calendar"
     ],
     "example_de": "Haben Sie am Montag Zeit? - Einen Moment, ich schaue in meinem Kalender.",
-    "example_en": "One moment, let me check my calendar.",
+    "example_en": "Do you have time on Monday? - One moment, I look in my calendar.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0656",
+    "id": "a2_0617",
     "german": "der Rappen",
     "word_type": "noun",
     "gender": "masculine",
@@ -145,12 +131,10 @@
     "example_en": "One franc is one hundred rappen.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0657",
+    "id": "a2_0618",
     "german": "der Werktag",
     "word_type": "noun",
     "gender": "masculine",
@@ -164,12 +148,10 @@
     "example_en": "The doctor's office is only open on weekdays.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0658",
+    "id": "a2_0619",
     "german": "die Mitternacht",
     "word_type": "noun",
     "gender": "feminine",
@@ -182,12 +164,10 @@
     "example_en": "The movie ends at midnight.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0659",
+    "id": "a2_0620",
     "german": "die Zahl",
     "word_type": "noun",
     "gender": "feminine",
@@ -200,12 +180,10 @@
     "example_en": "Can you repeat the number please?",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0660",
+    "id": "a2_0621",
     "german": "dienstags",
     "word_type": "adverb",
     "gender": null,
@@ -219,12 +197,10 @@
     "example_en": "I go swimming on Tuesdays.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0661",
+    "id": "a2_0622",
     "german": "donnerstags",
     "word_type": "adverb",
     "gender": null,
@@ -238,12 +214,10 @@
     "example_en": "She plays tennis on Thursdays.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0662",
+    "id": "a2_0623",
     "german": "dreimal",
     "word_type": "adverb",
     "gender": null,
@@ -256,12 +230,10 @@
     "example_en": "Take the tablet three times a day.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0663",
+    "id": "a2_0624",
     "german": "dritte",
     "word_type": "adjective",
     "gender": null,
@@ -274,12 +246,10 @@
     "example_en": "We live on the third floor.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0664",
+    "id": "a2_0625",
     "german": "eine Million",
     "word_type": "number",
     "gender": null,
@@ -293,12 +263,10 @@
     "example_en": "The city has one million residents.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0665",
+    "id": "a2_0626",
     "german": "einundzwanzig",
     "word_type": "number",
     "gender": null,
@@ -312,12 +280,10 @@
     "example_en": "The course has twenty-one participants.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0666",
+    "id": "a2_0627",
     "german": "erste",
     "word_type": "adjective",
     "gender": null,
@@ -330,12 +296,10 @@
     "example_en": "She was the first person at the finish.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0667",
+    "id": "a2_0628",
     "german": "freitags",
     "word_type": "adverb",
     "gender": null,
@@ -349,12 +313,10 @@
     "example_en": "We go to the movies on Fridays.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0668",
+    "id": "a2_0629",
     "german": "Grad Celsius",
     "word_type": "phrase",
     "gender": null,
@@ -368,12 +330,10 @@
     "example_en": "It is ten degrees Celsius today.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0669",
+    "id": "a2_0630",
     "german": "hunderteins",
     "word_type": "number",
     "gender": null,
@@ -387,12 +347,10 @@
     "example_en": "The book has one hundred and one pages.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0670",
+    "id": "a2_0631",
     "german": "Karneval",
     "word_type": "proper noun",
     "gender": null,
@@ -405,12 +363,10 @@
     "example_en": "We celebrate Carnival in February.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0671",
+    "id": "a2_0632",
     "german": "mal",
     "word_type": "adverb",
     "gender": null,
@@ -425,12 +381,26 @@
     "example_en": "Tell me, what do you think of my new dress?",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0672",
+    "id": "a2_0633",
+    "german": "malen",
+    "word_type": "verb",
+    "gender": null,
+    "plural": null,
+    "english": "paint",
+    "accepted_answers": [
+      "paint"
+    ],
+    "example_de": "Mein Sohn kann gut malen.",
+    "example_en": "My son can paint well.",
+    "topic": "time_numbers",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0634",
     "german": "manchmal",
     "word_type": "adverb",
     "gender": null,
@@ -443,12 +413,10 @@
     "example_en": "Sometimes we eat in the restaurant.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0673",
+    "id": "a2_0635",
     "german": "mittags",
     "word_type": "adverb",
     "gender": null,
@@ -462,12 +430,10 @@
     "example_en": "I eat in the cafeteria at noon.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0674",
+    "id": "a2_0636",
     "german": "mittwochs",
     "word_type": "adverb",
     "gender": null,
@@ -481,12 +447,10 @@
     "example_en": "I work from home on Wednesdays.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0675",
+    "id": "a2_0637",
     "german": "montags",
     "word_type": "adverb",
     "gender": null,
@@ -500,12 +464,10 @@
     "example_en": "I have German class on Mondays.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0676",
+    "id": "a2_0638",
     "german": "morgens",
     "word_type": "adverb",
     "gender": null,
@@ -519,12 +481,10 @@
     "example_en": "I drink coffee in the mornings.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0677",
+    "id": "a2_0639",
     "german": "nachmittags",
     "word_type": "adverb",
     "gender": null,
@@ -538,12 +498,10 @@
     "example_en": "I do my homework in the afternoons.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0678",
+    "id": "a2_0640",
     "german": "nachts",
     "word_type": "adverb",
     "gender": null,
@@ -557,12 +515,10 @@
     "example_en": "It is quiet here at night.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0679",
+    "id": "a2_0641",
     "german": "Neujahr",
     "word_type": "proper noun",
     "gender": null,
@@ -576,12 +532,10 @@
     "example_en": "Many stores are closed on New Year's Day.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0680",
+    "id": "a2_0642",
     "german": "Ostern",
     "word_type": "proper noun",
     "gender": null,
@@ -594,12 +548,10 @@
     "example_en": "We visit our family at Easter.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0681",
+    "id": "a2_0643",
     "german": "samstags",
     "word_type": "adverb",
     "gender": null,
@@ -613,12 +565,10 @@
     "example_en": "I shop at the market on Saturdays.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0682",
+    "id": "a2_0644",
     "german": "Silvester",
     "word_type": "proper noun",
     "gender": null,
@@ -631,12 +581,10 @@
     "example_en": "We celebrate with friends on New Year's Eve.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0683",
+    "id": "a2_0645",
     "german": "sonntags",
     "word_type": "adverb",
     "gender": null,
@@ -650,12 +598,10 @@
     "example_en": "We visit my parents on Sundays.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0684",
+    "id": "a2_0646",
     "german": "tagsüber",
     "word_type": "adverb",
     "gender": null,
@@ -669,12 +615,10 @@
     "example_en": "I am at work during the day.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0685",
+    "id": "a2_0647",
     "german": "täglich",
     "word_type": "adverb",
     "gender": null,
@@ -688,12 +632,10 @@
     "example_en": "The bus runs every day.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0686",
+    "id": "a2_0648",
     "german": "um Mitternacht",
     "word_type": "phrase",
     "gender": null,
@@ -706,12 +648,10 @@
     "example_en": "The train leaves at midnight.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0687",
+    "id": "a2_0649",
     "german": "viermal",
     "word_type": "adverb",
     "gender": null,
@@ -724,12 +664,10 @@
     "example_en": "The bus runs four times a day.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0688",
+    "id": "a2_0650",
     "german": "vierte",
     "word_type": "adjective",
     "gender": null,
@@ -742,12 +680,10 @@
     "example_en": "The fourth task is difficult.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0689",
+    "id": "a2_0651",
     "german": "vormittags",
     "word_type": "adverb",
     "gender": null,
@@ -761,12 +697,10 @@
     "example_en": "I am at the office before noon.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0690",
+    "id": "a2_0652",
     "german": "Weihnachten",
     "word_type": "proper noun",
     "gender": null,
@@ -779,12 +713,10 @@
     "example_en": "We visit my parents at Christmas.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0691",
+    "id": "a2_0653",
     "german": "zweihundert",
     "word_type": "number",
     "gender": null,
@@ -797,12 +729,10 @@
     "example_en": "The hotel has two hundred rooms.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0692",
+    "id": "a2_0654",
     "german": "zweimal",
     "word_type": "adverb",
     "gender": null,
@@ -816,12 +746,10 @@
     "example_en": "I train twice a week.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0693",
+    "id": "a2_0655",
     "german": "zweitausendeins",
     "word_type": "number",
     "gender": null,
@@ -835,12 +763,10 @@
     "example_en": "He was born in the year two thousand and one.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0694",
+    "id": "a2_0656",
     "german": "zweite",
     "word_type": "adjective",
     "gender": null,
@@ -853,8 +779,6 @@
     "example_en": "This is my second attempt.",
     "topic": "time_numbers",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   }
 ]

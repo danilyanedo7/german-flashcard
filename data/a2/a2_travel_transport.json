@@ -1,6 +1,6 @@
 [
   {
-    "id": "a2_0695",
+    "id": "a2_0657",
     "german": "das Schiff",
     "word_type": "noun",
     "gender": "neuter",
@@ -14,12 +14,10 @@
     "example_en": "We take the boat from Basel to Cologne.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0696",
+    "id": "a2_0658",
     "german": "das Verkehrsmittel",
     "word_type": "noun",
     "gender": "neuter",
@@ -32,12 +30,10 @@
     "example_en": "Which means of transport do you use often?",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0697",
+    "id": "a2_0659",
     "german": "das Zelt",
     "word_type": "noun",
     "gender": "neuter",
@@ -50,12 +46,10 @@
     "example_en": "In the summer we sometimes sleep in the tent.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0698",
+    "id": "a2_0660",
     "german": "das Ziel",
     "word_type": "noun",
     "gender": "neuter",
@@ -70,12 +64,10 @@
     "example_en": "John runs very fast. He was the first to reach the finish.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0699",
+    "id": "a2_0661",
     "german": "der Fahrplan",
     "word_type": "noun",
     "gender": "masculine",
@@ -89,12 +81,10 @@
     "example_en": "Is this the new timetable?",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0700",
+    "id": "a2_0662",
     "german": "der Flug",
     "word_type": "noun",
     "gender": "masculine",
@@ -107,12 +97,10 @@
     "example_en": "I would like to book a flight to Canada.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0701",
+    "id": "a2_0663",
     "german": "der Führerschein",
     "word_type": "noun",
     "gender": "masculine",
@@ -125,31 +113,26 @@
     "example_en": "Do you have a driving license?",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0702",
+    "id": "a2_0664",
     "german": "der Reifen",
     "word_type": "noun",
     "gender": "masculine",
     "plural": "die Reifen",
     "english": "tire",
     "accepted_answers": [
-      "tire",
-      "tyre"
+      "tire"
     ],
     "example_de": "Ich brauche neue Reifen für mein Auto.",
     "example_en": "I need new tires for my car.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0703",
+    "id": "a2_0665",
     "german": "der Rucksack",
     "word_type": "noun",
     "gender": "masculine",
@@ -162,12 +145,10 @@
     "example_en": "I'd rather take a backpack than a suitcase.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0704",
+    "id": "a2_0666",
     "german": "der Stadtplan",
     "word_type": "noun",
     "gender": "masculine",
@@ -181,12 +162,10 @@
     "example_en": "Do you have a map of Salzburg?",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0705",
+    "id": "a2_0667",
     "german": "der Strand",
     "word_type": "noun",
     "gender": "masculine",
@@ -199,12 +178,10 @@
     "example_en": "On holiday I prefer the beach.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0706",
+    "id": "a2_0668",
     "german": "der Tourist",
     "word_type": "noun",
     "gender": "masculine",
@@ -218,12 +195,10 @@
     "example_en": "In the summer many tourists come to this city.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0707",
+    "id": "a2_0669",
     "german": "der Unfall",
     "word_type": "noun",
     "gender": "masculine",
@@ -236,12 +211,10 @@
     "example_en": "I had an accident yesterday.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0708",
+    "id": "a2_0670",
     "german": "der Verkehr",
     "word_type": "noun",
     "gender": "masculine",
@@ -254,12 +227,10 @@
     "example_en": "In the morning there is always plenty of traffic.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0709",
+    "id": "a2_0671",
     "german": "der Wagen",
     "word_type": "noun",
     "gender": "masculine",
@@ -274,12 +245,28 @@
     "example_en": "Where is your car?",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0710",
+    "id": "a2_0672",
+    "german": "die Ausbildung",
+    "word_type": "noun",
+    "gender": "feminine",
+    "plural": "die Ausbildungen",
+    "english": "vocational training",
+    "accepted_answers": [
+      "vocational training",
+      "training",
+      "apprenticeship"
+    ],
+    "example_de": "Ich möchte eine Ausbildung zum Krankenpfleger machen.",
+    "example_en": "I would like to train as a nurse.",
+    "topic": "travel_transport",
+    "source": "Goethe A2",
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
+  },
+  {
+    "id": "a2_0673",
     "german": "die Fahrerin",
     "word_type": "noun",
     "gender": "feminine",
@@ -292,12 +279,10 @@
     "example_en": "The driver is waiting in the car.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0711",
+    "id": "a2_0674",
     "german": "die Schweiz",
     "word_type": "proper noun",
     "gender": null,
@@ -310,12 +295,10 @@
     "example_en": "Bern is in Switzerland.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0712",
+    "id": "a2_0675",
     "german": "die Tour",
     "word_type": "noun",
     "gender": "feminine",
@@ -329,12 +312,10 @@
     "example_en": "Where can I book a city tour?",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0713",
+    "id": "a2_0676",
     "german": "die Touristin",
     "word_type": "noun",
     "gender": "feminine",
@@ -348,32 +329,26 @@
     "example_en": "The tourist is wearing a beautiful dress.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0714",
+    "id": "a2_0677",
     "german": "die Unterkunft",
     "word_type": "noun",
     "gender": "feminine",
     "plural": "die Unterkünfte",
     "english": "accommodation",
     "accepted_answers": [
-      "accommodation",
-      "lodging",
-      "place to stay"
+      "accommodation"
     ],
     "example_de": "Ich suche noch eine Unterkunft in Basel. Kennst du ein günstiges Hotel?",
     "example_en": "I'm looking for a place to stay in Basel. Do you know a cheap hotel?",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0715",
+    "id": "a2_0678",
     "german": "die Verspätung",
     "word_type": "noun",
     "gender": "feminine",
@@ -386,12 +361,10 @@
     "example_en": "Our train unfortunately has a 15 minute delay.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0716",
+    "id": "a2_0679",
     "german": "ICE",
     "word_type": "abbreviation",
     "gender": null,
@@ -405,12 +378,10 @@
     "example_en": "We are taking the high-speed train to Berlin.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0717",
+    "id": "a2_0680",
     "german": "Luxemburg",
     "word_type": "proper noun",
     "gender": null,
@@ -423,12 +394,10 @@
     "example_en": "Luxembourg is in Europe.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   },
   {
-    "id": "a2_0718",
+    "id": "a2_0681",
     "german": "Österreich",
     "word_type": "proper noun",
     "gender": null,
@@ -441,46 +410,6 @@
     "example_en": "Vienna is in Austria.",
     "topic": "travel_transport",
     "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0719",
-    "german": "der Stau",
-    "word_type": "noun",
-    "gender": "masculine",
-    "plural": "die Staus",
-    "english": "traffic jam",
-    "accepted_answers": [
-      "traffic jam"
-    ],
-    "example_de": "Auf der Autobahn gibt es einen Stau.",
-    "example_en": "There is a traffic jam on the highway.",
-    "topic": "travel_transport",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
-  },
-  {
-    "id": "a2_0720",
-    "german": "die Tankstelle",
-    "word_type": "noun",
-    "gender": "feminine",
-    "plural": "die Tankstellen",
-    "english": "gas station",
-    "accepted_answers": [
-      "gas station",
-      "petrol station",
-      "filling station"
-    ],
-    "example_de": "Wir müssen noch zur Tankstelle fahren.",
-    "example_en": "We still have to go to the gas station.",
-    "topic": "travel_transport",
-    "source": "Goethe A2",
-    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf",
-    "antonym": null,
-    "accepted_antonyms": null
+    "source_url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf"
   }
 ]
